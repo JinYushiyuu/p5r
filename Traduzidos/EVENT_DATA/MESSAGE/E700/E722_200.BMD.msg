@@ -59,7 +59,7 @@
 [s]Eu estarei lá para ajudá-lo.[e]
 
 [msg MSG_014_0_0 [Sumire]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57186 65535 0]Sim! Eu serei o Sumire[n]Yoshizawa mais forte de todos![n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57186 65535 0]Sim! Eu serei a Sumire[n]Yoshizawa mais forte de todos![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Sumire]]
 [s][vp 8 2 0 57165 65535 0]Este...é o meu poder...[n][f 1 3 65535][w][e]

@@ -449,10 +449,10 @@
 [s][f 0 4 128]Ele está morrendo de fome![n][e]
 
 [msg jyokyohelp_SET_BAD_SUIMI]
-[s][f 0 4 128]É no mundo dos sonhos...[n][e]
+[s][f 0 4 128]Foi para o mundo dos sonhos...[n][e]
 
 [msg jyokyohelp_SET_BAD_SUIMI_2]
-[s][f 0 4 128]É na terra dos sonhos![n][e]
+[s][f 0 4 128]Foi para a terra dos sonhos![n][e]
 
 [msg jyokyohelp_SET_BAD_GEKID]
 [s][f 0 4 128]Ele sai em disparada…[n][e]

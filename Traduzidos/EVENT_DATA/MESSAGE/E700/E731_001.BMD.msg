@@ -1498,7 +1498,7 @@
 
 [msg MSG_369_0_0 [Prof. Inui]]
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hokusai costumava se mudar, mas[n]ele mudou seu nome várias[n]vezes em sua vida. Pelo menos trinta.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Seu único interesse era a arte,[n]portanto, ele vivia na pobreza e[n]squalor, vestindo roupas esfarrapadas.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Seu único interesse era a arte,[n]portanto, ele vivia na pobreza e[n]miséria, vestindo roupas esfarrapadas.[n][f 1 3 65535][w][e]
 
 [msg MSG_370_0_0 [Prof. Inui]]
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Na verdade, até a casa de Madarame[n]era modesta.[n][f 1 3 65535][w][e]

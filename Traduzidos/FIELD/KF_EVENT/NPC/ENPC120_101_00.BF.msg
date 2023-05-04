@@ -1,6 +1,6 @@
 [msg MSG_000_0_0 [Professor de meia idade]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 37062 850 0]E então você é aquele novo[n]aluno problemático.[n][w][e]
-[s][vp 8 2 1 0 850 0]E mesmo tarde, já no primeiro[n]dia. Você gosta de criar[n]problemas na escola?[n][w][e]
+[s][vp 8 2 1 0 850 0]Atrasado, já no primeiro[n]dia. Você gosta de criar[n]problemas na escola?[n][w][e]
 
 [sel SEL_001_0_0 top]
 [s]...[e]

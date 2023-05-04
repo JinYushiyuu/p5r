@@ -281,7 +281,7 @@
 [s][vp 1 0 0 0 0 0]Aqui eu não tenho que fazer nada[n]em particular...[n][w][e]
 
 [msg MND_E12010100_CHK_School_2]
-[s][vp 1 0 0 0 0 0]É a loja da escola.[n]O pão que vendem aqui[n]tanto faz...[n][w][e]
+[s][vp 1 0 0 0 0 0]É a loja da escola.[n]Nenhum pão que vendem aqui[n]particularmente me interessa...[n][w][e]
 
 [msg MSG_E13710100_CHK_School_2 [Ryuji]]
 [s][bup 0 2 200 65535 0][f 4 10 65535 0 0][vp 8 2 1 7194 65535 0]Vamos, da próxima vez eu vou pegar alguma coisa[n]para você! Agora temos que ir para sua aula.[n][w][e]

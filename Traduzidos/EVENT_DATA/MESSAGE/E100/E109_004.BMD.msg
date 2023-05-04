@@ -25,7 +25,7 @@
 
 [msg MSG_009_0_0 [Homem de terno e gravata]]
 [s][vp 8 0 0 10 4 0]Está havendo muitos acidentes[n]graves ultimamente.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 11 4 0]Sabe, estou me referindo ao acidente[n]no metrô que[n]está falando no noticiário...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 11 4 0]Sabe, estou me referindo ao acidente[n]no metrô que[n]estão falando no noticiário...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 12 4 0]Um colega meu estava[n]envolvido e agora está no hospital...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_5_0 [Homem de terno e gravata]]

@@ -89,3 +89,10 @@ Sleep = Sono
 
 Lugares:
 Batting Cages = Gaiolas de Tênis
+
+Dificuldades:
+Safe = Seguro 
+Easy = Fácil 
+Normal = Normal 
+Hard = Difícil
+Merciless = Impiedoso

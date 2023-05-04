@@ -76,7 +76,7 @@
 
 [msg MND_E12010100_NG_BLDGA2F]
 [s][vp 1 0 0 0 0 0]Parece que daqui você[n]vai em direção a outro prédio.[n][w][e]
-[s][vp 1 0 0 0 0 0]A sala dos professores deve[n]estar em [clr 2]este edifício[clr 27].[n][w][e]
+[s][vp 1 0 0 0 0 0]A sala dos professores deve[n]estar [clr 2]neste edifício[clr 27].[n][w][e]
 
 [msg MSG_E13710100_NG_BLDGA2F [Ryuji]]
 [s][bup 0 2 203 0 0][f 4 10 65535 0 0][vp 8 2 1 7021 65535 0]De lá você vai para as oficinas de construção.[n]Temos que chegar à sala da classe D.[n][w][e]
@@ -92,7 +92,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ei, onde você está indo?[n]Não deveríamos perseguir[n]aquela borboleta?[n][w][e]
 
 [msg MND_E12010100_NG_BldgA2F]
-[s][vp 1 0 0 0 0 0]A sala dos professores deve ser[n]on [clr 2]neste andar[clr 27].[n][w][e]
+[s][vp 1 0 0 0 0 0]A sala dos professores deve ser[n][clr 2]neste andar[clr 27].[n][w][e]
 
 [msg MSG_E14710101_NG_BldgA2F [Ryuji]]
 [s][bup 0 2 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 7167 65535 0]Ei, onde você pensa que está indo?!?[n]Temos que correr[n]para o pátio![n][w][e]

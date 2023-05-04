@@ -72,7 +72,7 @@
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]...Eu me pergunto se há uma maneira[n]de voltar para aquele castelo...[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Sakamoto]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 301 1][vp 8 0 0 27 65535 0]Ei, esqueça. Deve[n]foi tudo um sonho! Claro![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 301 1][vp 8 0 0 27 65535 0]Ei, esqueça isso. Deve ter sido[n]tudo um sonho! Tem que ter sido![n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Sakamoto]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Desculpe por arrastá-lo até aqui.[n]Não tenho mais nada a dizer.[n][f 1 3 65535][w][e]

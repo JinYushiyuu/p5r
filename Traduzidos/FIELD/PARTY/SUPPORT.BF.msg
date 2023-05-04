@@ -9533,7 +9533,7 @@
 [s][vp 1 0 0 6566 0 0]Cuidado, Mona![n]Estamos todos contando com você![n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes567]
-[s][vp 1 0 0 6567 0 0]Você é uma grande ajuda, Mona.[n]Obrigado.[n][f 1 6 65535][e]
+[s][vp 1 0 0 6567 0 0]Você será de grande ajuda, Mona.[n]Obrigado.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes568]
 [s][vp 1 0 0 6568 0 0]Olhos que iluminam a escuridão...[n]É algo incrível.[n][f 1 6 65535][e]

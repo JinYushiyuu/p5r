@@ -412,7 +412,7 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_101_01_ [Aluno fofoqueiro]]
-[s][vp 9 2 65535 42512 0 0]Aparentemente, temos um senpai criminoso do[n]segundo ano ...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42512 0 0]Aparentemente, temos um senpai[n]criminoso do segundo ano...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_101_02_ [Aluno fofoqueiro]]
 [s][vp 9 2 65535 42812 0 0]Se os rumores na net forem verdadeiros,[n]não me sinto seguro indo[n]para a mesma escola dele...[n][f 1 2 180][e]

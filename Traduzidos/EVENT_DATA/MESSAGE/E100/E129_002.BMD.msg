@@ -85,11 +85,11 @@
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Você acredita?[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Mas eu sei como voltar[n]minha aparência original.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Mas eu sei como voltar[n]para minha forma original.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Eu entrei aqui[n]apenas para realizar[n]uma investigação sobre isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_5_0 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Bem, no final eu[n]sou pego, infelizmente...[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Bem, no final eu[n]fui pego, infelizmente...[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]A propósito, eu também fui[n]torturado por Kamoshida![n][f 1 3 65535][w][e]

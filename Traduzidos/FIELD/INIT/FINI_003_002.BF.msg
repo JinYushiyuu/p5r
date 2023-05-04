@@ -233,13 +233,13 @@
 [s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sim Sim. Todos eles dizem isso[n]quando são pegos.[n][w][e]
 
 [msg MSG_E126101_003_01 [Sojiro]]
-[s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem quando eu estava começando a pensar[n]que estava indo direto.[n][w][e]
+[s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem quando eu estava começando a pensar[n]que estava indo bem...[n][w][e]
 
 [msg MSG_E126101_003_02 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu não te disse para não criar problemas?[n][w][e]
 
 [msg MSG_E126101_004_00 [Sojiro]]
-[s][bup 0 103 5 0 0][f 4 10 65535 0 0][f 4 23 1 816 2 10 0 0][vp 8 2 1 0 65535 0]Olha, apenas tente mantê-lo em linha reta.[n][w][e]
+[s][bup 0 103 5 0 0][f 4 10 65535 0 0][f 4 23 1 816 2 10 0 0][vp 8 2 1 0 65535 0]Olha, apenas tente se manter na linha.[n][w][e]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Basta um acidente para arruinar seu futuro. Você[n]sabe que está em liberdade condicional, certo?[n][w][e]
 
 [sel SEL_E126101_005_00 top]

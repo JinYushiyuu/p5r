@@ -17,10 +17,10 @@
 [s][f 5 14]Mas não posso falar com mais ninguém[n]sobre essas coisas.[n][f 5 15][w][e]
 
 [msg CHAT_REACTION_MSG [Makoto]]
-[s][f 5 14]Obrigado, você é uma grande ajuda.[n]Quando tiver um momento, pare na[n]sala do conselho estudantil.[n][f 5 15][w][e]
+[s][f 5 14]Obrigado, você será de grande ajuda.[n]Quando tiver um momento, pare na[n]sala do conselho estudantil.[n][f 5 15][w][e]
 
 [msg CHAT_REACTION_02 [Makoto]]
-[s][f 5 14]Obrigado, você é uma grande ajuda.[n]Quando você tiver um momento, pare na[n]sala do conselho estudantil.[n][w][e]
+[s][f 5 14]Obrigado, você será de grande ajuda.[n]Quando você tiver um momento, pare na[n]sala do conselho estudantil.[n][w][e]
 
 [msg CHAT_REACTION_03 [Makoto]]
 [s][f 5 14]Você não deve ter problemas[n]para entrar por trás.[n][f 5 15][w][e]

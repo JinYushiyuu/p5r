@@ -15,6 +15,6 @@
 
 [msg D01_02_e129_010_mes06 [Ryuji]]
 [s][bup 0 2 3 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 6 0 0]Aqui, uh... desculpe se eu[n]arrastei você para esta história...[n][w][e]
-[s][bup 0 2 2 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 7 0 0]Mas eu não posso perdoar aquele[n]bastardo Kamoshida por ter[n]sempre deixado seus porcos confortáveis![n][w][e]
-[s][bup 0 2 1 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 8 0 0]Não, sério, obrigado por estar[n]aqui. Eu devo-te uma![n][w][e]
+[s][bup 0 2 2 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 7 0 0]Mas eu não posso perdoar aquele[n]bastardo do Kamoshida por ter[n]sempre deixado seus porcos confortáveis![n][w][e]
+[s][bup 0 2 1 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 8 0 0]Não, sério, obrigado por estar[n]aqui. Eu te devo uma![n][w][e]
 

@@ -14,7 +14,7 @@
 [s][bup 0 2 4 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7041 65535 0]Mas o que...?!?[n][w][e]
 
 [msg D01_02_e129_101_mes03 [Ryuji]]
-[s][bup 0 2 4 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu só tive as visões...[n]Aquele era o Shujin?!?[n][w][e]
+[s][bup 0 2 4 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Só eu tive essa visão...?[n]Aquela era a Shujin?!?[n][w][e]
 
 [msg D01_02_e129_101_mes04 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu te disse.[n]Estamos na sua escola.[n][w][e]

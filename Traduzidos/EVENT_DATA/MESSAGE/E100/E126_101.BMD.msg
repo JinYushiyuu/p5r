@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Sojiro]]
-[s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Ei, a escola ligou.[n][f 1 3 65535][w][e]
+[s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Ei, me ligaram da escola.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Você perdeu metade[n]do primeiro dia de aula.[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
@@ -11,13 +11,13 @@
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Sim, sim... Todos dizem isso[n]quando são pegos.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Sojiro]]
-[s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Ugh, bem quando eu estava começando a[n]pensar que estava indo direto.[n][f 1 3 65535][w][e]
+[s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Ugh, bem quando eu estava começando a[n]pensar que estava indo bem...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Eu não disse para você[n]não criar problemas?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Sojiro]]
-[s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Olha, apenas tente mantê-lo reto.[n][f 1 3 65535][w][e]
+[s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Olha, apenas tente se manter na linha.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Um passo em falso e sua vida[n]vai desmoronar. Você sabe o que[n]"provação" significa, não é?[n][f 1 3 65535][w][e]
 
 [sel SEL_006_0_0 top]

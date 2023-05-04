@@ -20,7 +20,7 @@
 
 [msg MSG_005_0_0 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 7 6 0]Você não precisa entender[n]tudo ainda.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 8 6 0]Você terá que treinar o[n]poder da Pessoa que[n]acabou de despertar.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 8 6 0]Você terá que treinar o[n]poder da Persona que[n]acabou de despertar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 24 6 0]Personas nada mais são do que[n]máscaras: uma armadura do coração para[n]enfrentar os problemas do mundo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 9 6 0]Espero muito de você.[n][f 1 3 65535][w][e]
 
@@ -58,7 +58,7 @@
 
 [msg MSG_013_0_0 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 19 6 0]Você se sentirá desencorajado por ser[n]o único que pode usar o[n]Metaverse Navigator.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 20 6 0]Se houver outros que[n]provou ser útil para sua causa,[n]eu concederei a eles também.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 20 6 0]Se houver outros que[n]provarem ser úteis para sua causa,[n]eu concederei a eles também.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 21 6 0]Tudo isso ajudará você a se tornar o mais[n]habilidoso dos ladrões...[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Caroline]]

@@ -823,7 +823,7 @@
 [s]Parece o lugar perfeito[n]para mergulhar totalmente[n]na leitura.[n][w][e]
 
 [msg MSG_TABLE_Book_SojiroGoH [Sojiro]]
-[s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 2 1 5020 65535 0]Hum? Você precisa usar locale[n]para alguma coisa?[n][w][e]
+[s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 2 1 5020 65535 0]Hum? Você precisa usar a loja[n]para alguma coisa?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 5053 65535 0]Bem...[n]Não deixe bagunça.[n]Estou indo para casa.[n][w][e]
 
 [msg MSG_TABLE_Book_SojiroGoH_2 [Sojiro]]

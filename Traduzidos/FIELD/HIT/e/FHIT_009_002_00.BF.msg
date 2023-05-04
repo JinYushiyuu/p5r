@@ -410,7 +410,7 @@
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Estou começando a ficar tonto.[n]Essa coisa é perigosa![n][w][e]
 
 [msg MSG_SPIN_DRIER]
-[s]Entendi algumas roupas girando[n]dentro.[n][w][e]
+[s]Há algumas roupas girando[n]dentro.[n][w][e]
 
 [msg MSG_CLINIC_YET_OPEN]
 [s]Este lugar parece uma clínica.[n][w][e]
@@ -756,7 +756,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1187 0 0]Podemos fazer isso então?[n]Primeiro temos que encontrar[n]informações sobre Futaba.[n][w][e]
 
 [msg MND_E10410100_NG_RECYCLE]
-[s][vp 1 0 0 0 0 0]O proprietário não está aqui no momento. O sinal[n]diz "Pausado".[n][w][e]
+[s][vp 1 0 0 0 0 0]O proprietário não está aqui no momento. A placa[n]diz "Fechado".[n][w][e]
 [s][vp 1 0 0 0 0 0]Este lugar também lida com eletrônicos. Talvez eu[n]pudesse comprar algo barato.[n][w][e]
 
 [msg MND_E10920100_NG_RECYCLE]
@@ -863,7 +863,7 @@
 [s][vp 1 0 0 0 0 0]Esta máquina de lavar é bastante[n]suja. Talvez seja porque foi[n]usado por algum tempo.[n][w][e]
 
 [msg MND_E10410100_SPINDRIER_]
-[s][vp 1 0 0 0 0 0]Entendi algumas roupas girando[n]dentro.[n][w][e]
+[s][vp 1 0 0 0 0 0]Há algumas roupas girando[n]dentro.[n][w][e]
 
 [msg MSG_E79310100_SPINDRIER_ [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]O que você está fazendo?[n][w][e]

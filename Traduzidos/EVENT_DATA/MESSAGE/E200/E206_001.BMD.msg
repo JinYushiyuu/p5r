@@ -105,7 +105,7 @@
 [s][bup 0 203 6 0 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]É falso... Sim, é falsificado![n]Ouvi dizer que estava em[n]circulação, então comprei![n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Ann]]
-[s][bup 0 4 800 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Você está dizendo que o artista original da obra[n]comprou uma falsificação? Isso não é muito[n]crível...[n][f 1 3 65535][w][e]
+[s][bup 0 4 800 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Você está dizendo que o artista original da obra[n]comprou uma falsificação? Isso é meio[n]forçado...[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Yusuke]]
 [s][bup 0 5 2 2 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Você está mentindo, Sensei...[n][f 1 3 65535][w][e]

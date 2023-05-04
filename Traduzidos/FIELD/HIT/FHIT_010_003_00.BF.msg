@@ -27,8 +27,8 @@
 
 [sel SEL_VelvetEnd top]
 [s]Tenho que falar com o Igor.[e]
-[s]Eu quero voltar.[e]
-[s]Ainda tenho que fazer aqui...[e]
+[s]Eu quero ir embora.[e]
+[s]Ainda tenho o que fazer aqui...[e]
 
 [msg MSG_VelvetEndOrGohome_Q__2 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 1 11036 65535 0]Então agora o que você vai fazer?[n][w][e]

@@ -8,7 +8,7 @@
 [s]Um modo em que você identifica[n]fraquezas e encadeia o Relay[n]para obter a pontuação mais alta.[n][e]
 
 [msg msg_cbs_mode_help_003]
-[s]Um modo avançado onde você inflige[n]doenças negativas e acertos técnicos[n]para obter a pontuação mais alta.[n][e]
+[s]Um modo avançado onde você inflige[n]efeitos negativos e acertos técnicos[n]para obter a pontuação mais alta.[n][e]
 
 [msg msg_cbs_mode_help_004]
 [s]Um modo especialista para resistir[n]aos ataques ferozes do inimigo para obter a[n]maior pontuação.[n][e]

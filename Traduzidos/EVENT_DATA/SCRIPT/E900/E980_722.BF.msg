@@ -60,7 +60,7 @@
 
 [msg MSG_722_200_15 [Sumire]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Obrigado![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Farei o meu melhor para ser[n]o Sumire[n]Yoshizawa mais forte de todos os tempos![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Farei o meu melhor para ser[n]a Sumire[n]Yoshizawa mais forte de todos os tempos![n][f 1 3 65535][w][e]
 
 [msg MSG_722_200_16 [Sumire]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Este...é o meu poder...[n][f 1 3 65535][w][e]

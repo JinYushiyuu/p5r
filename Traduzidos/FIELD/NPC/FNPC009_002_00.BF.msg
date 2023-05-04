@@ -191,7 +191,7 @@
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Eu disse ao chefe, mas nada parece[n]mudar...[n][w][e]
 
 [msg MSG_ROUKENTOSYOJYO_kf_00 [Garota que ama cachorros]]
-[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Houve outro...[n]inci... incidente?[n]Entendi um policial ali.[n][w][e]
+[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Houve outro...[n]inci... incidente?[n]Eu vejo um policial ali.[n][w][e]
 
 [msg MSG_ROUKENTOSYOJYO_kf_00_2 [Mãe de aparência gentil]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Oh, ele está lá apenas para garantir que[n]todos estejam seguros.[n][w][e]
@@ -1452,7 +1452,7 @@
 [s][vp 8 2 65535 0 0 0]Com a economia em crise e as pessoas[n]envelhecendo, há futuro[n]para a próxima geração?[n][w][e]
 
 [msg MSG_RADIONEWS_001_2_0 [Velhote]]
-[s][f 4 23 1 2 14 10 13 10][vp 8 2 1 0 2 0]Umpf, não me alimente com essas besteiras da[n]próxima geração. Você só está atrás de nós,[n]velhos.[n][w][e]
+[s][f 4 23 1 2 14 10 13 10][vp 8 2 1 0 2 0]Hmph, não me venha com essa bobagem de "próxima[n]geração". Você[n]está apenas se juntando a nós, velhos.[n][w][e]
 
 [msg MSG_RADIONEWS_002_0_0 [Velhote]]
 [s][f 4 23 1 2 14 10 13 10][vp 8 2 1 0 2 0]Hum? Você estava ouvindo?[n][w][e]

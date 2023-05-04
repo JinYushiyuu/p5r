@@ -2,15 +2,15 @@
 [s]VAZIO[n][w][e]
 
 [msg msg_combine_PERSONA001 [Metatron]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]O poder do Chanceler do[n]Heaven será sua máscara e[n]cairá sobre o exército das trevas.[n][w][e]
 
 [msg msg_combine_PERSONA002 [Belzebù]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Meus poderes demoníacos se tornarão sua nova máscara e mostrarão a todos o verdadeiro inferno![n][w][e]
 
 [msg msg_combine_PERSONA003 [Cu Chulainn]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Minha lança mágica fará chover sangue. Eu serei sua máscara![n][w][e]
 
 [msg msg_combine_PERSONA004 [Jack-o'-Lantern]]
@@ -30,27 +30,27 @@
 [s]Eu me torno sua máscara. Me[n]guia você para o outro mundo.[n][w][e]
 
 [msg msg_combine_PERSONA008 [Lilim]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu deixarei o reino dos[n]sonhos por um tempo e me tornarei sua máscara...[n][w][e]
 
 [msg msg_combine_PERSONA009 [Eligor]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu serei sua nova máscara. Deixe[n] começar os dias de amor e guerra.[n][w][e]
 
 [msg msg_combine_PERSONA010 [Odino]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Este poder pelo qual troquei[n] meu olho será a máscara[n] que irá guiá-lo na batalha.[n][w][e]
 
 [msg msg_combine_PERSONA011 [Hua Po]]
-[s]Eles são... [clr 1][var 1][clr 27]![n][w][e]
+[s]Eu sou... [clr 1][var 1][clr 27]![n][w][e]
 [s]Pelo bem daqueles que andam entre os vivos, eu me tornarei sua máscara...[n][w][e]
 
 [msg msg_combine_PERSONA012 [Decarabia]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]O poder do meu corpo estelar[n] se tornará sua nova máscara.[n][w][e]
 
 [msg msg_combine_PERSONA013 [Mara]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]É inútil para você escondê-los de mim.[n]Seus desejos ocultos são[n]apenas mais uma de suas máscaras.[n][w][e]
 
 [msg msg_combine_PERSONA014 [Ose]]
@@ -58,7 +58,7 @@
 [s]Neste mundo suspenso entre a[n]razão e a loucura, serei sua[n]máscara. Seu guia.[n][w][e]
 
 [msg msg_combine_PERSONA015 [Thor]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]O poder do meu martelo reside[n]agora em sua máscara.[n][w][e]
 
 [msg msg_combine_PERSONA016 [Unicorno]]
@@ -66,27 +66,27 @@
 [s]Eu me torno sua máscara e protege[n]das coisas que não são puras.[n][w][e]
 
 [msg msg_combine_PERSONA017 [Uriel]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu, o executor da justiça,[n]serei sua máscara.[n][w][e]
 
 [msg msg_combine_PERSONA018 [Sarasvati]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]A melodia do coração... se tornará[n]sua máscara, para sempre...[n][w][e]
 
 [msg msg_combine_PERSONA019 [Valchiria]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]A coragem de enfrentar[n]até a morte[n]agora se tornará parte de sua máscara![n][w][e]
 
 [msg msg_combine_PERSONA020 [Yaksini]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu me tornarei sua máscara[n]e consumirei todos os que[n]opõem a você...[n][w][e]
 
 [msg msg_combine_PERSONA021 [Ganesha]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Minha máscara é sua. A partir de agora[n]a sorte estará sempre com você![n][w][e]
 
 [msg msg_combine_PERSONA022 [Anubis]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu me tornarei uma máscara e trarei[n] serenidade para sua bela alma.[n][w][e]
 
 [msg msg_combine_PERSONA023 [Mot]]
@@ -94,19 +94,19 @@
 [s]Anseio por uma batalha com minha[n] perdição em perigo... Portanto, eu irei[n] juntar-me a você como uma nova máscara...[n][w][e]
 
 [msg msg_combine_PERSONA024 [Raphael]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Serei uma máscara e aliviarei[n]suas feridas, sejam elas físicas[n]ou mentais.[n][w][e]
 
 [msg msg_combine_PERSONA025 [Scathach]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu me tornarei sua nova máscara[n]e disciplinarei sua alma.[n][w][e]
 
 [msg msg_combine_PERSONA026 [Pixie superiore]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eles não me chamam de "superior" Pixie[n] por nada! Eu me tornarei sua máscara[n]e mostrarei o porquê![n][w][e]
 
 [msg msg_combine_PERSONA027 [Barong]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Como sua nova máscara, eu[n]irei protegê-lo de todas as calamidades.[n][w][e]
 
 [msg msg_combine_PERSONA028 [Girimehkala]]
@@ -118,19 +118,19 @@
 [s]Agora seus inimigos são meus,[n] oh! Eu vou virar uma máscara e[n] transformá-los em cubos, oh![n][w][e]
 
 [msg msg_combine_PERSONA030 [Narciso]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Ao se fundir com minha máscara,[n]você obteve a face da verdadeira[n]beleza. Interiores e exteriores.[n][w][e]
 
 [msg msg_combine_PERSONA031 [Iside]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Você é quem reside no[n]trono deste mundo... Minha[n]máscara é o testemunho disso.[n][w][e]
 
 [msg msg_combine_PERSONA032 [Lamia]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
-[s]Eles são as chamas da vingança...[n]Aqueles que se opõem a nós serão queimados[n]pelo fogo de sua nova máscara.[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou as chamas da vingança...[n]Aqueles que se opõem a nós serão queimados[n]pelo fogo de sua nova máscara.[n][w][e]
 
 [msg msg_combine_PERSONA033 [Legione]]
-[s]Estamos [clr 1][var 1][clr 27]...[n][w][e]
+[s]Nos somos [clr 1][var 1][clr 27]...[n][w][e]
 [s]O grande poder do meu exército[n] derramou em sua máscara.[n][w][e]
 
 [msg msg_combine_PERSONA034 [Rakshasa]]
@@ -138,11 +138,11 @@
 [s]Eu serei sua máscara.[n]Vamos começar imediatamente o cântico[n]da destruição.[n][w][e]
 
 [msg msg_combine_PERSONA035 [Mokoi]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu sou a alma da sua sombra...[n]É por isso que me tornarei[n]sua máscara...[n][w][e]
 
 [msg msg_combine_PERSONA036 [Forneus]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Agora que sou sua máscara, as melodias[n]ocultas ressoarão para você...[n][w][e]
 
 [msg msg_combine_PERSONA037 [Setanta]]
@@ -150,7 +150,7 @@
 [s]Se alguém se atrever a impedi-lo,[n]eu o sufocarei com prazer.[n][w][e]
 
 [msg msg_combine_PERSONA038 [Titania]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu me tornarei sua máscara. Vamos aproveitar[n]este sonho de verão.[n][w][e]
 
 [msg msg_combine_PERSONA039 [Incubo]]
@@ -158,15 +158,15 @@
 [s]Agora que vivo em sua máscara,[n]você nunca mais fechará[n]olho![n][w][e]
 
 [msg msg_combine_PERSONA040 [Oni]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Agora que somos camaradas,[n]vou devorar qualquer um que tentar[n]ficar em nosso caminho![n][w][e]
 
 [msg msg_combine_PERSONA041 [Lilith]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]De agora em diante serei sua[n]máscara... Será uma[n]noite inesquecível...[n][w][e]
 
 [msg msg_combine_PERSONA042 [Rangda]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu serei sua máscara, ok?[n]Apenas tente não morrer em cima de mim![n][w][e]
 
 [msg msg_combine_PERSONA043 [Makami]]
@@ -174,15 +174,15 @@
 [s]Eu me torno sua máscara e[n]ulula para os inimigos![n][w][e]
 
 [msg msg_combine_PERSONA044 [Parvati]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu serei sua máscara e darei a você uma bênção tão grande quanto uma montanha colossal.[n][w][e]
 
 [msg msg_combine_PERSONA045 [Gabriel]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Como sua máscara, eu declaro o nascimento de seu novo poder...[n][w][e]
 
 [msg msg_combine_PERSONA046 [Zaou-Gongen]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Vou emprestar-lhe o poder de três[n] deuses. Serei mais uma de suas[n]máscaras ferozes...[n][w][e]
 
 [msg msg_combine_PERSONA047 [Alice]]
@@ -190,15 +190,15 @@
 [s]Hehehe! Acredito que serei sua[n]máscara. Você vai jogar comigo, certo?[n][w][e]
 
 [msg msg_combine_PERSONA048 [Kali]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Com esta máscara, você detém minha fúria incontrolável![n][w][e]
 
 [msg msg_combine_PERSONA049 [Kurama Tengu]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Aparentemente agora eu sou sua[n]máscara. Eu realmente acredito que vou[n]treiná-lo como eu quiser.[n][w][e]
 
 [msg msg_combine_PERSONA050 [Oberon]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Suponho que não estou relutante[n]em lhe emprestar o poder[n]do rei das fadas...[n][w][e]
 
 [msg msg_combine_PERSONA051 [Shiki-Ouji]]
@@ -214,11 +214,11 @@
 [s]Eu serei sua máscara e revelarei a você[n]a verdade sobre o futuro pelo qual você anseia.[n][w][e]
 
 [msg msg_combine_PERSONA054 [Hanuman]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Graças à máscara, o poder da[n]minha técnica fina é seu![n][w][e]
 
 [msg msg_combine_PERSONA055 [Arcangelo]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Como portador da máscara,[n]você tem o direito legítimo[n]minha bênção.[n][w][e]
 
 [msg msg_combine_PERSONA056 [Obariyon]]
@@ -226,15 +226,15 @@
 [s]Contanto que você tenha essa máscara,[n]eu vou te proteger, chefe![n][w][e]
 
 [msg msg_combine_PERSONA057 [Regina Mab]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Portador da minha máscara,[n]logo você entenderá o verdadeiro[n]poder da rainha das fadas...[n][w][e]
 
 [msg msg_combine_PERSONA058 [Sandalphon]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Como portador da minha máscara,[n]suas orações me dão força.[n]Venha, vamos lutar lado a lado.[n][w][e]
 
 [msg msg_combine_PERSONA059 [Abaddon]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]O vórtice do abismo está à[n]sua disposição...[n][w][e]
 
 [msg msg_combine_PERSONA060 [Shiisaa]]
@@ -246,27 +246,27 @@
 [s]Possuir essa máscara[n]torna você especial. Esta noite,[n]vou conceder-lhe belos sonhos![n][w][e]
 
 [msg msg_combine_PERSONA062 [Belial]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Quer você lute ou caia...[n]i, sua máscara, estarei[n]ao seu lado...[n][w][e]
 
 [msg msg_combine_PERSONA063 [Leanan Sidhe]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu nunca vou deixar você sozinho. Essa[n]máscara é a prova disso... Ihihih![n][w][e]
 
 [msg msg_combine_PERSONA064 [Cibele]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Se você me enganar, eu vou esfolá-lo vivo. Eu sou sua máscara[n]agora... Prepare-se.[n][w][e]
 
 [msg msg_combine_PERSONA065 [Chernobog]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Deixe-se corromper pelo meu dark[n]power... Nada será impossível para você,[n]portador da minha máscara.[n][w][e]
 
 [msg msg_combine_PERSONA066 [Flauros]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Serei sua máscara de fogo.[n]Graças aos meus poderes, você examinará[n]o passado e o futuro...[n][w][e]
 
 [msg msg_combine_PERSONA067 [Ippon-Datara]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]A máscara é sua. Isso faz de[n]eu seu guardião...![n][w][e]
 
 [msg msg_combine_PERSONA068 [Orthrus]]
@@ -274,7 +274,7 @@
 [s]Você tem uma máscara, você é o mestre.[n] Meu fiel cão de guarda![n][w][e]
 
 [msg msg_combine_PERSONA069 [Succube]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Você me quer tanto que[n]transformou-me em uma máscara?[n]Como você deseja, o coração não pode ser controlado.[n][w][e]
 
 [msg msg_combine_PERSONA070 [Mothman]]
@@ -285,11 +285,11 @@
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA072 [Dominazione]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]O poder sagrado de aniquilar[n]a escuridão agora é um[n]com sua máscara...[n][w][e]
 
 [msg msg_combine_PERSONA073 [Nekomata]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Se você cuidar da[n]máscara, cumprirei o acordo.[n][w][e]
 
 [msg msg_combine_PERSONA074 [Frost Nero]]
@@ -301,23 +301,23 @@
 [s]Você também abomina a obediência cega?[n]Então vamos continuar juntos...[n][w][e]
 
 [msg msg_combine_PERSONA076 [Angelo]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu serei sua máscara.[n]Vamos hastear no céu infinito[n]a bandeira da justiça.[n][w][e]
 
 [msg msg_combine_PERSONA077 [Skadi]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu nasci da escuridão do seu[n]coração para lhe dar o poder...[n]Venha, pegue minha máscara...[n][w][e]
 
 [msg msg_combine_PERSONA078 [Kikuri-Hime]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu serei sua máscara e irei[n]acompanhá-lo ao longo da fronteira entre a[n]vida e a morte...[n][w][e]
 
 [msg msg_combine_PERSONA079 [Chi You]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Ao usar esta máscara, você ganhará o poder de inventar uma infinidade de armas destrutivas.[n][w][e]
 
 [msg msg_combine_PERSONA080 [Potestà]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu me tornarei um com a máscara[n]e protegerei você com minha vida,[n]como um escudo de ferro perfeito.[n][w][e]
 
 [msg msg_combine_PERSONA081 [Inugami]]
@@ -325,7 +325,7 @@
 [s]Se você deseja vingança, ficarei feliz[n]em realizar seu desejo...[n]Agora coloque minha máscara...[n][w][e]
 
 [msg msg_combine_PERSONA082 [Nebiros]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu me tornarei sua nova máscara e[n]controlarei seu destino...[n][w][e]
 
 [msg msg_combine_PERSONA083 [RISERVA]]
@@ -340,11 +340,11 @@
 [s]Você tem minha máscara. Tudo o que temos a fazer é buscar o topo juntos...[n][w][e]
 
 [msg msg_combine_PERSONA086 [Yatagarasu]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Você vê essa aura nobre?[n]Nesse caso, eu me tornarei sua[n]máscara e o guiarei... Vamos.[n][w][e]
 
 [msg msg_combine_PERSONA087 [Yoshitsune]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Vejo que você sabe sobre minhas[n]brilhantes façanhas. Alegre-se, pois gentilmente me tornarei sua máscara.[n][w][e]
 
 [msg msg_combine_PERSONA088 [Take-Minakata]]
@@ -352,19 +352,19 @@
 [s]Eu serei sua nova máscara e[n]libertarei seu coração das correntes[n]que aprisionam seu poder...[n][w][e]
 
 [msg msg_combine_PERSONA089 [Ame-no-Uzume]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu serei seu novo rosto. Agora[n]vem, vamos apreciar a melodia[n]que desperta o verdadeiro poder.[n][w][e]
 
 [msg msg_combine_PERSONA090 [Kushinada]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu me tornarei sua máscara liberando[n]o poder imaculado escondido[n]pela sua forma mortal...[n][w][e]
 
 [msg msg_combine_PERSONA091 [Kumbhanda]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Aparentemente agora eu pertenço a você.[n]Eu posso liberar a ira enterrada[n]nesta alma não consagrada![n][w][e]
 
 [msg msg_combine_PERSONA092 [Ongyo-ki]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Parece que você pode me ver...[n]Exatamente o que eu espero de[n]aquele que usa minha máscara.[n][w][e]
 
 [msg msg_combine_PERSONA093 [Kin-Ki]]
@@ -376,11 +376,11 @@
 [s]Um poder imparável agora é seu[n]junto com a nova máscara.[n][w][e]
 
 [msg msg_combine_PERSONA095 [Fuu-Ki]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Serei uma de suas máscaras e[n]agirei como se fosse uma tempestade[n]que torce seu coração...[n][w][e]
 
 [msg msg_combine_PERSONA096 [Jatayu]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu me sacrificarei de bom grado para[n] ajudá-lo. Se isso lhe trouxer glória,[n]serei sua nova máscara.[n][w][e]
 
 [msg msg_combine_PERSONA097 [Kaiwan]]
@@ -396,11 +396,11 @@
 [s]Eu serei sua nova máscara e[n] liberarei seu poder oculto.[n][w][e]
 
 [msg msg_combine_PERSONA100 [Dioniso]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu vou ficar ao seu lado como uma[n]máscara. Vamos, mostre-me[n]como você se transforma na batalha![n][w][e]
 
 [msg msg_combine_PERSONA101 [Apsaras]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Permita-me liberar as verdadeiras[n] emoções do seu coração. Eu posso[n] fazer isso como sua nova máscara...[n][w][e]
 
 [msg msg_combine_PERSONA102 [Andras]]
@@ -411,7 +411,7 @@
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA104 [Koropokguru]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Então, agora que sou sua máscara,[n]ficaremos juntos para sempre?[n]Melhor não relaxar.[n][w][e]
 
 [msg msg_combine_PERSONA105 [Koppa Tengu]]
@@ -464,19 +464,19 @@
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA121 [Mandragora]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Você conhece a flor mortal[n] que cresce em seu coração? Sou eu![n]Não deixe essa máscara murchar![n][w][e]
 
 [msg msg_combine_PERSONA122 [Baal]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu te ofereço, mestre das almas,[n]esta máscara que dá chuva e[n]fertilidade em abundância à terra.[n][w][e]
 
 [msg msg_combine_PERSONA123 [Dakini]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Ei, você na nova máscara![n]Deixe-me liberar o poder[n]do seu coração![n][w][e]
 
 [msg msg_combine_PERSONA124 [Silky]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Você que obteve uma nova máscara, meu mestre... Deixe-me cuidar do seu coração.[n][w][e]
 
 [msg msg_combine_PERSONA125 [Babau]]
@@ -492,7 +492,7 @@
 [s]Motivos impuros são minha[n]força! Aqui, cuide[n]desta máscara para mim![n][w][e]
 
 [msg msg_combine_PERSONA128 [Mithras]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Você que pegou a máscara...[n]eu me tornarei um raio de esperança[n]no fundo do seu coração.[n][w][e]
 
 [msg msg_combine_PERSONA129 [Sudama]]
@@ -520,11 +520,11 @@
 [s]Você parece deliciosa, mas talvez,[n]por ser sua máscara,[n]eu possa desistir de te comer.[n][w][e]
 
 [msg msg_combine_PERSONA135 [Melchizedek]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Como sou sua nova[n]máscara, protegerei sua[n]justiça com todas as minhas forças.[n][w][e]
 
 [msg msg_combine_PERSONA136 [Baphomet]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu acredito que vou me tornar sua máscara. Seremos uma bomba![n][w][e]
 
 [msg msg_combine_PERSONA137 [Raja Naga]]
@@ -532,7 +532,7 @@
 [s]O poder do meu clã agora está infundido em sua máscara![n][w][e]
 
 [msg msg_combine_PERSONA138 [Naga]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Agora sou sua máscara, então[n]você pode contar comigo. Como seria[n]a previsão do tempo...[n][w][e]
 
 [msg msg_combine_PERSONA139 [Garuda]]
@@ -540,23 +540,23 @@
 [s]Eu serei sua máscara e farei seu coração ascender ao mais alto planalto celestial.[n][w][e]
 
 [msg msg_combine_PERSONA140 [Moloch]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Sua alma ficará vermelha[n]graças ao meu fogo infernal.[n]Vamos, pegue a máscara.[n][w][e]
 
 [msg msg_combine_PERSONA141 [Norna]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Para você com a máscara...[n]desejo o melhor.[n][w][e]
 
 [msg msg_combine_PERSONA142 [Belphegor]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Você é um menino, não é? Nesse caso, não tenho motivos para não me tornar sua máscara e me juntar a você.[n][w][e]
 
 [msg msg_combine_PERSONA143 [Berith]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Não tenha medo, mestre das almas.[n]Eu lhe dou minha lealdade,[n]como sua nova máscara.[n][w][e]
 
 [msg msg_combine_PERSONA144 [Choronzon]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Acreditando que outra pessoa poderia[n]convocar-me... Bem, o poder maligno[n]desta máscara agora é seu.[n][w][e]
 
 [msg msg_combine_PERSONA145 [RISERVA]]
@@ -578,11 +578,11 @@
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA151 [Nigi Mitama]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]A bondade é uma bênção.[n]Serei sua máscara[n]e darei paz à sua alma.[n][w][e]
 
 [msg msg_combine_PERSONA152 [Kushi Mitama]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Vou restaurar o vigor do seu corpo.[n]Vamos, vamos revelar a[n]natureza misteriosa deste mundo![n][w][e]
 
 [msg msg_combine_PERSONA153 [Ara Mitama]]
@@ -590,69 +590,69 @@
 [s]enlouquecer! A selvageria é meu verdadeiro[n] poder! Grave minha ira selvagem em seu rosto![n][w][e]
 
 [msg msg_combine_PERSONA154 [Saki Mitama]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Amor e compaixão são tudo na vida. Eu serei sua máscara[n]e levarei você à paixão.[n][w][e]
 
 [msg msg_combine_PERSONA155 [RISERVA]]
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA156 [Shiva]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Mostrarei a você os poderes do caos[n]e do renascimento. Vamos usar essa[n]máscara e dançar juntos...[n][w][e]
 
 [msg msg_combine_PERSONA157 [Michael]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Em nome de sua luz interior,[n]eu serei sua máscara.[n][w][e]
 
 [msg msg_combine_PERSONA158 [Asura]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Minha luz destrutiva fará[n]parte de sua máscara[n]e o capacitará.[n][w][e]
 
 [msg msg_combine_PERSONA159 [Mada]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Esta fonte infinita de poder...[n]que pode engolir o universo...[n]se tornará sua máscara...[n][w][e]
 
 [msg msg_combine_PERSONA160 [La Meretrice]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Impureza é beleza, beleza é[n]força e força é você. Eu sou a rainha impura, sua máscara.[n][w][e]
 
 [msg msg_combine_PERSONA161 [Cloto]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Reme e reme, o fio do[n]destino... Eu sou a máscara[n]que pode escrutinar seu passado...[n][w][e]
 
 [msg msg_combine_PERSONA162 [Lachesi]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]O fio do destino está em minhas[n]mãos... Eu sou a máscara[n]que estabelece seu futuro.[n][w][e]
 
 [msg msg_combine_PERSONA163 [Atropo]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Está cortado, o fio do[n]destino. Eu sou a máscara que[n]acompanhará você até o fim.[n][w][e]
 
 [msg msg_combine_PERSONA164 [Ardha]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Você ganhou a força de todo o universo. Vamos nos alegrar juntos,[n] você e eu.[n][w][e]
 
 [msg msg_combine_PERSONA165 [RISERVA]]
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA166 [Vishnu]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Preserve o universo, expulse o mal. Eu sou a manifestação[n] do seu coração, sua máscara.[n][w][e]
 
 [msg msg_combine_PERSONA167 [Hariti]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Serei uma máscara afetuosa que[n] cuidará de você. Como uma mãe[n]que cuida de seu filho frágil.[n][w][e]
 
 [msg msg_combine_PERSONA168 [Yurlungur]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu dou à sua máscara[n] um poder que pode unir[n] os céus e a terra.[n][w][e]
 
 [msg msg_combine_PERSONA169 [Hecatoncheires]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]As cem mãos, emergidas[n]vitoriosas de batalhas sem fim,[n]estão agora infundidas em sua máscara![n][w][e]
 
 [msg msg_combine_PERSONA170 [Satanael]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Você mataria os deuses para proteger a justiça em que acredita? Bem,[n]eu serei sua máscara novamente.[n][w][e]
 
 [msg msg_combine_PERSONA171 [RISERVA]]
@@ -686,7 +686,7 @@
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA181 [Orfeo]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Você quer que isso se torne sua máscara?[n]Ok, vamos revelar juntos[n]o verdadeiro significado da vida.[n][w][e]
 
 [msg msg_combine_PERSONA182 [Thanatos]]
@@ -708,7 +708,7 @@
 [s]Eu sou [clr 1][var 1][clr 27].[n]Sua luz nunca se apagará,[n]enquanto eu estiver ao seu lado.[n][w][e]
 
 [msg msg_combine_PERSONA186 [Arianna]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu sou a divindade que o conduzirá à vitória, servindo-lhe como[n]sua nova máscara![n][w][e]
 
 [msg msg_combine_PERSONA187 [Asterius]]
@@ -716,19 +716,19 @@
 [s]Serei sua máscara? Eheheh![n]Muito bom, mas se você baixar[n]a guarda, eu vou te esmagar![n][w][e]
 
 [msg msg_combine_PERSONA188 [Tsukiyomi]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Loucura na minha mão direita,[n] tenacidade na minha esquerda. Então,[n]quem devo destruir primeiro?[n][w][e]
 
 [msg msg_combine_PERSONA189 [Messia]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]A partir de agora seremos uma[n]uma coisa, você e eu...[n][w][e]
 
 [msg msg_combine_PERSONA190 [Messia Picaro]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Ao me tornar a[n]máscara do Trapaceiro, concordo em viver[n]ao seu lado para sempre...[n][w][e]
 
 [msg msg_combine_PERSONA191 [Orfeo Picaro]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Você quer que eu seja a máscara do[n]Trapaceiro, hein? Ok, acho que posso ajudá-lo a fazer um nome para si mesmo.[n][w][e]
 
 [msg msg_combine_PERSONA192 [Thanatos Picaro]]
@@ -750,7 +750,7 @@
 [s]Eu sou [clr 1][var 1][clr 27].[n]Sua luz nunca se apagará,[n]enquanto eu estiver ao seu lado.[n][w][e]
 
 [msg msg_combine_PERSONA196 [Arianna Picaro]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Lute, Trapaceiro-san![n]Eu me tornarei uma máscara e[n]seguirei você aonde quer que você vá![n][w][e]
 
 [msg msg_combine_PERSONA197 [Asterius Picaro]]
@@ -758,7 +758,7 @@
 [s]E então o Trapaceiro me quer como[n]sua máscara? Eu estou bem com isso.[n]Eu vou destruir qualquer um que estiver no seu caminho![n][w][e]
 
 [msg msg_combine_PERSONA198 [Tsukiyomi Picaro]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Estou me tornando a máscara do[n]Trapaceiro? Bem, vou semear[n] dor como meu costume![n][w][e]
 
 [msg msg_combine_PERSONA199 [RISERVA]]
@@ -930,11 +930,11 @@
 [s]Aquele que transcende a desolação[n]do coração... De acordo com a aliança,[n]eu me tornarei sua máscara.[n][w][e]
 
 [msg msg_combine_PERSONA254 [Kohryu]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]O poder de mover a criação[n] agora se tornará sua máscara.[n][w][e]
 
 [msg msg_combine_PERSONA255 [Okuninushi]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Minha espada, meu arco... O que forjou esta terra agora é seu, em sua máscara.[n][w][e]
 
 [msg msg_combine_PERSONA256 [RISERVA]]
@@ -947,33 +947,33 @@
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA259 [Futsunushi]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu sou o deus das espadas que um dia conquistou esta terra.[n] Eu vou temperar a lâmina do seu coração.[n][w][e]
 
 [msg msg_combine_PERSONA260 [Futsunushi]]
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA261 [Seth]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]E então você quer o poder de matar,[n]mesmo que os outros o odeiem? Em caso afirmativo, guarde-me sua máscara.[n][w][e]
 
 [msg msg_combine_PERSONA262 [Ishtar]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Aceito o amor de todos os homens. Incluindo[n]seu, como sua máscara...[n][w][e]
 
 [msg msg_combine_PERSONA263 [Ishtar]]
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA264 [Surt]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Com minha máscara, seus[n] olhos queimarão com o poder[n] de minhas chamas destrutivas.[n][w][e]
 
 [msg msg_combine_PERSONA265 [Siegfried]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Sua alma atuará como uma ferramenta[n]para transformar meu ousado[n]poder em uma máscara invencível.[n][w][e]
 
 [msg msg_combine_PERSONA266 [Lakshmi]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Apenas admire minha beleza...[n]É hora de se tornar sua máscara[n]e ensinar-lhe a dança da alegria.[n][w][e]
 
 [msg msg_combine_PERSONA267 [RISERVA]]
@@ -992,39 +992,39 @@
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA272 [Fortuna]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]A sorte está chegando. Isso mesmo,[n]isso mesmo! De qualquer forma, aqui está sua máscara da sorte.[n][w][e]
 
 [msg msg_combine_PERSONA273 [Suzaku]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]A luz resplandecente que ilumina o[n]futuro agora é sua máscara.[n][w][e]
 
 [msg msg_combine_PERSONA274 [Seiryu]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]O nobre poder das quatro[n] bestas sagradas será uma máscara[n] a ser entregue a este jovem.[n][w][e]
 
 [msg msg_combine_PERSONA275 [Genbu]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Serei uma máscara e usarei[n] minha sabedoria para criar um[n] futuro lucrativo para você.[n][w][e]
 
 [msg msg_combine_PERSONA276 [Byakko]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Meu rugido faz todas as bestas se curvarem! Eu serei sua máscara![n][w][e]
 
 [msg msg_combine_PERSONA277 [Bishamonten]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Seus inimigos não são nada na frente[n] da minha força. Eu serei uma[n]máscara e te darei poder![n][w][e]
 
 [msg msg_combine_PERSONA278 [Koumokuten]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Deixe-me ficar de olho em[n]monstros... Em troca, darei a você uma[n]máscara que vigia o mundo...[n][w][e]
 
 [msg msg_combine_PERSONA279 [Jikokuten]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Paz e segurança são minhas[n]tarefas. Serei sua máscara[n]e lhe darei meu poder![n][w][e]
 
 [msg msg_combine_PERSONA280 [Zouchouten]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]O poder de estimular o crescimento[n]de tudo que me adora será uma[n]máscara e protegerá sua alma.[n][w][e]
 
 [msg msg_combine_PERSONA281 [Biker infernale]]
@@ -1032,34 +1032,34 @@
 [s]Ódio e violência são sublimes, você não acha? Coloque minha máscara[n] e vamos mandar todos para o inferno![n][w][e]
 
 [msg msg_combine_PERSONA282 [Daisoujou]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Você que é imune à podridão.[n]Vamos receber juntos o iminente[n]dia da redenção.[n][w][e]
 
 [msg msg_combine_PERSONA283 [Trombettiere]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]O som da minha trombeta anuncia[n]morte e calamidade... Serei[n]sua máscara, vamos nos harmonizar.[n][w][e]
 
 [msg msg_combine_PERSONA284 [Mietitore bianco]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]O poder de invocar[n]a vitória esmagadora agora é seu,[n]na forma de minha máscara...[n][w][e]
 
 [msg msg_combine_PERSONA285 [Matador]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Meu corpo, nascido das agonias sangrentas da batalha, está agora ao seu lado, como uma máscara.[n][w][e]
 
 [msg msg_combine_PERSONA286 [Mietitore spettrale]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Sua máscara será infundida com[n]o poder de liberar[n]maldições mortais do submundo.[n][w][e]
 
 [msg msg_combine_PERSONA287 [Horus]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Serei sua máscara de agora em diante![n]Vamos voar juntos rumo à luz![n][w][e]
 
 [msg msg_combine_PERSONA288 [Horus]]
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA289 [Attis]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Vou liberar a energia mágica[n]do sangue que foi derramado.[n]Vamos, pegue minha máscara.[n][w][e]
 
 [msg msg_combine_PERSONA290 [RISERVA]]
@@ -1069,7 +1069,7 @@
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA292 [Sraosha]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Meus ouvidos ouvirão seus[n]desejos. Eu serei uma máscara e[n]recompensarei sua nobre alma.[n][w][e]
 
 [msg msg_combine_PERSONA293 [Sraosha]]
@@ -1079,15 +1079,15 @@
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA295 [Mitra]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu mantenho os juramentos[n]deste mundo e[n]serei sua máscara.[n][w][e]
 
 [msg msg_combine_PERSONA296 [Fenice]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu domino as[n]feras aladas... Portanto, serei uma[n]máscara e darei paz a você.[n][w][e]
 
 [msg msg_combine_PERSONA297 [Principati]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Ordem e disciplina vêm antes de tudo. Pegue esta máscara[n] e defendemos nossa honra.[n][w][e]
 
 [msg msg_combine_PERSONA298 [Neko Shogun]]
@@ -1099,26 +1099,26 @@
 [s]Sujeira é o meu poder e[n] agora o seu também. Eis que eles te dão esta máscara de impureza.[n][w][e]
 
 [msg msg_combine_PERSONA300 [Ananta]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]O poder da criação que[n]despertou em você doravante[n]será infundido em sua máscara.[n][w][e]
 
 [msg msg_combine_PERSONA301 [Trono]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Vou ajudá-lo a preservar sua[n]autoridade real. Por favor,[n] leve-me com você, como sua máscara.[n][w][e]
 
 [msg msg_combine_PERSONA302 [Trono]]
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA303 [Quetzalcoatl]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Vou trazer fertilidade e guiá-lo para o futuro. Este corpo frutífero[n] agora será sua máscara.[n][w][e]
 
 [msg msg_combine_PERSONA304 [Mietitore cremisi]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu me tornarei sua máscara e[n]mostrei a você a autoridade que tenho sobre todos os cães de guerra...[n][w][e]
 
 [msg msg_combine_PERSONA305 [Mietitore oscuro]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu serei sua máscara e você testará minha capacidade de causar calamidade até mesmo para seus piores inimigos.[n][w][e]
 
 [msg msg_combine_PERSONA306 [Sati]]
@@ -1128,7 +1128,7 @@
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA308 [Pazuzu]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu me tornarei sua máscara.[n]Agora vamos partir e tomar as[n]rédeas deste mundo deserto.[n][w][e]
 
 [msg msg_combine_PERSONA309 [Pazuzu]]
@@ -1195,31 +1195,31 @@
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA330 [Maria]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Com um coração compassivo,[n]eu me tornarei sua máscara.[n][w][e]
 
 [msg msg_combine_PERSONA331 [Vohu Manah]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu me tornarei sua máscara e[n]dissipará a escuridão.[n][w][e]
 
 [msg msg_combine_PERSONA332 [Cait Sith]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Se eu sou sua máscara,[n]você não precisa se preocupar![n][w][e]
 
 [msg msg_combine_PERSONA333 [Mishaguji]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Com a minha máscara, a força da natureza é sua também.[n][w][e]
 
 [msg msg_combine_PERSONA334 [Loa]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu me tornarei sua máscara e[n]nós vamos beber, cantar e dançar[n]como se não houvesse amanhã.[n][w][e]
 
 [msg msg_combine_PERSONA335 [Chimera]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Talvez eu devesse me tornar sua[n]máscara e descansar meu[n]corpo grotesco.[n][w][e]
 
 [msg msg_combine_PERSONA336 [Atavaka]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu me tornarei sua máscara e[n]destruirei os espíritos malignos.[n][w][e]
 
 [msg msg_combine_PERSONA337 [Atavaka]]
@@ -1299,18 +1299,18 @@
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA362 [Atena]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Minha máscara será o escudo[n] que lhe garantirá proteção.[n][w][e]
 
 [msg msg_combine_PERSONA363 [Raoul]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Você despertou minha verdadeira forma![n]Que assim seja...! Continue andando no caminho em que você acredita![n][w][e]
 
 [msg msg_combine_PERSONA364 [Raoul]]
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA365 [Orfeo]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu me tornarei sua máscara?[n]Então caminharei ao seu lado,[n]para descobrir o sentido da vida.[n][w][e]
 
 [msg msg_combine_PERSONA366 [Izanagi-no-Okami Pic.]]
@@ -1321,7 +1321,7 @@
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA368 [Atena Picaro]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu me tornarei a máscara do Trapaceiro e[n]o escudo que irá protegê-lo.[n][w][e]
 
 [msg msg_combine_PERSONA369 [Atena Picaro]]
@@ -1331,7 +1331,7 @@
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA371 [Orfeo Picaro]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]A Máscara do Trapaceiro?[n]Ok, posso ajudá-lo a fazer[n]um nome para você.[n][w][e]
 
 [msg msg_combine_PERSONA372 [Orfeo Picaro]]
@@ -1495,7 +1495,7 @@
 [s]Eu serei sua máscara e vou guiá-lo[n] para a dança da morte.[n][w][e]
 
 [msg msg_combine_PERSONA425 [Allat]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu me tornarei uma máscara resoluta[n]que irá protegê-lo...[n][w][e]
 
 [msg msg_combine_PERSONA426 [Wakinyan]]
@@ -1503,7 +1503,7 @@
 [s]VOCÊ USA PODER DE[n]PÁSSARO ESPIRITUAL?[n][w][e]
 
 [msg msg_combine_PERSONA427 [Fafnir]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Enquanto você tiver a máscara, o ouro[n] será nosso...[n][w][e]
 
 [msg msg_combine_PERSONA428 [Byakhee]]
@@ -1519,11 +1519,11 @@
 [s]Chame-me se precisar de ajuda.[n]Vou te mostrar o caminho![n][w][e]
 
 [msg msg_combine_PERSONA431 [Trono]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu observarei seu progresso.[n]Leve-me com você como uma máscara.[n][w][e]
 
 [msg msg_combine_PERSONA432 [Surt]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Com minha máscara, seus[n] olhos queimarão com o poder[n] de minhas chamas destrutivas.[n][w][e]
 
 [msg msg_combine_PERSONA433 [Loa]]
@@ -1535,15 +1535,15 @@
 [s]VOCÊ PENSA QUE CONTROLA[n] CORPO QUE DERRETEU?[n][w][e]
 
 [msg msg_combine_PERSONA435 [Atavaka]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Eu me tornarei sua máscara e[n]derrotarei os espíritos malignos.[n][w][e]
 
 [msg msg_combine_PERSONA436 [Cait Sith]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Se eu sou sua máscara,[n]você não precisa se preocupar![n][w][e]
 
 [msg msg_combine_PERSONA437 [Siegfried]]
-[s]Eles são [clr 1][var 1][clr 27].[n][w][e]
+[s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
 [s]Sua alma atuará como uma ferramenta[n]para transformar meu ousado[n]poder em uma máscara invencível.[n][w][e]
 
 [msg msg_combine_PERSONA438 [Siegfried]]

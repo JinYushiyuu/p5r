@@ -579,7 +579,7 @@
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Oh... Que shooock![n]O que vou fazer para arrecadar[n]alguns fundos...?[n][w][e]
 
 [msg MSG_TIKAAIDORU_006_8_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ai! Vabbeh, agora estou[n]acostumado com isso ... Ugh.[n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ai! Bem, agora estou[n]acostumado com isso ... Ugh.[n][w][e]
 [s][vp 8 2 1 0 2 0]Se não vender bem, terei que trocar de novo. Eu[n]também estou acostumado com isso... suspiro.[n][w][e]
 
 [msg MSG_TIKAAIDORU_007_0_0 [Homem obcecado]]

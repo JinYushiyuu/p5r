@@ -72,7 +72,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Nós seguimos Ryuji.[n][w][e]
 
 [msg MSG_CATCH_000_04b [Homem ameaçador]]
-[s][f 4 23 1 850 3 5 0 0][vp 8 2 1 0 850 0]Que pena. Vabbeh,[n]volte se mudar de ideia.[n][w][e]
+[s][f 4 23 1 850 3 5 0 0][vp 8 2 1 0 850 0]Que pena. Bem,[n]volte se mudar de ideia.[n][w][e]
 
 [msg MSG_CATCH_000_05b [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1099 0 0]Ei, temos que seguir Ryuji.[n][w][e]

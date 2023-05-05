@@ -55,18 +55,18 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Tudo o que era querido para mim[n]foi roubado de mim por ele...[n]E eu nunca vou ter de volta...![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Sombra de Kamoshida]]
-[s][bup 0 202 101 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Assistir.[n][f 1 3 65535][w][e]
+[s][bup 0 202 101 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Fique aí e assista.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Veja como esta escória desesperada[n]morre em vão por ficar do lado[n]de um rejeitado como você.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ryuji]]
-[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Não... É você...[n][f 1 3 65535][w][e]
+[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Não... Isso é o que você é...[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Você só sabe usar[n]pessoas... Você é o verdadeiro pedaço[n]de merda, Kamoshida![n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Sombra de Kamoshida]]
-[s][bup 0 202 102 0 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]O que você está fazendo? Cala a boca dele![n][f 1 3 65535][w][e]
+[s][bup 0 202 102 0 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]O que você está fazendo? Calem a boca dele![n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Ryuji]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 301 1][vp 8 0 0 28 65535 0]Pare de olhar para baixo[n]para mim com esse[n]sorriso estúpido no meu rosto![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 301 1][vp 8 0 0 28 65535 0]Pare de me desprezar[n]com esse[n]sorriso estúpido no seu rosto![n][f 1 3 65535][w][e]
 

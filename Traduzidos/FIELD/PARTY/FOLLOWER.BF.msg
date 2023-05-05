@@ -26,7 +26,7 @@
 [s][f 4 23 1 65535 3 10 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas cara... seu visual não é meio antiquado?[n][w][e]
 
 [msg RYUJI_SPOT_TUTORIAL03 [Ryuji]]
-[s][f 4 23 1 65535 3 10 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vabbeh, vamos[n]para as catracas JL.[n][w][e]
+[s][f 4 23 1 65535 3 10 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, vamos[n]para as catracas JL.[n][w][e]
 
 [msg MSG_E137101_RYUJI_000_00 [Ryuji]]
 [s][bup 0 2 200 0 0][f 4 10 65535 0 0][vp 8 2 1 7080 65535 0]Temos que perguntar aos jogadores de vôlei[n]que vimos no castelo sobre[n]sobre o abuso de Kamoshida.[n][w][e]
@@ -97,7 +97,7 @@
 
 [msg MSG_E193101_ANNE_002_00 [Ann]]
 [s][f 4 23 1 65535 3 10 0 0][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 54001 65535 0]Agora que penso nisso,[n]uma exposição de Madarame está acontecendo[n]em Shibuya...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vabbeh, vamos pegar[n]aquele trem.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, vamos pegar[n]aquele trem.[n][w][e]
 
 [msg MSG_E193101_ANNE_101_00 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 6162 65535 0]Essa exposição parece muito importante, hein?[n]Eles estão anunciando isso em todos os lugares.[n][w][e]

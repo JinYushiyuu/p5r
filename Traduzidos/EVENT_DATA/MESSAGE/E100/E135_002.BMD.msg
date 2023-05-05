@@ -38,7 +38,7 @@
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Quero dizer, esse não é o ponto.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Eu acho que é porque nós dois somos tratados como[n]pé no saco por aqueles ao nosso redor, como se[n]fôssemos párias.[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Eu acho que é porque nós dois somos tratados como[n]pé no saco por aqueles ao nosso redor, como se[n]não pertencessemos naquele lugar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Eu estraguei tudo[n]na escola também.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
@@ -46,7 +46,7 @@
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]É hora do rush para o metrô.[n]Aconselho você a esperar algum[n]tempo antes de ir para casa.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ryuji]]
-[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Que diabos, o que.[n]Você mal tocou em comida.[n][f 1 3 65535][w][e]
+[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Que diabos![n]Você mal tocou na comida.[n][f 1 3 65535][w][e]
 
 [sel SEL_014_0_0 top]
 [s]O que você está fazendo?[e]
@@ -68,7 +68,7 @@
 
 [msg MSG_018_0_0 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Espere e veja, Kamoshida...[n][f 1 3 65535][w][e]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Começaremos a partir de amanhã. Primeiro[n]iremos até os meninos[n]aprisionados como escravos.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Começaremos a partir de amanhã. Primeiro[n]iremos até os caras que estão[n]aprisionados como escravos.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_3_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]O torneio de vôlei é amanhã, certo? Atrás dele[n]está Kamoshida. Eu quero vomitar.[n][f 1 3 65535][w][e]

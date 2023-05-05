@@ -9,7 +9,7 @@
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Você já ouviu? Ele já matou também.[n][w][e]
 
 [msg MSG_001_0_0 [Estudante fazendo careta]]
-[s][f 4 23 1 851 3 10 0 0][vp 8 2 1 0 851 0]Aquele? Mas e se ele for um nerd?[n]Ahah, sim, vabbeh.[n][w][e]
+[s][f 4 23 1 851 3 10 0 0][vp 8 2 1 0 851 0]Aquele? Mas e se ele for um nerd?[n]Ahah, sim, bem.[n][w][e]
 
 [msg MSG_002_0_0 [Estudante bem preparado]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]É verdade! Nesse site clandestino[n]também li que ele anda por aí[n]armado![n][w][e]

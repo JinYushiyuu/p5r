@@ -123,7 +123,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 10 300 1][vp 8 0 0 48 65535 0]Nos vemos por aí![n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Ei! Que diabos!?! Nossa, sério! Por que você está[n]saindo assim como se estivéssemos bem!?![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Ei! Que diabos!?! Nossa, sério! Por que vocês estão[n]saindo assim como se estivéssemos bem!?![n][f 1 3 65535][w][e]
 
 [msg MSG_045_5_0 [Morgana]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 3 301 1][vp 8 0 0 50 65535 0]Oh infernos! Volta aqui![n]Grrr... GRAAGGGHHH![n][f 1 3 65535][w][e]

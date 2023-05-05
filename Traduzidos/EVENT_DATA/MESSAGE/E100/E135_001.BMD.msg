@@ -30,10 +30,10 @@
 [msg MSG_009_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Mas caramba, se o que[n]vimos foi real, as coisas[n]vão melhorar![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Lembro-me perfeitamente de todos[n]rostos dos meninos tratados[n]como escravos por Kamoshida.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Assim que os fizermos confessar[n]o abuso que sofreram, Kamoshida será fodido.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Assim que os fizermos confessar[n]sobre o abuso que sofreram,[n]Kamoshida estará acabado.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_5_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Então... você vai me ajudar a encontrar[n]essas crianças ou outras testemunhas?[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Então... você vai me ajudar a encontrar[n]esses caras ou outras testemunhas?[n][f 1 3 65535][w][e]
 
 [sel SEL_010_0_0 top]
 [s]Claro, eu vou te ajudar.[e]
@@ -59,15 +59,15 @@
 [s]Como isso pôde acontecer?[e]
 
 [msg MSG_013_5_0 [Ryuji]]
-[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Kamoshida[n]delatou![n][f 1 3 65535][w][e]
+[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Kamoshida abriu sua maldita boca![n][f 1 3 65535][w][e]
 
 [sel SEL_013_7_0 top]
-[s]A sério?[e]
-[s]Mas por que?[e]
+[s]Sério?[e]
+[s]Mas por quê?[e]
 [s]Sério, um professor?[e]
 
 [msg MSG_013_9_0 [Ryuji]]
-[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Só um professor poderia[n]vazá-lo[n]tão rápido![n][f 1 3 65535][w][e]
+[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Só um professor poderia[n]ter vazado algo assim[n]tão rapidamente![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Não importa se é um estudante ou um clube; aquele[n]idiota arruína tudo o que não gosta.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Assim como ele fez comigo![n][f 1 3 65535][w][e]
 
@@ -87,7 +87,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Conto com você![n]Não se preocupe, também estou[n]emocionado com isso![n][f 1 3 65535][w][e]
 
 [msg MND_026_0_0]
-[s][vp 8 0 0 0 65535 0]Eu sinto um vínculo de confiança[n]exigindo de Ryuji...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Eu sinto um vínculo de confiança[n]exalando de Ryuji...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_4_0 [Sae]]
 [s][vp 8 0 0 800 65535 0]Seguir sozinho teria feito você[n]mais eficaz como um Phantom Thief.[n]Você poderia ter continuado...[n][f 1 3 65535][w][e]
@@ -96,7 +96,7 @@
 [s][vp 8 0 0 801 65535 0]No entanto, você não o fez. Existem[n]vantagens em ter parceiros...[n]Isso é o que você pensou.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_6_0 [Sae]]
-[s][vp 8 0 0 802 65535 0]Ou estou errado?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 802 65535 0]Ou estou errada?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Ah...[n][f 1 3 65535][w][e]
@@ -119,5 +119,5 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Eu quero saber tudo[n]sobre o seu passado![n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
-[s][vp 1 0 0 0 0 0]Eu sinto um vínculo de confiança[n]exigindo de Ryuji...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Eu sinto um vínculo de confiança[n]exalando de Ryuji...[n][f 1 3 65535][w][e]
 

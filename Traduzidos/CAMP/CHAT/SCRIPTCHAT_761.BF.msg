@@ -8,5 +8,5 @@
 [s][f 5 14]Vou deixar você ler um[n]que eu recomendo.[n][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][f 5 14]Em breve![n][w][e]
+[s][f 5 14]Até mais![n][w][e]
 

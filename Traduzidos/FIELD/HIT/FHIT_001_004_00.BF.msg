@@ -535,7 +535,7 @@
 
 [msg MSG_E65510400_TEL_003_05 [Futaba]]
 [s][bup 0 8 4 65535 1][f 4 10 65535 0 0][vp 8 0 1 29 65535 0]Shinagawa...? Ok, eu acho.[n][f 1 3 65535][w][e]
-[s][bup 0 8 2 65535 1][f 4 10 65535 0 0][vp 8 0 1 30 65535 0]Por acaso você está fora? Você poderia[n]vir até mim em... Não, vabbeh,[n]esqueça. Nos vemos lá.[n][f 1 3 65535][w][e]
+[s][bup 0 8 2 65535 1][f 4 10 65535 0 0][vp 8 0 1 30 65535 0]Por acaso você está fora? Você poderia[n]vir até mim em... Não, bem,[n]esqueça. Nos vemos lá.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 31 65535 0]Tudo bem, até breve![n][f 1 3 65535][w][e]
 
 [msg MSG_E65510400_TEL_003_06 [Ann]]

@@ -14,7 +14,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1163 65535 0]Ouvi?[n][w][e]
 
 [msg D01_02_e129_050_mes06 [Ryuji]]
-[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estou na academia, certo?[n][w][e]
+[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eles disseram que estavam no ginásio, certo?[n][w][e]
 
 [msg D01_02_e129_050_mes07 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1099 65535 0]Deve ser um pouco[n]à frente. Vamos![n][w][e]

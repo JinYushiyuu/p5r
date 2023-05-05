@@ -19,7 +19,7 @@
 [s][bup 0 110 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não é. A guerra não é nada divertida.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Shinya]]
-[s][bup 0 110 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Diga a essas crianças.[n][f 1 3 65535][w][e]
+[s][bup 0 110 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Diga a esses caras.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Shinya]]
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora estou na defensiva,[n]mas estou esperando uma oportunidade[n]para revidar.[n][f 1 3 65535][w][e]

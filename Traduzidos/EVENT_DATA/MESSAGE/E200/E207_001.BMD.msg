@@ -47,13 +47,13 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Perdoe-me, Takamaki-san...[n]mas você tem certeza que se sente bem?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Ele diz a verdade. Estes são os verdadeiros[n]sentimentos daquele bastardo. não passa de um[n]ganancioso ganancioso.[n][f 1 3 65535][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Ele diz a verdade. Estes são os verdadeiros[n]sentimentos daquele bastardo. Não passa de um[n]ganancioso.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Yusuke]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 3 300 1][vp 8 0 0 21 65535 0]Chega dessa bobagem![n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ann]]
-[s][bup 0 4 102 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Kitagawa-kun! Já[n]passou pela sua cabeça que algo[n]errado em Madarame!?![n][f 1 3 65535][w][e]
+[s][bup 0 4 102 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Kitagawa-kun! Já[n]passou pela sua cabeça que há algo[n]de errado com Madarame!?![n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Yusuke]]
 [s][bup 0 5 3 2 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Bem...[n][f 1 3 65535][w][e]

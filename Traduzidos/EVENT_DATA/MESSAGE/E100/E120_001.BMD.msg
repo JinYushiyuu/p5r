@@ -32,7 +32,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Uma grande diferença de[n]quando você treinava todas as manhãs[n]com a equipe de atletismo.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Sakamoto]]
-[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Cala a boca! É culpa é sua...[n][f 1 3 65535][w][e]
+[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Cala a boca! É culpa sua...[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Supervisores]]
 [s][vp 8 0 0 15 6 0]Como você ousa falar[n]isso com o Sr. Kamoshida![n][f 1 3 65535][w][e]

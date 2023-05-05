@@ -1,5 +1,5 @@
 [msg D01_02_e129_041_mes01 [Ryuji]]
-[s][bup 0 2 2 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7047 65535 0]Droga... Para onde foram as[n]crianças que foram presas?[n][w][e]
+[s][bup 0 2 2 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7047 65535 0]Droga... Para onde foram os[n]caras que foram presos?[n][w][e]
 
 [msg D01_02_e129_041_mes02 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eles provavelmente foram[n]movidos para outro lugar.[n][w][e]
@@ -12,7 +12,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1157 65535 0]Mas... havia[n]soldados por aqui, certo? Talvez pudéssemos[n]escutar as conversas deles…[n][w][e]
 
 [msg D01_02_PC02_TALK_mes01 [Ryuji]]
-[s][bup 0 2 2 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7047 65535 0]Droga... Para onde foram as[n]crianças que foram presas?[n][w][e]
+[s][bup 0 2 2 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7047 65535 0]Droga... Para onde foram os[n]caras que foram presos?[n][w][e]
 
 [msg D01_02_PC02_TALK_mes02 [Ryuji]]
 [s][bup 0 2 2 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7047 65535 0]Vamos, temos que encontrar[n]os prisioneiros...[n][w][e]

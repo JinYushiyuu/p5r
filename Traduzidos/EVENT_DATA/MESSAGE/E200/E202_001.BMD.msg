@@ -25,7 +25,7 @@
 [s][bup 0 5 4 2 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Por acaso você ganhou peso?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ann]]
-[s][bup 0 4 704 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Você acredita? Meu peso é sempre[n]o mesmo... Talvez eu esteja um pouco[n]inchado hoje?[n][f 1 3 65535][w][e]
+[s][bup 0 4 704 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Você acredita? Meu peso é sempre[n]o mesmo... Talvez eu esteja um pouco[n]inchada hoje?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Yusuke]]
 [s][bup 0 5 0 2 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Então... você poderia,[n]um... se preparar?[n][f 1 3 65535][w][e]
@@ -49,7 +49,7 @@
 [s][vp 8 0 0 18 65535 0]Fiuuu, foi muito apertado...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Yusuke]]
-[s][bup 0 5 4 2 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Estreito...?[n][f 1 3 65535][w][e]
+[s][bup 0 5 4 2 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Apertado...?[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Yusuke]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 12 300 1][vp 8 0 0 20 65535 0]Não, estou fazendo pela arte![n][f 1 3 65535][w][e]
@@ -72,7 +72,7 @@
 [s][vp 8 0 0 27 65535 0]Mas um quarto[n]que pode ser trancado não seria melhor?[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Yusuke]]
-[s][bup 0 5 3 2 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Bloquear...?[n][f 1 3 65535][w][e]
+[s][bup 0 5 3 2 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Trancado...?[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Ann]]
 [s][vp 8 0 0 29 65535 0]Você tem que deixar[n]uma garota te contar tudo...?[n][f 1 3 65535][w][e]
@@ -81,7 +81,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 7 300 1][vp 8 0 0 30 65535 0]O quê!?![n][f 1 3 65535][w][e]
 
 [msg MSG_030_5_0 [Yusuke]]
-[s][bup 0 5 3 2 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Mas o único que tranca[n]é...o quarto do Sensei.[n][f 1 3 65535][w][e]
+[s][bup 0 5 3 2 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Mas o único quarto que tranca[n]é...o quarto do Sensei.[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Ann]]
 [s][vp 8 0 0 32 65535 0]Por que não lá, então?[n][f 1 3 65535][w][e]
@@ -115,7 +115,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]O sol está prestes a se pôr...[n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Veheer? É por isso que seria bom[n]ir para outro lugar...[n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Viu só? É por isso que seria bom[n]ir para outro lugar...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Você sabe como é, vou ter que me despir[n]tudo.[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Yusuke]]
@@ -152,7 +152,7 @@
 [s][vp 8 0 0 55 65535 0]Ei, por que não este?[n][f 1 3 65535][w][e]
 
 [msg MSG_058_0_0 [Yusuke]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 7 300 1][vp 8 0 0 56 65535 0]Aguarde![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 7 300 1][vp 8 0 0 56 65535 0]Espere![n][f 1 3 65535][w][e]
 
 [msg MSG_059_0_0 [Ann]]
 [s][vp 8 0 0 57 65535 0]Conto com você Mona![n][f 1 3 65535][w][e]

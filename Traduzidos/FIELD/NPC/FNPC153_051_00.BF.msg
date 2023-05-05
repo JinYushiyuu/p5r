@@ -1,6 +1,6 @@
 [msg SAFE_MES_ryuzi1 [Ryuji]]
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 2 1 7194 65535 0]Então o barraco se transformou em um museu...[n][w][e]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0]Eu não sei nada sobre arte, maaa[n]que tal todo esse ouro?[n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0]Eu não sei nada sobre arte, mas[n]que tal todo esse ouro?[n][w][e]
 
 [msg SAFE_MES_ryuzi2 [Ryuji]]
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 2 1 7156 65535 0]Merda, até Mona foi[n]fodida por uma armadilha trivial...[n]Precisamos ter mais cuidado.[n][w][e]

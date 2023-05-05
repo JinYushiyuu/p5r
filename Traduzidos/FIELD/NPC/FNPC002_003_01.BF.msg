@@ -713,7 +713,7 @@
 [s][vp 9 2 65535 42112 0 0]E ele? É ele[n]com ficha criminal[n]suja?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_101_03_ [Estudante impiedoso]]
-[s][vp 9 2 65535 43313 0 0]Aquele aluno que[n]acabou de se transferir está envolvido em[n]um monte de negócios obscuros, não é?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43313 0 0]Aquele aluno que acabou[n]de se transferir está envolvido em[n]um monte de negócios obscuros, não é?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_101_04_ [Estudante impiedoso]]
 [s][vp 9 2 65535 42263 0 0]Ele parece indefeso, mas na realidade[n]ele fez todo tipo de coisa, hein?[n][f 1 2 180][e]

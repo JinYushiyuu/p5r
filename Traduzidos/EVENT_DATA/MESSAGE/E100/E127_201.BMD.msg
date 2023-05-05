@@ -40,7 +40,7 @@
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Acho que devemos[n]apenas refazer[n]a rota de ontem.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Enquanto isso, você[n]vai para a delegacia, não é?[n]Vou com você.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Enquanto isso, você[n]vai para a estação, não é?[n]Vou com você.[n][f 1 3 65535][w][e]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Avise-me se notar outras construções estranhas no[n]caminho.[n][f 1 3 65535][w][e]
 
 [msg MND_013_0_0]

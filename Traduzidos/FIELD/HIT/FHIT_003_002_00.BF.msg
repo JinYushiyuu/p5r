@@ -1450,7 +1450,7 @@
 [msg fev0410_06_A_mes02 [Sojiro]]
 [s][bup 0 103 601 0 1][f 4 10 65535 0 0][vp 8 0 1 6 65535 0]Duvido que[n]clientes venham, mesmo com[n]a placa dizendo "Aberto".[n][w][e]
 [s][bup 0 103 600 0 1][f 4 10 65535 0 0][vp 8 0 1 7 65535 0]E eu tenho que dizer,[n]estou aliviado.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 8 65535 0]É minha regra não salvar[n]números de jovens no meu telefone.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 8 65535 0]É minha regra não salvar[n]números de homens no meu telefone.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 9 65535 0]Ainda bem que você respondeu.[n][w][e]
 
 [msg fev0410_06_B_mes02 [Sojiro]]
@@ -1458,7 +1458,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 11 65535 0]Eu sei que você tem muitas coisas em mente, mas[n]agora que você está dormindo aqui, você tem que[n]me ouvir.[n][w][e]
 
 [msg fev0410_06_C_mes02 [Sojiro]]
-[s][bup 0 103 600 0 1][f 4 10 65535 0 0][vp 8 0 1 12 65535 0]É minha regra não salvar[n]números de jovens no me telefone.[n][w][e]
+[s][bup 0 103 600 0 1][f 4 10 65535 0 0][vp 8 0 1 12 65535 0]É minha regra não salvar[n]números de homens no me telefone.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 13 65535 0]De qualquer forma, estou feliz por você[n]ter atendido.[n][w][e]
 
 [msg fev0410_06_mes03 [Sojiro]]

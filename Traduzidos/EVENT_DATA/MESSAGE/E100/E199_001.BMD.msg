@@ -85,7 +85,7 @@
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Periodicamente mudar nosso[n]ponto de encontro, hein? É um plano que eu[n]apoiaria.[n][f 1 3 65535][w][e]
 
 [msg SYS_030_0_0]
-[s][vp 8 0 0 0 65535 0]O local foi transferido do[n]Rooftop da Shujin Academy[n]para o [clr 2]Corridor Teikyu Building, Shibuya[clr 27].[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]O local foi transferido do[n]Telhado da Shujin Academy[n]para o [clr 2]Corridor Teikyu Building, Shibuya[clr 27].[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Mulher com uma Câmera]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Ei, posso falar com vocês por um[n]segundo?[n][f 1 3 65535][w][e]

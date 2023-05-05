@@ -74,7 +74,7 @@
 
 [msg MSG_031_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Humpf. Você conhece as boas maneiras.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Tenha cuidado ao long do caminho.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Tenha cuidado ao longo do caminho.[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Hehe, você também tenha cuidado.[n][f 1 3 65535][w][e]

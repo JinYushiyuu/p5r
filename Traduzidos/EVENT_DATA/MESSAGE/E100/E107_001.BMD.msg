@@ -14,7 +14,7 @@
 [s][vp 8 0 0 0 65535 0]Chega desse barulho! Pare com isso.[n][f 1 2 60][w][e]
 
 [msg MSG_005_0_0 [Velho afastado]]
-[s][vp 6 0 0 6 6 0]Bem-vindo. È um prazer[n]te conhecê-lo.[n][f 1 2 120][w][e]
+[s][vp 6 0 0 6 6 0]Bem-vindo. É um prazer[n]te conhecer[n][f 1 2 120][w][e]
 
 [msg MSG_006_0_0 [Velho afastado]]
 [s][vp 6 0 0 7 6 0]Este lugar existe entre o sonho e a[n]realidade, entre o pensamento e a matéria.[n][f 1 2 145][w][e]

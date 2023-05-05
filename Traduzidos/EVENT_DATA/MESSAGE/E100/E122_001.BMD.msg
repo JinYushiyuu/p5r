@@ -12,12 +12,12 @@
 
 [msg MSG_004_0_0 [Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]...Bem, gostaria de apresentar a você um[n]aluno recém-chegado:[n][f 4 3].[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Hoje, hum... ele vai atender[n]só à tarde porque[n]ele se sentiu mal.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Hoje, hum... ele vai estudar[n]só à tarde porque[n]ele se sentiu mal pela manhã.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Bem, diga algo[n]para a turma.[n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]
 [s]Eu sou [f 4 3].[e]
-[s]Prazer em conhecê-la.[e]
+[s]Prazer em conhecê-los.[e]
 [s]......[e]
 
 [msg MSG_006_0_0 [Estudante preconceituoso]]
@@ -31,7 +31,7 @@
 
 [msg MSG_009_0_0 [Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Seu assento será... Mmh...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Lá. O gratuito.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Aquele lá. Esse está livre.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Com licença, mas quem está por perto[n]poderia compartilhar livros didáticos[n]com ele hoje?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Estudante de cabelo castanho]]

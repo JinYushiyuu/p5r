@@ -1306,7 +1306,7 @@
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37050 65535 0]eu sou o prof. de Ciências Sociais,[n]Sr. Ushimaru. Este ano, eu[n]ensino as regras da sociedade.[n][f 1 3 65535][w][e]
 
 [msg MSG_323_0_0 [Prof Ushimaru]]
-[s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Umpf... Você parece um bando de[n]crianças mimadas. Mal posso esperar para[n]ver qual de vocês me decepciona mais.[n][f 1 3 65535][w][e]
+[s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Umpf... Vocês parecem um bando de[n]crianças mimadas. Mal posso esperar para[n]ver qual de vocês vai me decepcionar mais.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Existe um dicionário que define[n]ano como "um período de[n]365 decepções".[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O título do livro é tão cínico quanto o resto. É[n]o "Dicionário do Diabo de Ambrose Bierce".[n][f 1 3 65535][w][e]
 
@@ -1331,7 +1331,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta correta é inimigos ou[n]"malfeitores". Lembre-se disso.[n][f 1 3 65535][w][e]
 
 [msg MSG_329_0_0 [Prof Ushimaru]]
-[s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os vilões podem influenciar[n]história. Mas lembre-se que esta[n]definição é uma piada sarcástica.[n][f 1 3 65535][w][e]
+[s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os vilões podem influenciar[n]a história. Mas lembre-se que esta[n]definição é uma piada sarcástica.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Aqui no mundo real, os malfeitores[n]não promovem a humanidade,[n]mas espalham o caos e o conflito.[n][f 1 3 65535][w][e]
 
 [msg MSG_330_0_0 [Prof Ushimaru]]
@@ -1481,7 +1481,7 @@
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, a arte não[n]parece ser o seu forte, [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
 [msg MSG_365_0_0 [Prof. Inui]]
-[s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37105 65535 0]Qual famoso artista ukiyo-e do período[n]Edo disse ter[n]movido mais de 100 vezes?[n][f 1 3 65535][w][e]
+[s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37105 65535 0]Qual famoso artista ukiyo-e do período[n]Edo disse ter[n]se mudado mais de 100 vezes?[n][f 1 3 65535][w][e]
 
 [sel SEL_366_0_0 top]
 [s]Utamaro Kitagawa.[e]

@@ -24,7 +24,7 @@
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Exatamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]...Você fez uma "exaustão"[n]só porque estava entediado.[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]...Você fez uma "excursão"[n]só porque estava entediado.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_5_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Nós iremos? Onde fica esse lugar suspeito?[n][f 1 3 65535][w][e]
@@ -33,7 +33,7 @@
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]É no segundo andar. Vi uma[n]fechadura excessivamente forte[n]em uma das portas.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ann]]
-[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Se estiver riscado, significa que há algo por[n]trás que ele não quer mostrar a ninguém.[n][f 1 3 65535][w][e]
+[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Se estiver trancado, significa que há algo por[n]trás que ele não quer mostrar a ninguém.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Mas a porta que queremos abrir[n]não é a do Palácio?[n][f 1 3 65535][w][e]
@@ -66,7 +66,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 3 300 1][vp 8 0 0 69 65535 0]Por que você não confia em mim!?![n]Vale a pena tentar![n][f 1 3 65535][w][e]
 
 [msg MSG_014_7_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 70 65535 0]Mas mesmo assim tem[n]o cadeado na realidade[n]para consertar, né?[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 70 65535 0]Mas mesmo assim tem[n]o cadeado na realidade[n]para destrancar, né?[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 71 65535 0]Oh, isso vai ser uma piada.[n]Dê-me um grampo de cabelo[n]e eu cuido disso.[n][f 1 3 65535][w][e]
@@ -102,7 +102,7 @@
 
 [msg MSG_022_5_0 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]É simplesmente a melhor desculpa[n]para entrar na casa de Madarame[n]sem levantar suspeitas...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Portanto, Lady Ann, você deve[n]isca.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Portanto, Lady Ann, você deve[n]ser a isca.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Estamos correndo muito rápido...[n][f 1 3 65535][w][e]
@@ -143,7 +143,7 @@
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]...Nada.[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Ann]]
-[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Por que não fazemos[n]enhum de vocês posar nu!?![n][f 1 3 65535][w][e]
+[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Por que não fazemos[n]algum de vocês posar nu!?![n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Não é o que ele quer.[n][f 1 3 65535][w][e]
@@ -176,13 +176,13 @@
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 54 65535 0]Sério, é melhor[n]fazer funcionar![n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Morgana]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 3 300 1][vp 8 0 0 55 65535 0]Por sua causa, Lady Ann,[n]estou disposto a arranhar[n]minhas garras quebrar![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 3 300 1][vp 8 0 0 55 65535 0]Por sua causa, Lady Ann,[n]estou disposto a arranhar[n]minhas garras até que elas quebrem![n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]Contamos com você, Morgana![n]Não deixe Yusuke descobrir[n]ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Ann]]
-[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 57 65535 0]Se você tentar me tirar[n]minhas roupas... eu vou demolir a casa![n][f 1 3 65535][w][e]
+[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 57 65535 0]Se ele tentar tirar[n]minhas roupas... eu vou demolir a casa![n][f 1 3 65535][w][e]
 
 [msg MSG_043_5_0 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 76 65535 0]Juro que vou enlouquecer se, depois de tudo[n]isto, a porta do Palácio não[n]abrir. Entendi!?![n][f 1 3 65535][w][e]

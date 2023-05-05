@@ -35,7 +35,7 @@
 
 [msg MSG_010_0_0 [Madarame]]
 [s][bup 0 203 9 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]O verdadeiro "Sayuri"...foi roubado[n]há muito tempo por um de meus alunos.[n]Acho que ele não tolerou meu rigor.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Foi um acontecimento que me abalou profundamente… Desde então, sou[n]vítima de um bloqueio artístico.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Foi um acontecimento que me abalou profundamente…[n]Desde então,[n]sou vítima de um bloqueio artístico.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Devido a esta emergência,[n]alguns dos meus alunos me deram[n]de tempos em tempos suas ideias...[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ann]]
@@ -126,7 +126,7 @@
 [s][bup 0 203 1 0 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Eu os abordei por causa de[n]alguns paparazzi, mas não pensei[n]que eles realmente me ajudariam.[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Yusuke]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 17 300 1][vp 8 0 0 49 65535 0]Aguarde![n]Vamos conversar![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 17 300 1][vp 8 0 0 49 65535 0]Espere![n]Vamos conversar![n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Madarame]]
 [s][bup 0 203 0 0 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Você pode falar o quanto quiser[n]com a polícia...[n]O mesmo se aplica a você, Yusuke.[n][f 1 3 65535][w][e]

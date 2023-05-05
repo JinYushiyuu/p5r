@@ -34,5 +34,5 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]De qualquer forma, explico[n]mais tarde! Vamos, vamos![n][f 1 3 65535][w][e]
 
 [msg MND_010_0_0]
-[s][vp 8 0 0 0 65535 0]Acho que devemos[n]atenção a Morgana[n]por enquanto...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Acho que devemos[n]dar atenção a Morgana[n]por enquanto...[n][f 1 3 65535][w][e]
 

@@ -398,11 +398,11 @@
 [s][f 4 10 65535 0 0]Farei com que seja aberto diante de seus olhos.[n][w][e]
 
 [msg MSG_NIGHT_MASTER_YUSUKE_ [Sojiro]]
-[s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 2 1 5018 65535 0]Você está indo direto, eu espero.[n][w][e]
+[s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 2 1 5018 65535 0]Está se comportando, eu espero.[n][w][e]
 [s][f 4 10 65535 0 0]Lembre-se de que você ainda está em liberdade[n]condicional. Um passo em falso e eles o[n]revogarão.[n][w][e]
 
 [msg MSG_NIGHT_MASTER_YUSUKE__2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Indo direto?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Se comportando?[n][w][e]
 [s][vp 8 2 1 1139 65535 0][f 4 10 65535 0 0]O que haveria de errado em[n]despertar os corações dos criminosos?[n]Estamos fazendo a coisa certa.[n][w][e]
 
 [msg MSG_NIGHT_MYROOM_D02_052 [Morgana]]

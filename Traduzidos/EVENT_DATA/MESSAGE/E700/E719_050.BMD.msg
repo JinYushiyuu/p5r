@@ -6,7 +6,7 @@
 [s][vp 8 0 0 0 6 0]...Ok, está tudo pronto.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Diretor]]
-[s][vp 8 0 0 0 5 0]Ok, devemos ser capazes de fazer muitas tomadas[n]interessantes. É "Tora Wimpy", a propósito.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Ok, devemos ser capazes de fazer muitas tomadas[n]interessantes. É "Tora Covarde", a propósito.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Promover uma política excessivamente[n]otimista apenas para atrair votos[n]durante a campanha eleitoral...[n][f 1 3 65535][w][e]

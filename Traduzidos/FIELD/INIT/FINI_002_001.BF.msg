@@ -401,7 +401,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Amanhã finalmente[n]acaba a exposição... Tenho certeza que[n]mais uma vez tudo ficará bem.[n][w][e]
 
 [msg MSG_NIGHT_D02_MILITARY_S [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Lembre-se de perguntar ao cara da loja de airsoft sobre o saco de papel[n]…[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Lembre-se de perguntar ao cara da loja de airsoft[n]sobre o saco de papel[n]…[n][w][e]
 
 [msg MSG_NIGHT_D02_MILITARY_S_2 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Quando você pensou em ir à loja de[n]airsoft para perguntar sobre aquele[n]saco de papel?[n][w][e]

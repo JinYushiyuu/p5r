@@ -904,7 +904,7 @@
 [s][bup 0 4 2 65535 0][f 4 23 1 4 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 6102 65535 0]É imperdoável. Eu não posso acreditar que ele se[n]aproveitou de seus alunos assim.[n][w][e]
 
 [msg BRIEFING_TARGET_D02_2_me_4 [Yusuke]]
-[s][bup 0 5 2 65535 0][f 4 23 1 5 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 4103 65535 0]Madarame... eu mesmo porei um fim a[n]seu engano vil.[n][w][e]
+[s][bup 0 5 2 65535 0][f 4 23 1 5 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 4103 65535 0]Madarame... eu mesmo porei um fim a[n]sua traição vil.[n][w][e]
 
 [msg BRIEFING_TARGET_D03_mes0 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 23 1 2 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 7047 65535 0]Se essas fotos circularem,[n]nossas vidas estarão arruinadas.[n][w][e]

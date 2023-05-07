@@ -5048,7 +5048,7 @@
 [s][bup 0 216 3 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Sinceramente, é difícil[n]continuar[n]este trabalho e minha pesquisa ao mesmo tempo.[n][f 1 3 65535][w][e]
 
 [msg MSG_1271_0_0 [Maruki]]
-[s][bup 0 216 4 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Haha, claro. Eu não venho aqui para[n]beber chá e sentar em nossas mãos.[n][f 1 3 65535][w][e]
+[s][bup 0 216 4 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Haha, claro. Eu não só coloco os pés para cima[n]e bebo chá aqui, sabe..[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não importa o quão importante[n]minha pesquisa é. Não posso[n]negligenciar este trabalho.[n][f 1 3 65535][w][e]
 [s][bup 0 216 3 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Sinceramente, é difícil[n]continuar[n]este trabalho e minha pesquisa ao mesmo tempo.[n][f 1 3 65535][w][e]
 

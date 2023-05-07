@@ -75,7 +75,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Assim como o mau tempo,[n]isso também pode[n]afetar os Mementos.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Menino pálido]]
-[s][vp 8 2 0 39052 15 0]*suspiro* Meu emprego de meio período[n]é uma bola...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 39052 15 0]*suspiro* Meu emprego de meio período[n]é tão chato.....[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Amigo carinhoso]]
 [s][vp 8 0 0 0 65535 0]Você disse que trabalha no [clr 2]Beef Bowl na[n]Central Street[clr 27], certo? Achei[n]o salário bom.[n][f 1 3 65535][w][e]

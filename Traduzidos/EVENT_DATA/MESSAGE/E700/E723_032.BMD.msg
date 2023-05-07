@@ -20,7 +20,7 @@
 [sel SEL_004_0_0 top]
 [s][f 0 8 2 1 2217]É isso mesmo, hein?[clr 27][e]
 [s]Ele se preocupa muito.[e]
-[s][f 0 8 2 1 2217]Provavelmente graças a ela.[clr 27][e]
+[s][f 0 8 2 1 2217]Provavelmente graças a você.[clr 27][e]
 
 [msg MSG_005_0_0 [Maruki]]
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 35 5 1014]Bem, eu certamente ainda não[n]tenho uma ideia do[n]estado emocional de cada aluno.[n][f 1 3 65535][w][e]

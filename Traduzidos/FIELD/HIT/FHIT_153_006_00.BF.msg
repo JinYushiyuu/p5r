@@ -42,7 +42,7 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4023 65535 0]Parece a sala de controle de segurança...[n][w][e]
 
 [msg mini_EV_e210_143_mes02 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]E ir! Vamos desligar[n]essas coisas imediatamente![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Abrimos! Vamos desligar[n]essas coisas imediatamente![n][w][e]
 
 [msg mini_EV_e210_144_mes01 [Guarda das Sombras em perseguição]]
 [s]Parece que os invasores passaram pelo jardim[n]central...[n][w][e]

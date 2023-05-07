@@ -28,7 +28,7 @@
 
 [msg MSG_006_0_0 [Estudante]]
 [s][vp 8 0 0 0 65535 0]Fiuuu! Estou acima da média.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Essa é a linha real.[n]Meu dinheiro de bolso está seguro...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Essa é a verdadeira linha divisória[n]Minha mesada está segura por enquanto...[n][f 1 3 65535][w][e]
 
 [msg MND_007_0_1]
 [s][vp 8 0 0 0 65535 0]Quem sabe que nota eu tirei...[n][f 1 3 65535][w][e]

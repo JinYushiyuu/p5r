@@ -233,13 +233,13 @@
 [s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sim Sim. Todos eles dizem isso[n]quando são pegos.[n][w][e]
 
 [msg MSG_E126101_003_01 [Sojiro]]
-[s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem quando eu estava começando a pensar[n]que estava indo direto.[n][w][e]
+[s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem quando eu estava começando a pensar[n]que estava indo bem...[n][w][e]
 
 [msg MSG_E126101_003_02 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu não te disse para não criar problemas?[n][w][e]
 
 [msg MSG_E126101_004_00 [Sojiro]]
-[s][bup 0 103 5 0 0][f 4 10 65535 0 0][f 4 23 1 816 2 10 0 0][vp 8 2 1 0 65535 0]Olha, apenas tente mantê-lo em linha reta.[n][w][e]
+[s][bup 0 103 5 0 0][f 4 10 65535 0 0][f 4 23 1 816 2 10 0 0][vp 8 2 1 0 65535 0]Olha, apenas tente se manter na linha.[n][w][e]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Basta um acidente para arruinar seu futuro. Você[n]sabe que está em liberdade condicional, certo?[n][w][e]
 
 [sel SEL_E126101_005_00 top]
@@ -827,11 +827,11 @@
 [s][f 4 10 65535 0 0]Farei com que seja aberto diante de seus olhos.[n][w][e]
 
 [msg MSG_NIGHT_MASTER_YUSUKE_ [Sojiro]]
-[s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 2 1 5018 65535 0]Você está indo direto, eu espero.[n][w][e]
+[s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 2 1 5018 65535 0]Está se comportando, eu espero.[n][w][e]
 [s][f 4 10 65535 0 0]Lembre-se de que você ainda está em liberdade[n]condicional. Um passo em falso e eles o[n]revogarão.[n][w][e]
 
 [msg MSG_NIGHT_MASTER_YUSUKE__2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Indo direto?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Se comportando?[n][w][e]
 [s][vp 8 2 1 1139 65535 0][f 4 10 65535 0 0]O que haveria de errado em[n]despertar os corações dos criminosos?[n]Estamos fazendo a coisa certa.[n][w][e]
 
 [msg MSG_NIGHT_MYROOM_D02_052 [Morgana]]

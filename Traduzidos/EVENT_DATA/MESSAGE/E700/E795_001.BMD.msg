@@ -635,7 +635,7 @@
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você entendeu? Deixe-me[n]saber se houver mais alguma coisa[n]que eu possa explicar para você.[n][f 1 3 65535][w][e]
 
 [sel SEL_183_0_0 top]
-[s]Você é uma grande ajuda![e]
+[s]Você será de grande ajuda![e]
 [s]Foi fácil de entender.[e]
 
 [msg MSG_184_0_0 [Morgana]]

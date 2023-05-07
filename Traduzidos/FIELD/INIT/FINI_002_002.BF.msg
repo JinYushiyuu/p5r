@@ -8,11 +8,11 @@
 [s][vp 8 2 65535 0 0 0]Eu tenho que ir para a sala dos[n]professores...[n][w][e]
 
 [msg MND_E12010101_000_00]
-[s][vp 8 2 65535 0 0 0]A sala dos professores deve ser[n]neste andar. Nós vemos...[n][w][e]
+[s][vp 8 2 65535 0 0 0]A sala dos professores deve ser[n]neste andar. Vejamos...[n][w][e]
 
 [msg MND_E123101_000]
 [s][vp 8 2 65535 0 0 0]Sakamoto parece querer[n]falar sobre algo...[n][w][e]
-[s][vp 8 2 65535 0 0 0]Eu deveria encontrá-lo no [clr 2]rooftop[n][clr 27]...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Eu deveria encontrá-lo no [clr 2]Telhado[n][clr 27]...[n][w][e]
 
 [msg MSG_E139101_000_00 [Ryuji]]
 [s][bup 0 2 202 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Lá vem Mishima![n][f 1 2 25][e]

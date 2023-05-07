@@ -93,7 +93,7 @@
 
 [msg MSG_025_0_0 [Nakanohara]]
 [s][bup 0 214 0 0 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Ele é um artista talentoso, mas está em dívida[n]com Madarame, que o acolheu depois que sua mãe[n]morreu.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]É a lente perfeita.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]É o alvo perfeito.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Ryuji]]
 [s][f 4 16 2 3 301 1 65535][vp 8 0 0 42 65535 0]Yusuke terá que nos ouvir[n]claro![n][f 1 3 65535][w][e]

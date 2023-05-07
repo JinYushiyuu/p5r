@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 7 301 1][vp 8 0 0 1 65535 0]Olhar! É o castelo de ontem![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 7 301 1][vp 8 0 0 1 65535 0]Olhe! É o castelo de ontem![n][f 1 3 65535][w][e]
 
 [msg MSG_000_5_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 57 65535 0]Conseguimos voltar...[n]Isso significa que o que[n]aconteceu ontem também foi real...[n][f 1 3 65535][w][e]
@@ -39,7 +39,7 @@
 
 [msg MSG_011_0_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]As Sombras estão se mexendo,[n]então eu vim para[n]dar uma olhada...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]...Pense em se encontrar aqui[n]na entrada, quando da última[n]vez você escapou por pouco![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]...E achar que vocês voltariam aqui[n]na entrada, quando da última[n]quase não conseguiram escapar![n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Que lugar é esse?[n]...É a escola?[n][f 1 3 65535][w][e]
@@ -147,7 +147,7 @@
 [s][vp 8 0 0 75 65535 0][bup 0 2 3 65535 0][f 4 10 65535 0 0]...Obrigado, amigo.[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Morgana]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 10 300 1][vp 8 0 0 69 65535 0]Tudo bem, vamos nos ocupar.[n]Siga-me![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 10 300 1][vp 8 0 0 69 65535 0]Tudo bem, vamos nessa então.[n]Siga-me![n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]Uma Persona não é apenas um[n]poder sobrenatural: é[n]uma armadura para o coração.[n][f 1 3 65535][w][e]

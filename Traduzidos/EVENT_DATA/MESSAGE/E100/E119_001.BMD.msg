@@ -8,7 +8,7 @@
 [s][vp 8 0 0 3 65535 0]Você voltou ao mundo real.[n]Bem-vindo de volta.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Sakamoto]]
-[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Huh? Devolvido...?[n][f 1 3 65535][w][e]
+[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Huh? Retornamos...?[n][f 1 3 65535][w][e]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Isso significa que estivemos fora?[n][f 1 3 65535][w][e]
 
 [sel SEL_006_0_0 top]

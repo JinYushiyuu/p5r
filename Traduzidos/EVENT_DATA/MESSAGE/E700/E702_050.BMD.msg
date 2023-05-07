@@ -62,7 +62,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas vamos a um restaurante. Nada[n]particularmente caro, eu juro.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Makoto]]
-[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 2060 65535 0]Obrigada! Você é uma grande ajuda para mim.[n][f 1 3 65535][w][e]
+[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 2060 65535 0]Obrigada! Você será de grande ajuda para mim.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Fico feliz que você tenha concordado.[n]Se você tivesse dito não, não sei[n]a quem mais eu poderia ter perguntado...[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]

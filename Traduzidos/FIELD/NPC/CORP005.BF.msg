@@ -122,7 +122,7 @@
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5001 65535 0][f 4 10 65535 0 0]Se você quiser me pedir uma mesada,[n]a resposta é não. Se você quer[n]dinheiro, ganhe.[n][w][e]
 
 [msg MSG_SOJIRO_NG_D02_03 [Sojiro]]
-[s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5099 65535 0][f 4 10 65535 0 0]Por que eu coloquei um menino assim na minha[n]casa? Eu estarei ficando velho...[n][w][e]
+[s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5099 65535 0][f 4 10 65535 0 0]Por que eu coloquei um menino assim na minha[n]casa? Eu estou ficando velho...[n][w][e]
 
 [msg MSG_SOJIRO_NG_D02_04 [Sojiro]]
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5081 65535 0][f 4 10 65535 0 0]Não vá a lugares movimentados,[n]entendido? Se você se envolver em[n]negócios obscuros, não é minha culpa.[n][w][e]

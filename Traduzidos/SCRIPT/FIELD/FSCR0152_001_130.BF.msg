@@ -14,7 +14,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 7 0 0]Dessa forma, você pode pegar[n]o inimigo de surpresa e[n]atacar primeiro.[n][w][e]
 
 [msg D01_02_e129_030_mes05 [Ryuji]]
-[s][bup 0 2 1 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 8 0 0]Então, salte sobre eles e[n]ataque primeiro... tudo limpo![n][w][e]
+[s][bup 0 2 1 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 8 0 0]Então, salte sobre eles e[n]ataque primeiro... Certo, entendi![n][w][e]
 
 [msg D01_02_e129_030_mes06 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 9 0 0]Uh, você só pode[n]assistir, sabe? Você não pode[n]usar uma Persona...[n][w][e]

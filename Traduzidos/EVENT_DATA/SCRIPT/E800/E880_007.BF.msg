@@ -239,10 +239,10 @@
 [s][vp 1 0 0 0 0 0]Vejo você no[n]Inokashira Park? É melhor[n]lembrar disso...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0412_1]
-[s][vp 1 0 0 0 0 0]Ouvi dizer que[n]uma primeira vez incrível chegou![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Ouvi dizer que[n]entrou uma aluna incrível[n]no primeiro ano![n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0412_2]
-[s][vp 1 0 0 0 0 0]Uau, aquela garota com o arco é[n]magra. Ela é a primeira garota?[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Uau, aquela garota com o arco é[n]magra. Ela é do primeiro ano?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0412_3]
 [s][vp 1 0 0 0 0 0]O bandido e o aluno modelo[n]que chegam ao mesmo tempo?[n]Oh oh...[n][f 1 3 65535][w][e]

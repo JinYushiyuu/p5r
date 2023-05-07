@@ -16,7 +16,7 @@
 [s]Desculpa, não é nada.[e]
 
 [msg MSG_E10410200_POLICE_002 [Funcionário antipático]]
-[s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Hm, você quer chegar ir a essa[n]casa nesse endereço...?[n][w][e]
+[s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Hm, você quer ir a essa casa[n]que  está localizada neste endereço...?[n][w][e]
 [s][vp 8 2 1 0 850 0]É em um beco aqui atrás.[n]Pegue a primeira à direita[n]depois daquele prédio com as escadas.[n][w][e]
 
 [msg MSG_E10410200_POLICE_102 [Funcionário antipático]]

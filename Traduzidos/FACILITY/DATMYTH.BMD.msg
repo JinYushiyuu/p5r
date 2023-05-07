@@ -599,10 +599,10 @@
 [s]RESERVA[n]Mitologia[n][e]
 
 [msg myth_200]
-[s]Um ser baseado[n]no protagonista dos[n]romance de Maurice[n]Leblanc, Arsène[n]Lupin. Ele pode aparecer[n]em qualquer lugar e é um mestre[n]do disfarce.[n]Ele é famoso por estar[n]do lado dos fracos.[n][e]
+[s]Um ser baseado[n]no protagonista dos[n]romance de Maurice[n]Leblanc, Arsène[n]Lupin. Ele pode aparecer[n]em qualquer lugar[n]e é um mestre[n]do disfarce.[n]Ele é famoso por estar[n]do lado dos fracos.[n][e]
 
 [msg myth_201]
-[s]Um ser baseado[n]no protagonista dos[n]romance de Maurice[n]Leblanc, Arsène[n]Lupin. Ele pode aparecer[n]em qualquer lugar e é um mestre[n]do disfarce.[n]Ele é famoso por estar[n]do lado dos fracos.[n][e]
+[s]Um ser baseado[n]no protagonista dos[n]romance de Maurice[n]Leblanc, Arsène[n]Lupin. Ele pode aparecer[n]em qualquer lugar[n]e é um mestre[n]do disfarce.[n]Ele é famoso por estar[n]do lado dos fracos.[n][e]
 
 [msg myth_202]
 [s]corsário do século 17 que se tornou um famoso[n]pirata. No momento de sua execução, ele afirmou[n]que havia escondido tesouro, criando assim[n]muitas lendas.[n][e]

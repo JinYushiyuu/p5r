@@ -6,7 +6,7 @@
 [s][f 4 23 1 859 3 10 0 0][vp 8 2 1 0 859 0]Não era Sakamoto-senpai?[n]Eu o vi subindo[n]as escadas...[n][w][e]
 
 [msg MSG_018_0_0 [Calouro animada]]
-[s][f 4 23 1 860 3 10 0 0][vp 8 2 1 0 860 0]Talvez ele tenha feito alguém subir para socá-lo.[n][w][e]
+[s][f 4 23 1 860 3 10 0 0][vp 8 2 1 0 860 0]Talvez ele tenha feito alguém subir para bater nele.[n][w][e]
 
 [msg MSG_019_0_0 [Calouro motivado]]
 [s][f 4 23 1 859 3 10 0 0][vp 8 2 1 0 859 0]Oh, você diz como no ano passado durante a[n]prática? Dizem que foi uma briga furiosa...[n][w][e]
@@ -99,10 +99,10 @@
 [s][f 4 23 1 856 3 10 0 0][vp 8 2 1 0 856 0]De qualquer forma, obrigado por[n]se voluntariar para cuidar das[n]plantas.[n][w][e]
 
 [msg MSG_1ST_CONTACT_HARU_010 [Estudante maduro do terceiro ano]]
-[s][f 4 23 1 855 3 10 0 0][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 3182 65535 0]Oh nenhum problema. Só não tenho certeza se estou[n]à altura do trabalho...[n][w][e]
+[s][f 4 23 1 855 3 10 0 0][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 3182 65535 0]Oh, sem problema... Só não tenho certeza se estou[n]à altura do trabalho...[n][w][e]
 
 [msg MSG_1ST_CONTACT_HARU_011 [Professor gentil]]
-[s][vp 8 2 1 0 856 0]Não se preocupe.[n]Você é uma grande ajuda.[n][w][e]
+[s][vp 8 2 1 0 856 0]Não se preocupe.[n]Você será de grande ajuda.[n][w][e]
 [s][vp 8 2 1 0 856 0]Ah, vou garantir que o telhado esteja sempre[n]aberto para você. Haverá muito trabalho a fazer,[n]mas você vai conseguir.[n][w][e]
 
 [msg MSG_1ST_CONTACT_HARU_012 [Estudante maduro do terceiro ano]]

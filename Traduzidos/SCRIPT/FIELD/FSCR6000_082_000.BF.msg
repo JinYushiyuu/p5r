@@ -10,7 +10,7 @@
 
 [msg QUEST_82_BATTLE_PRE_mes0_3 [Sombra de Ono]]
 [s][vp 8 2 1 46950 65535 0]Bem, eu entendo que você está irritado[n]mesmo com a máscara![n][w][e]
-[s]Isso mostra o quanto você está[n]interessado em mim, Heiji Ono,[n]isso? Veheer?[n][w][e]
+[s]Isso mostra o quanto você está[n]interessado em mim, Heiji Ono,[n]isso? Viu só?[n][w][e]
 
 [msg QUEST_82_BATTLE_PRE_mes0_4 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4091 65535 0]...É realmente desviado.[n][w][e]

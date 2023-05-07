@@ -32,8 +32,8 @@
 [s][f 5 14]Você é um irmão, cara...[n][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
-[s][f 5 14]Vabbeh, até amanhã![n][w][e]
+[s][f 5 14]Bem, até amanhã![n][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]
-[s][f 5 14][f 5 15]Vamos salvar aqueles pobres[n]que foram espancados. Eu e você.[n][w][e]
+[s][f 5 14][f 5 15]Vamos salvar aqueles coitados[n]que foram espancados. Eu e você.[n][w][e]
 

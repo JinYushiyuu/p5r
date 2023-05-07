@@ -5,7 +5,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 17 301 1][vp 8 0 0 2 65535 0]...O que você acha!?![n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Morgana]]
-[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Uau... Então também[n]Ryuji tem o potencial...[n][f 1 3 65535][w][e]
+[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Uau... Então o[n]Ryuji também tem o potencial...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Mesmo se eu tivesse que me desculpar agora...[n]eu nunca vou te perdoar![n][f 1 3 65535][w][e]
@@ -53,7 +53,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Calma, Ryuji! Esta garota[n]não é a verdadeira.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Morgana]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 12 301 1][vp 8 0 0 19 65535 0]Ela é como aquelas escravas... a sendo moldada[n]pelo conhecimento de Kamoshida sobre ela![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 12 301 1][vp 8 0 0 19 65535 0]Ela é como aqueles escravos... está sendo moldada[n]pela cognição de Kamoshida sobre ela![n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Sombra de Kamoshida]]
 [s][bup 0 202 101 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Você está com inveja?[n][f 1 3 65535][w][e]

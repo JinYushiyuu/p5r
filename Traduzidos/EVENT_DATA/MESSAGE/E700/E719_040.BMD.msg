@@ -13,7 +13,7 @@
 [s][vp 8 0 0 0 7 0]Então ele está apenas copiando as alegações do[n]governo de outro político?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Homem de aparência entediada]]
-[s][vp 8 0 0 0 6 0]Pelo visto. Tsk, vabbeh...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 6 0]Pelo visto. Tsk, bem...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Detrator de Yoshida]]
 [s][vp 8 0 0 0 65535 0]Então, depois de roubar[n]fundos do partido, agora você também rouba[n]ideias, "Tora covarde"!?![n][f 1 3 65535][w][e]

@@ -1,6 +1,7 @@
 A tradução possui alguns padrões universais que precisam ser mantidos para a coerência da obra.
 
 Codinomes permanecem em inglês (Joker, Mona, Queen...)
+Big Hair/Frizzy Hair = Cabeludinho (apelido que o Morgana chama o Joker no início)
 
 Phantom Thieves permanece em inglês, assim como Phantom Thief
 Trickster = Trapaceiro

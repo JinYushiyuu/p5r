@@ -40,7 +40,7 @@
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57468 65535 0]Hum, por exemplo... tem alguém[n]na sua classe que você gosta?[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 7021 65535 0]Também não é fácil falar sobre[n]isso. Aliás, não, nenhum.[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 7021 65535 0]Também não é fácil falar sobre[n]isso. Aliás, não, ninguém.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]未使用ラベル[n][f 1 3 65535][w][e]

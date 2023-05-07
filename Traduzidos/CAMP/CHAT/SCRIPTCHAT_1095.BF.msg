@@ -5,7 +5,7 @@
 [s][f 5 14]Estou em Shibuya. Eu posso[n]chegar rapidamente, se[n]tivermos que nos encontrar.[n][w][e]
 
 [msg MSG_001_1_0 [Ann]]
-[s][f 5 14]Eu me sinto nervoso, estou andando por[n]Shibuya.[n][w][e]
+[s][f 5 14]Eu me sinto nervosa, estou andando por[n]Shibuya.[n][w][e]
 
 [msg MSG_001_2_0 [Ann]]
 [s][f 5 14]Estou fazendo compras em Shibuya.[n][w][e]

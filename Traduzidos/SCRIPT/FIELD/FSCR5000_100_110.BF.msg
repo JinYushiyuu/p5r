@@ -20,7 +20,7 @@
 [s][f 4 23 1 65535 3 5 11 5][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 1 0 0 7 0 0]*suspiro* Só posso imaginar[n]qual será o resultado final.[n][w][e]
 
 [msg JULY_AZITO_TALK_01_mes08 [Ryuji]]
-[s][f 4 23 1 65535 3 5 11 5][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 1 0 0 8 0 0]Vabbeh, agora se foi.[n]Quem se importa agora?!?[n][w][e]
+[s][f 4 23 1 65535 3 5 11 5][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 1 0 0 8 0 0]Bem, agora se foi.[n]Quem se importa agora?!?[n][w][e]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 1 0 0 9 0 0]Mais importante é a enorme[n]popularidade dos Phantom Thieves![n]Isso não é ótimo?!?[n][w][e]
 
 [msg JULY_AZITO_TALK_01_mes09 [Ann]]

@@ -44,7 +44,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0]E eu não sinto muito.[n][w][e]
 
 [msg GOTO_MEME_NG_0714_06 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7063 65535 0]Vabbeh... Significa que[n]hoje não iremos...[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7063 65535 0]Bem... Significa que[n]hoje não iremos...[n][w][e]
 
 [msg GOTO_MEME_NG_1008_01 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2112 65535 0]É um momento muito delicado.[n]Devemos ficar longe de qualquer[n]atividade até que tenhamos exames.[n][w][e]

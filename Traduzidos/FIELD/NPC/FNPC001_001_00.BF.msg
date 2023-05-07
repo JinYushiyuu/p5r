@@ -4401,7 +4401,7 @@
 [s][f 4 23 1 280 3 10 0 10][vp 8 2 1 0 280 0]Huh? Eu não vi você com Yoshida?[n][w][e]
 [s][vp 8 2 1 0 280 0]Ei, você ouviu? Há rumores de que[n]"Tora covarde" foi capaz de mudar graças[n]a uma secretária da escola?[n][w][e]
 [s][vp 8 2 1 0 280 0]Presumo que você seja a secretária.[n][w][e]
-[s][vp 8 2 1 0 280 0]Você foi bom em melhorar "Tora[n]wimp". Por que você não usa[n]suas habilidades trabalhando para mim?[n][w][e]
+[s][vp 8 2 1 0 280 0]Você foi bom em melhorar "Tora[n]Covarde". Por que você não usa[n]suas habilidades trabalhando para mim?[n][w][e]
 [s][vp 8 2 1 0 280 0]...Estou brincando. Se eu te afastasse dele, ele[n]não me perdoaria.[n][w][e]
 
 [msg MSG_MATUSHITA_END [Membro da Dieta Matsushita]]

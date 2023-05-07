@@ -993,7 +993,7 @@
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Era como um catálogo...[n]Meus olhos doem.[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_67_ReadEnd]
-[s][vp 1 0 0 0 0 0]Terminei de ler[clr 3][var 0][clr 27]...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Terminei de ler[n][clr 3][var 0][clr 27]...[n][f 1 3 65535][w][e]
 
 [msg MSG_BookID_67_ReadEnd_AF [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mais cedo ou mais tarde você deve convidar[n]alguém para ir.[n]Mas não desperdice dinheiro.[n][f 1 3 65535][w][e]
@@ -1011,7 +1011,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 22 65535 1 41]Mesmo nos momentos mais sombrios, ele[n]continuou a aproveitar a vida...[n]Muito admirável.[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_69_ReadEnd]
-[s][vp 1 0 0 0 0 0]Terminei de ler[clr 3][var 0][clr 27]...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Terminei de ler[n][clr 3][var 0][clr 27]...[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0][f 4 22 65535 1 41]Acho que aprendi muito[n]sobre a vida em geral...[n][f 1 3 65535][w][e]
 
 [msg MSG_BookID_70_ReadEnd [Morgana]]
@@ -1019,7 +1019,7 @@
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Eu tinha minhas dúvidas sobre este livro,[n]mas vale a pena ler a segunda metade![n][f 1 3 65535][w][e]
 
 [msg MND_BookID_70_ReadEnd]
-[s][vp 1 0 0 0 0 0]Terminei de ler[clr 3][var 0][clr 27]...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Terminei de ler[n][clr 3][var 0][clr 27]...[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Vale a pena ler a segunda metade.[n][f 1 3 65535][w][e]
 
 [msg MSG_BookID_70_SYSTEM]
@@ -1030,7 +1030,7 @@
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Li no verso que[n]não está à venda... Não que[n]me surpreenda, dado o conteúdo.[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_71_ReadEnd]
-[s][vp 1 0 0 0 0 0]Terminei de ler[clr 3][var 0][clr 27]...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Terminei de ler[n][clr 3][var 0][clr 27]...[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Que quantidade incrível[n]de conteúdo...[n][f 1 3 65535][w][e]
 
 [msg MSG_BookID_71_SYSTEM]
@@ -1038,16 +1038,16 @@
 
 [msg MSG_BookID_72_ReadEnd [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1167 65535 0]Você terminou de ler[n][clr 3][var 0][clr 27].[n][f 1 3 65535][w][e]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Não pensei que jogar sinuca[n]foi tão divertido![n][f 1 3 65535][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Não pensei que jogar sinuca[n]fosse tão divertido![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]O livro ainda tem uma descrição detalhada e fotos[n]do tiroteio em massa que estamos tentando[n]aprender.[n][f 1 3 65535][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mas teremos que descobrir se você[n]é realmente capaz de fazer isso também.[n]Vamos jogar um desses um dia![n][f 1 3 65535][w][e]
 
 [msg MND_BookID_72_ReadEnd]
-[s][vp 1 0 0 0 0 0]Terminei de ler[clr 3][var 0][clr 27]...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Terminei de ler[n][clr 3][var 0][clr 27]...[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Vale a pena ler a segunda metade.[n][f 1 3 65535][w][e]
 
 [msg MSG_BookID_72_SYSTEM]
-[s]Agora você pode tentar um [clr 2]Shot[n]massé[clr 27] ao jogar sinuca![n][w][e]
+[s]Agora você pode tentar um [clr 2]Massé Shot[n][clr 27]ao jogar sinuca![n][w][e]
 
 [msg MSG_HON_050_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Depurando. Nenhum livro correspondente.[n][f 1 3 65535][w][e]

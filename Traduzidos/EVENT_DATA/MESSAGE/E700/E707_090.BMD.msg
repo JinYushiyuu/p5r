@@ -96,7 +96,7 @@
 
 [msg MSG_026_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum. Mas se você não pode me ver,[n]como saberá que estou correndo tão[n]rápido que você não pode me ver?[n][f 1 3 65535][w][e]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][vp 8 0 0 0 65535 0]Não sei, vabbeh.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][vp 8 0 0 0 65535 0]Não sei, bem.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Conversamos demais.[n]Ficamos sem monja...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 7038 65535 0]Vamos grelhar alguns palitos?[n][f 1 3 65535][w][e]
 

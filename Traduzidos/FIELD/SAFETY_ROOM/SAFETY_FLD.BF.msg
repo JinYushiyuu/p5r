@@ -2889,7 +2889,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 1 22 65535 0]Caso surjam questões além da minha compreensão,[n]confio em meus camaradas mais experientes.[n][w][e]
 
 [msg MADARAME_YUSUKE_mes17 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 2 3 5 11 5][vp 8 0 1 23 65535 0]Sim! Se precisar de alguma coisa,[n]rookie, venha até mim![n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 2 3 5 11 5][vp 8 0 1 23 65535 0]Yeah! Eu te cubro,[n]novato.[n][w][e]
 
 [msg MADARAME_YUSUKE_mes18 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 23 1 4 3 5 11 5][vp 8 0 1 24 65535 0]Mmm... Se você precisar de esclarecimentos,[n]talvez seja melhor entrar em contato com Morgana.[n][w][e]

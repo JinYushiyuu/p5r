@@ -84,7 +84,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 300 1][vp 8 0 0 30 65535 0]Nãooooooo![n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Bom, mas é preciso dizer que com[n]esse case arrasamos![n]É uma satisfação, né?[n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Bem, pelo menos parece que[n]resolvemos esse caso totalmente,né?[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Em que sentido?[n][f 1 3 65535][w][e]

@@ -4,7 +4,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos, vamos entrar na fila![n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7024 65535 0]Aaah... Que merda é boa,[n]até a última gota. Nenhuma[n]linha é muito longa para essas coisas.[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7024 65535 0]Aaah... Isso e incrivelmente bom,[n]até a última gota. Essa coisa vale a pena comer,[n]não importa a espera.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você também não está apaixonado[n]por este molho de soja?[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]

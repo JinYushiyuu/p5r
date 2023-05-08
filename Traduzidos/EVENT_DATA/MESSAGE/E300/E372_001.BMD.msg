@@ -229,7 +229,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 91 65535 0]E como é você, acho que[n]você vai aceitar.[n][f 1 3 65535][w][e]
 
 [msg MND_068_0_0]
-[s][vp 8 0 0 0 65535 0]Eu sinto um vínculo de confiança[n]exigindo de Akechi...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Eu sinto um vínculo de confiança[n]exalando de Akechi...[n][f 1 3 65535][w][e]
 
 [msg MSG_073_0_0 [Akechi]]
 [s][bup 0 9 1 2 0][f 4 10 65535 0 0][vp 8 0 0 96 65535 0]Obrigado pelo bate-papo. Faz[n]um tempo desde a última vez[n]que consegui fazer algo assim.[n][f 1 3 65535][w][e]

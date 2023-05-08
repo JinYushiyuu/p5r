@@ -22,7 +22,7 @@
 [s]É impossível recuperar munição[n]dentro de um Palácio, mas basta sair[n]para reabastecer automaticamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_008 [Morgana]]
-[s][bup 0 3 1 0 0][vp 8 0 2 1005 0 3][f 4 10 65535 0 0]Tudo bem, é minha vez[n]mostrar minha arma![n][f 1 3 65535][w][e]
+[s][bup 0 3 1 0 0][vp 8 0 2 1005 0 3][f 4 10 65535 0 0]Tudo bem, é minha vez[n]de mostrar minha arma![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_009 [Morgana]]
 [s]行くぞ必殺、パチンコストラーイクッ![n][f 1 3 65535][w][e]

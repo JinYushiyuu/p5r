@@ -10679,7 +10679,7 @@
 [s][vp 1 0 0 8533 0 0]Por que você vai às compras?[n]Você pode comprar tudo online.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes534]
-[s][vp 1 0 0 8534 0 0]Eu quero um novo PC... Vabbeh,[n]vou me contentar com algum[n]novo componente...[n][f 1 6 65535][e]
+[s][vp 1 0 0 8534 0 0]Eu quero um novo PC... Bem,[n]vou me contentar com algum[n]novo componente...[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes535]
 [s][vp 1 0 0 8535 0 0]Ir às compras, hein...? Falar com[n]funcionários ainda me assusta um pouco...[n][f 1 6 65535][e]

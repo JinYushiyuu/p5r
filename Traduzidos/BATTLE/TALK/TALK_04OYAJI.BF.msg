@@ -179,7 +179,7 @@
 [s]Merda, dane-se as gentilezas.[n]Ser morto por uma xícara de chá[n]seria a última palavra.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_16]
-[s]Oh maldito. Então nada de chá, eh? Vabbeh, você[n]pode me oferecer pelo menos uma chance?[n][w][e]
+[s]Oh maldito. Então nada de chá, eh? Bem, você[n]pode me oferecer pelo menos uma chance?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04]
 [s]Você foi muito inteligente em me colocar nas[n]cordas assim.[n][w][e]

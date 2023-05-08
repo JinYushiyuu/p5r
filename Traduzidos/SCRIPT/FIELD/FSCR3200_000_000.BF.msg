@@ -742,7 +742,7 @@
 [s]Elogiada pela crítica, a exposição[n]ilustra a evolução do estilo[n]do mestre ao longo dos anos.[n][w][e]
 
 [msg TV_NEWS_0520_100_00 [Morgana]]
-[s][bup 0 3 0 0 0]Umpf, vabbeh.[n]Espere e veja...[n][w][e]
+[s][bup 0 3 0 0 0]Umpf, bem.[n]Espere e veja...[n][w][e]
 
 [msg TV_NEWS_0523_000_00 [Locutor]]
 [s]É final de maio[n]e as árvores estão lançando[n]novas folhas.[n][w][e]

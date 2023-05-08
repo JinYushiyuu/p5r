@@ -266,7 +266,7 @@
 
 [msg MSG_COOP_CHECK_R8 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]Você vai lá de novo? O que[n]você está fazendo aí?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vabbeh, eu sei que não cabe a mim dizer, mas[n]esteja pronto para qualquer coisa, nunca se sabe.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, eu sei que não cabe a mim dizer, mas[n]esteja pronto para qualquer coisa, nunca se sabe.[n][w][e]
 
 [sel SEL_COOP_CHECK top]
 [s]Passe um tempo com ele[e]

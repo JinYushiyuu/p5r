@@ -34,7 +34,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Alguém como eu realmente merece[n]um lugar na equipe titular?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Não se preocupe.[n]Confie em si mesmo![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Não se preocupe.[n]Confie em si mesma![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Eles reconheceram seu talento![n]É porque você é quem[n]mais trabalha![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Shiho]]
@@ -42,7 +42,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Sim... Voleibol é tudo[n]que eu tenho afinal.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_3_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Mas acima de tudo, como é[n]a perna? Parece bem inchado.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Mas acima de tudo, como está[n]a perna? Parece bem inchada.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_5_0 [Shiho]]
 [s][bup 0 212 3 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Não é nada. É normal...[n]Principalmente antes de uma[n]reunião...[n][f 1 3 65535][w][e]
@@ -56,18 +56,18 @@
 
 [msg MSG_013_0_0 [Shiho]]
 [s][bup 0 212 4 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Hã?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]O que você quer...?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]O que ele quer...?[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Mishima]]
 [s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Ele não disse...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Shiho]]
 [s][bup 0 212 3 0 0][vp 1 0 0 24 0 0]......[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Ann, I...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Ann, eu...[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][vp 1 0 0 34 0 0]......[n][f 1 3 65535][w][e]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Tudo vai ficar bem! Aposto que ele[n]quer falar com os proprietários ou algo assim.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Tudo vai ficar bem! Aposto que ele[n]quer falar com os titulares ou algo assim.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Shiho]]
 [s][bup 0 212 3 0 0][vp 1 0 0 15 0 0]......[n][f 1 3 65535][w][e]

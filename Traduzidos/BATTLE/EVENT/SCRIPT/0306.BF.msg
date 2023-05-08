@@ -569,7 +569,7 @@
 
 [msg MSG_BTL_EX_FUTABA_REACTI_9 [Futaba]]
 [s][bup 0 8 602 65535 0][f 4 10 65535 0 0][vp 8 0 2 1093 0 8]Sim, não importa se eu cometer[n]erros. Nesse caso, tudo o que tenho a[n]fazer é levantar.[n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1094 0 8][f 4 10 65535 0 0]E o mesmo vale para o que[n]está acontecendo... Essas crianças[n]ensinaram-me![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1094 0 8][f 4 10 65535 0 0]E o mesmo vale para o que[n]está acontecendo... Esses caras[n]ensinaram-me![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_EX_FUTABA_REACTI_10 [Futaba]]
 [s][bup 0 8 602 65535 0][f 4 10 65535 0 0][vp 8 0 2 1100 0 8]Não! Até o impossível pode acontecer com eles![n][f 1 3 65535][w][e]
@@ -582,5 +582,5 @@
 
 [msg MSG_BTL_EX_FUTABA_REACTI_13 [Futaba]]
 [s][bup 0 8 602 65535 0][f 4 10 65535 0 0][vp 8 0 2 1093 0 8]Sim, não importa se eu cometer[n]erros. Nesse caso, tudo o que tenho a[n]fazer é levantar.[n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1094 0 8][f 4 10 65535 0 0]E o mesmo vale para o que[n]está acontecendo... Essas crianças[n]ensinaram-me![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1094 0 8][f 4 10 65535 0 0]E o mesmo vale para o que[n]está acontecendo... Esses caras[n]ensinaram-me![n][f 1 3 65535][w][e]
 

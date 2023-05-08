@@ -38,20 +38,20 @@
 [s][bup 0 2 4 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 13 0 0]O que?!? Você me ouviu?[n]Ele nem atira as pelotas...[n][w][e]
 
 [msg D01_02_129_061_mes11 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 14 0 0]Não se preocupe, tenho certeza que[n]vai funcionar. Ataque, Cabelo Grande![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 14 0 0]Não se preocupe, tenho certeza que[n]vai funcionar. Ataque, Cabeludinho![n][w][e]
 
 [sel D01_02_129_061_selA top]
 [s]Me deixe fazê-lo.[e]
 [s]O que estamos prestes a fazer?[e]
 
 [msg D01_02_129_061_selA_0_me [Ryuji]]
-[s][bup 0 2 4 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 15 0 0]Ei, espere! Digo-lhe novamente,[n]nada vai atirar![n][w][e]
+[s][bup 0 2 4 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 15 0 0]Cara! Eu já te disse,[n]ela não funciona de verdade![n][w][e]
 
 [msg D01_02_129_061_selA_1_me [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 16 0 0]Confie em mim! Vamos entrar nisso![n][w][e]
 
 [msg D01_02_129_061_selA_1_me_2 [Ryuji]]
-[s][bup 0 2 4 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 17 0 0]Ei, espere! Digo-lhe novamente,[n]nada vai atirar![n][w][e]
+[s][bup 0 2 4 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 17 0 0]Cara! Eu já te disse,[n]ela não funciona de verdade![n][w][e]
 
 [msg D01_02_e129_062_mes01 [Ryuji]]
 [s][bup 0 2 4 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7039 65535 0]Uau! Aquela arma de brinquedo acabou de disparar[n]balas REAIS?!?[n][w][e]
@@ -64,11 +64,11 @@
 [s][bup 0 2 5 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...Não entendi.[n][w][e]
 
 [msg D01_02_e129_062_mes04 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1150 65535 0]Como ele acha que é uma arma[n]real, a reserva de balas em[n]batalha é limitada.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1150 65535 0]Como eles acham que é uma arma[n]real, a reserva de balas em[n]batalha é limitada.[n][w][e]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas ele também espera que eu o enfrente[n]com armas carregadas, portanto, os projéteis[n]reabastecem após cada encontro.[n][w][e]
 
 [msg D01_02_e129_062_mes07 [Soldado com Armadura]]
-[s]O que é essa raquete...?[n][w][e]
+[s]O que é esse barulho todo...?[n][w][e]
 
 [msg D01_02_e129_062_mes08 [Soldado com Armadura]]
 [s]Wha...!?! Ah, bastardos![n][w][e]
@@ -91,12 +91,12 @@
 [s][bup 0 2 11 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7183 65535 0]Você realmente tem que colocar assim?[n][w][e]
 
 [msg D01_02_e129_063_mes05 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não reclame, loirinha. É[n]todo o caminho um polegar para cima.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não reclame, loirinho. Você[n]ainda está sendo elogiado.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ah, a propósito, de agora em diante[n]devemos estabelecer nossos papéis[n]na batalha.[n][w][e]
 
 [msg D01_02_e129_063_mes06 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Como você deve ter notado, existem muitos[n]inimigos. Será importante[n]coordenar bem os nossos movimentos.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Posso continuar a fornecer[n]informações, mas dependerá de você[n]como lutamos, Big Hair.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Posso continuar a fornecer[n]informações, mas dependerá de você[n]como lutamos, Cabeludinho.[n][w][e]
 
 [msg D01_02_e129_063_mes07 [Ryuji]]
 [s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7183 65535 0]O que você quer dizer com[n]"como nos fazer lutar"?[n][w][e]

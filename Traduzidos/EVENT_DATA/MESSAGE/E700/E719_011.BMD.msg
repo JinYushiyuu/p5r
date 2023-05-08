@@ -72,15 +72,15 @@
 
 [msg MSG_022_0_0 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Sim, mas não posso contar à[n]multidão antes de uma eleição...[n][f 1 3 65535][w][e]
-[s][bup 0 112 3 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][f 4 24 0 4 0 1 5 100][vp 8 0 0 29 65535 0]De qualquer forma, assim que alguém[n]me chama de "Tora wimp",[n]eu entro em pânico.[n][f 1 3 65535][w][e]
+[s][bup 0 112 3 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][f 4 24 0 4 0 1 5 100][vp 8 0 0 29 65535 0]De qualquer forma, assim que alguém[n]me chama de "Tora Covarde",[n]eu entro em pânico.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Yoshida]]
 [s][bup 0 112 3 0 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Não posso pagar,[n]na minha situação.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]De qualquer forma, assim que alguém[n]me chama de "Tora wimp",[n]eu entro em pânico.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]De qualquer forma, assim que alguém[n]me chama de "Tora Covarde",[n]eu entro em pânico.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Muitos concordariam com[n]essa afirmação.[n][f 1 3 65535][w][e]
-[s][bup 0 112 3 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][f 4 24 0 4 0 1 5 100][vp 8 0 0 33 65535 0]Sempre que me chamam de "Tora[n]wimp", entro em pânico.[n][f 1 3 65535][w][e]
+[s][bup 0 112 3 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][f 4 24 0 4 0 1 5 100][vp 8 0 0 33 65535 0]Sempre que me chamam de "Tora[n]Covarde", entro em pânico.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Eu tive uma experiência terrível[n]20 anos atrás...[n][f 1 3 65535][w][e]
@@ -96,7 +96,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Essa inexperiência levou-me[n]a se envolver em uma[n]série de sérios escândalos políticos.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_5_0 [Yoshida]]
-[s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]As pessoas os chamam de[n]"Três Ataques de Tora Wimp".[n][f 1 3 65535][w][e]
+[s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]As pessoas os chamam de[n]"Três Ataques de Tora Covarde".[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Yoshida]]
 [s][bup 0 112 3 0 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]A primeira vez que fui pego[n]faltando a uma reunião legislativa[n]para sair de férias.[n][f 1 3 65535][w][e]

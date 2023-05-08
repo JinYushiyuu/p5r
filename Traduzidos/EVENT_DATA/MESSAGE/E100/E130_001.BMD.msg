@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Merda! É incrível![n][f 1 3 65535][w][e]
+[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Droga! Isso é uma merda![n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Morgana]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 12 301 1][vp 8 0 0 9 65535 0]Quantas vezes eu tenho que dizer para você[n]baixar a voz!?![n][f 1 3 65535][w][e]
@@ -8,7 +8,7 @@
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Mas isso é loucura![n][f 1 3 65535][w][e]
 
 [msg MSG_002_5_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Como abre aqui...?[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Como faço pra abrir isso...?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Voz minúscula]]
 [s][vp 8 0 0 4 65535 0]Pare...![n][f 1 3 65535][w][e]
@@ -39,7 +39,7 @@
 
 [msg MSG_012_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Eles são humanos apenas na cognição de Kamoshida.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Eles não são humanos reais[n]vieram da realidade.[n]Eles são diferentes de vocês dois.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Eles não são humanos reais[n]que vieram da realidade.[n]Eles são diferentes de vocês dois.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Cognição...?[n][f 1 3 65535][w][e]

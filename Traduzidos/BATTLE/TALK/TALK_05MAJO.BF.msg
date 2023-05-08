@@ -1530,7 +1530,7 @@
 
 [msg TalkMsg_RESULT_ENEMY_FOR]
 [s]Oh? Parece que[n]esqueci algo...[n][w][e]
-[s]Vabbeh... Acho que não era[n]tão importante.[n]Ok, estou ouvindo.[n][w][e]
+[s]Bem... Acho que não era[n]tão importante.[n]Ok, estou ouvindo.[n][w][e]
 
 [msg TalkMsg_RESULT_ENEMY_DES]
 [s]Todo mundo acha que eu não valho nada.[n][w][e]

@@ -8,7 +8,7 @@
 [s][f 5 14]É... definitivamente evocativo.[n][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
-[s][f 5 14]E vabbeh...[n]Essas são coisas que acontecem.[n][w][e]
+[s][f 5 14]E bem...[n]Essas são coisas que acontecem.[n][w][e]
 
 [msg MSG_005_0_0 [Yusuke]]
 [s][f 5 14]É compreensível devido ao calor. Suas[n]palmas provavelmente estavam suadas e[n]você perdeu o controle.[n][w][e]

@@ -28,7 +28,7 @@
 [s][f 5 14][f 5 15]Vou avisá-lo para avisar que você está vindo. A[n]aviso de um aviso...[n][w][e]
 
 [msg MSG_quest15_MORGANA_SAY [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Você tem alguma ideia do que ele está[n]dizendo...? Vabbeh, o que importa é que[n]temos novas informações![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Você tem alguma ideia do que ele está[n]dizendo...? Bem, o que importa é que[n]temos novas informações![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Agora que despertamos o coração de[n]Okumura, aquela parede nos Mementos deve[n]ter se aberto.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Não há melhor hora[n]para verificar.[n][f 1 3 65535][w][e]
 

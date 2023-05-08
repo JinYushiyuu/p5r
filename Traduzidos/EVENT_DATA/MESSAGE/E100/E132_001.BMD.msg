@@ -38,7 +38,7 @@
 [s][vp 1 0 0 12 0 0]Ugh... Ele também!?![n][f 1 2 55][e]
 
 [msg MSG_063_0_0 [Ryuji]]
-[s][vp 8 0 0 13 65535 0]Bem, bem... E aí, Pessoa...?[n][f 1 2 90][e]
+[s][vp 8 0 0 13 65535 0]Bem, bem... E aí, Persona...?[n][f 1 2 90][e]
 
 [msg MSG_064_0_0 [Ryuji]]
 [s][vp 8 0 0 14 65535 0]Isso é demais![n][f 1 2 50][e]

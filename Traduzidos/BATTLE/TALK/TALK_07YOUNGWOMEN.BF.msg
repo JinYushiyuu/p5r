@@ -539,7 +539,7 @@
 [s]Quero dizer, mas por que as[n]piores coisas estão sempre acontecendo...?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_3]
-[s]E vabbeh, ainda melhor[n]do que ficar sozinho, certo?[n][w][e]
+[s]E bem, ainda melhor[n]do que ficar sozinho, certo?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_4]
 [s]Você está brincando comigo?[n]Ugh, pare com isso, seu perdedor![n][w][e]
@@ -1511,7 +1511,7 @@
 
 [msg TalkMsg_SURRENDER_FROM_C]
 [s]É incrível, encontrei[n]alguém que não posso vencer.[n][w][e]
-[s]Vabbeh, não se pode esperar que eu saiba lutar.[n]Meu maior presente é a beleza.[n][w][e]
+[s]Bem, não se pode esperar que eu saiba lutar.[n]Meu maior presente é a beleza.[n][w][e]
 
 [msg TalkMsg_SUCCESS_SKIMMING]
 [s]Você queria isso? Você sabe,[n]você continua olhando para ele ...[n][w][e]

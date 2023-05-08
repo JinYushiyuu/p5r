@@ -2,13 +2,13 @@
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14108 65535 0]...Então por que vir aqui?[n]Você não é paciente de[n]outro hospital?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Pai da menininha]]
-[s][vp 8 0 0 0 65535 0]Eu ouvi sobre este lugar.[n]Eu gostaria que você visitasse.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Eles a diagnosticaram com bronquite,[n]mas os remédios que[n]receberam não fizeram efeito.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]A febre não baixa e[n]ele continua perdendo peso[n]porque não quer comer...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Eu ouvi rumores sobre este lugar.[n]Eu gostaria que você a examinasse.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Eles a diagnosticaram com bronquite,[n]mas os remédios que[n]recebemos não fizeram efeito.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]A febre não baixa e[n]ela continua perdendo peso[n]porque não quer comer...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Takemi]]
 [s][bup 0 108 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não é bom para uma garotinha[n]perder peso.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele deveria ir para um hospital[n]maior. Aqui eu não posso[n]visitá-lo em detalhes.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ela deveria ir para um hospital[n]maior. Aqui eu não posso[n]visitá-lo em detalhes.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Pai da menininha]]
 [s][vp 8 0 0 0 65535 0]Já estivemos em um grande[n]hospital antes! Uma[n]instalação universitária em East Shinjuku![n][f 1 3 65535][w][e]
@@ -21,28 +21,28 @@
 [s][vp 8 0 0 0 65535 0]Lá o médico atende como se[n]ele estivesse em uma linha de montagem.[n]Acho que ele é famoso...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Takemi]]
-[s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Um médico famoso, diz...?[n][f 1 3 65535][w][e]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 5 0 59 5 100]Sou apenas um clínico geral em um lugar remoto.[n]Como você vê, eu nem tenho cajado.[n][f 1 3 65535][w][e]
+[s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Um médico famoso, você diz...?[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 5 0 59 5 100]Sou apenas uma clínica geral em um lugar remoto.[n]Como você vê, eu nem tenho equipe.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Pai da menininha]]
-[s][vp 8 0 0 0 65535 0]Aguardam! Ouvi falar[n]de um remédio que só[n]encontra[n]aqui...![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Por favor! Eu vou pagar! Por favor,[n]pelo menos visite![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Es-espere! Ouvi falar[n]de um remédio que só[n]encontra aqui...![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Por favor! Eu vou pagar! Por favor,[n]pelo menos examine ela![n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Takemi]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 108 7 301 1][vp 8 2 0 14029 65535 0]U-One moment.[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 108 7 301 1][vp 8 2 0 14029 65535 0]U-um momento.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Menina doente]]
 [s][vp 8 0 0 0 65535 0]*cof* *cof*[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Menina doente]]
-[s][vp 8 0 0 0 65535 0]Doutor...[n]Meu peito dói...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Doutora...[n]Meu peito dói...[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Takemi]]
 [s][bup 0 108 3 0 0][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
 [sel SEL_012_0_0 top]
 [s]Você vai se recuperar.[e]
-[s][f 0 8 2 1 2217]O Dr. Takemi irá ajudá-lo.[clr 27][e]
+[s][f 0 8 2 1 2217]A Dra. Takemi irá ajudá-lo.[clr 27][e]
 
 [msg MSG_013_0_0 [Takemi]]
 [s][bup 0 108 2 0 0][f 4 10 65535 0 0][vp 8 2 0 14041 65535 0]Essa é uma declaração REALMENTE[n]irresponsável...[n][f 1 3 65535][w][e]
@@ -51,7 +51,7 @@
 [s][bup 0 108 4 0 0][f 4 10 65535 0 0][vp 8 2 0 14040 65535 0][f 5 13 14 5 1008]O quê?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Pai da menininha]]
-[s][vp 8 0 0 0 65535 0]Doutor...![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Doutora...![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Takemi]]
 [s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 2 0 14028 65535 0]*suspiro* ...Ok.[n][f 1 3 65535][w][e]
@@ -84,11 +84,11 @@
 [s][f 4 7 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 108 13 300 1][vp 8 2 0 14068 65535 0]O que você está esperando? Depressa![n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Pai da menininha]]
-[s][vp 8 0 0 0 65535 0]G-Muito obrigado![n]Eu não pensei que ela[n]se recuperaria tão rápido...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]M-Muito obrigado![n]Eu não pensei que ela[n]se recuperaria tão rápido...[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14132 65535 0]Era uma cepa rara de uma[n]doença infecciosa. Não pode ser[n]diagnosticado com os testes usuais.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Suprimi momentaneamente[n]sintomas. Ajustaremos o tiro quando[n]sua condição melhorar.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Suprimi momentaneamente[n]sintomas. Ajustaremos ela melhor quando[n]sua condição melhorar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, a taxa é de[n]um milhão de ienes.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Pai da menininha]]
@@ -148,14 +148,14 @@
 [s][vp 8 0 0 0 65535 0]Sinto que meu vínculo[n]com Takemi está ficando mais forte...[n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Menina doente]]
-[s][vp 8 0 0 0 65535 0]Hum, doutor...? Agora posso[n]voltar a estudar?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Hum, doutora...? Agora posso[n]voltar a estudar?[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ainda não. Você deve primeiro voltar[n]comer para ganhar peso[n]e recuperar a força.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você pode fazer isso por mim?[n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Menina doente]]
-[s][vp 8 0 0 0 65535 0]Sim! Obrigado, Doutor![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Sim! Obrigado, doutora![n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Takemi]]
 [s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 2 0 14087 65535 0]De jeito nenhum...[n][f 1 3 65535][w][e]

@@ -69,5 +69,5 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 3 301 1][vp 8 0 0 24 65535 0]É uma afronta![n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Sombra de Kaneshiro]]
-[s][bup 0 207 101 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Hehehehe, eu vou ficar perto de você...[n]e chupar você[n]cada centavo![n][f 1 3 65535][w][e]
+[s][bup 0 207 101 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Hehehehe, eu vou te atacar... e[n]tirar até o último centavo de você![n][f 1 3 65535][w][e]
 

@@ -18,7 +18,7 @@
 [s][bup 0 2 202 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Lá vem Mishima![n][f 1 2 25][e]
 
 [msg MSG_023_0_0 [Ryuji]]
-[s][bup 0 2 202 0 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0]Essa ferida não é normal![n]E ele ainda não cuspiu...[n][w][e]
+[s][bup 0 2 202 0 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0]Essa ferida não é normal![n]E ele ainda não admitiu...[n][w][e]
 [s][bup 0 2 200 0 0][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Merda. Nesse ritmo,[n]o jogo terminará...[n][w][e]
 
 [sel SEL_024_0_0 top]
@@ -36,10 +36,10 @@
 [s][f 4 23 1 65535 3 10 0 0][bup 0 2 201 0 0][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Vou deixar isso para você também.[n]Parece que teremos que nos separar.[n][w][e]
 
 [msg MSG_028_0_0 [Ryuji]]
-[s][bup 0 2 200 0 0][f 4 10 65535 0 0][vp 8 0 1 6 65535 0]Eu verifico o prédio do laboratório[n]antes do início das atividades. Você[n]pensa na construção da sala de aula.[n][w][e]
+[s][bup 0 2 200 0 0][f 4 10 65535 0 0][vp 8 0 1 6 65535 0]Eu verifico o prédio do laboratório[n]para ver se tem pessoas do clubes. Você[n]fica responsável pelas salas de aula.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 7 65535 0]Lembro que na equipe de vôlei tem um aluno do[n]terceiro ano. Talvez no... [clr 2]3-C[clr 27]?[n][w][e]
-[s][bup 0 2 203 0 0][f 4 10 65535 0 0][vp 8 0 1 9 65535 0]No castelo, ele pegou vários deles. Ele pode ter[n]algumas lesões aqui também...[n][w][e]
-[s][bup 0 2 201 0 0][f 4 10 65535 0 0][f 4 10 65535 0 0][vp 8 0 1 10 65535 0]De qualquer forma, se eu encontrar algo[n]vou dar um grito. Alô![n][w][e]
+[s][bup 0 2 203 0 0][f 4 10 65535 0 0][vp 8 0 1 9 65535 0]Ele estava sendo bastante espancado no castelo.[n]Ele também pode ter algumas lesões aqui...[n][w][e]
+[s][bup 0 2 201 0 0][f 4 10 65535 0 0][f 4 10 65535 0 0][vp 8 0 1 10 65535 0]De qualquer forma, se eu encontrar algo[n]vou dar um grito. até mais![n][w][e]
 
 [msg MSG_141302_000_00 [Ryuji]]
 [s][bup 0 2 203 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Caramba, eu gostaria que Mishima[n]decidisse contar tudo.[n][w][e]

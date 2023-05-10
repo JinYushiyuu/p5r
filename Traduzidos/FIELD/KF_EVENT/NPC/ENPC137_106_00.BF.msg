@@ -37,7 +37,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 11 65535 0]Apenas conte-nos como Kamoshida maltrata você.[n][w][e]
 
 [msg MSG_E13710100_008_00 [Jogador de vôlei com medo]]
-[s][f 4 23 1 856 3 10 0 0][vp 8 0 1 12 856 0]N-eu não sei do que você está falando![n][w][e]
+[s][f 4 23 1 856 3 10 0 0][vp 8 0 1 12 856 0]E-Eu não sei do que vocês estão falando![n][w][e]
 
 [sel SEL_E13710100_009_00 top]
 [s]Você está com medo?[e]
@@ -56,7 +56,7 @@
 [s][bup 0 2 203 0 0][f 4 10 65535 0 0][vp 8 0 1 16 65535 0]Bem aqui...[n][w][e]
 
 [msg MSG_E13710100_014_00 [Jogador de vôlei com medo]]
-[s][f 4 23 1 856 3 10 0 0][vp 8 0 1 17 856 0]Voce é ridiculo.[n][w][e]
+[s][f 4 23 1 856 3 10 0 0][vp 8 0 1 17 856 0]Isso é ridículo[n][w][e]
 [s][vp 8 0 1 18 856 0]Por favor, me deixe em paz.[n]Você está me irritando![n][w][e]
 
 [msg MSG_E13710100_015_00 [Ryuji]]

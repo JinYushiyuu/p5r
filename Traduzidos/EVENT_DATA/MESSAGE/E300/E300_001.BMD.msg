@@ -69,7 +69,7 @@
 [s][bup 0 8 900 0 0][f 4 10 65535 0 0][vp 8 0 0 30 4 0]E você?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Futaba]]
-[s][bup 0 8 703 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Faça uma birra. Eu disse a ela que,[n]para ela, sua pesquisa[n]era mais importante do que eu.[n][f 1 3 65535][w][e]
+[s][bup 0 8 703 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Eu fiz birra. Eu disse a ela que achava[n]que sua pesquisa era mais[n]importante do que eu.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Foi quando ela me deu uma bronca...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Sombra de Futaba]]

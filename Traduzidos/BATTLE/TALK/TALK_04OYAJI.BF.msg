@@ -1459,7 +1459,7 @@
 
 [msg TalkMsg_GUY_RESULT_GET_P]
 [s]Eu não sou uma sombra deste lugar.[n]Eu vivi no mar de[n]almas humanas![n][w][e]
-[s]De agora em diante, me ligue [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
+[s]De agora em diante, me chame de [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_P_2]
 [s]...Espere um momento. Você já tem[n][clr 1][var 2][clr 27].[n][w][e]
@@ -1681,43 +1681,43 @@
 
 [msg TalkMsg_RESULT_GET_PERSO]
 [s]Eu não sou uma sombra deste lugar.[n]Eu vivi no mar de[n]almas humanas![n][w][e]
-[s]De agora em diante, me ligue [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
+[s]De agora em diante, me chame de [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_2]
 [s]Eu não sou uma sombra deste lugar.[n]Eu vivi no mar de[n]almas humanas![n][w][e]
-[s]De agora em diante, me ligue [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
+[s]De agora em diante, me chame de [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_3]
 [s]Eu não sou uma sombra deste lugar.[n]Eu vivi no mar de[n]almas humanas![n][w][e]
-[s]De agora em diante, me ligue [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
+[s]De agora em diante, me chame de [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_4]
 [s]Eu não sou uma sombra deste lugar.[n]Eu vivi no mar de[n]almas humanas![n][w][e]
-[s]De agora em diante, me ligue [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
+[s]De agora em diante, me chame de [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_5]
 [s]Eu não sou uma sombra deste lugar.[n]Eu vivi no mar de[n]almas humanas![n][w][e]
-[s]De agora em diante, me ligue [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
+[s]De agora em diante, me chame de [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_6]
 [s]Eu não sou uma sombra deste lugar.[n]Eu vivi no mar de[n]almas humanas![n][w][e]
-[s]De agora em diante, me ligue [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
+[s]De agora em diante, me chame de [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_7]
 [s]Eu não sou uma sombra deste lugar.[n]Eu vivi no mar de[n]almas humanas![n][w][e]
-[s]De agora em diante, me ligue [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
+[s]De agora em diante, me chame de [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_8]
 [s]Eu não sou uma sombra deste lugar.[n]Eu vivi no mar de[n]almas humanas![n][w][e]
-[s]De agora em diante, me ligue [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
+[s]De agora em diante, me chame de [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_9]
 [s]Eu não sou uma sombra deste lugar.[n]Eu vivi no mar de[n]almas humanas![n][w][e]
-[s]De agora em diante, me ligue [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
+[s]De agora em diante, me chame de [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_10]
 [s]Eu não sou uma sombra deste lugar.[n]Eu vivi no mar de[n]almas humanas![n][w][e]
-[s]De agora em diante, me ligue [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
+[s]De agora em diante, me chame de [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
 
 [msg TalkMsg_ED_bye_D01_01]
 [s]Você é um garotinho, então agir com ousadia é[n]tolerável, mas antes de a Rei Kamoshida você[n]deve ser leal.[n][w][e]

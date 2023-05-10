@@ -1373,7 +1373,7 @@
 [s][vp 9 2 65535 42812 0 0]Aquele novo aluno cometeu[n]crimes graves, não foi?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_102_01_ [Editor de jornal]]
-[s][vp 9 2 65535 43162 0 0]Parece que ele saca sua faca[n]sem qualquer aviso.[n]'Esse cara é um dissidente.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43162 0 0]Eu ouvi que ele anda com uma faça.[n]'Esse cara é uma ameaça imprevisível.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_102_02_ [Editor de jornal]]
 [s][vp 9 2 65535 39750 0 0]Prof. Kamoshida é muito forte![n]É injusto que você jogue em[n]time com eles![n][f 1 2 180][e]

@@ -23,7 +23,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Eh, isso é o que sempre acontece.[n]Eu não fui assim tantas[n]vezes...mas nunca vou mudar.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]*bocejo* 'Dia...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]*bocejo* Bom dia...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Ei, olha quem mais está[n]dormindo em pé.[n][f 1 3 65535][w][e]

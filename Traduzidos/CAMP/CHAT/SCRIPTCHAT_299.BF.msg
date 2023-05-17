@@ -28,7 +28,7 @@
 [s][f 5 14]Eu apaguei,[n]mas está de volta...[n][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
-[s][f 5 14]Você acha que de alguma forma[n]capaz de descarregar-se?[n][w][e]
+[s][f 5 14]Você acha que de alguma forma[n]capaz de ?[n][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
 [s][f 5 14]É perigoso usar algo[n]que você não conhece...[n][w][e]

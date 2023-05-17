@@ -95,7 +95,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Afinal, os peixes grandes são nosso[n]objetivo principal.[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Primeiro você deve fazer[n]passar nos exames.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Primeiro você deve [n]passar nos exames.[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Ryuji]]
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]eu tenho que estudar...[n][f 1 3 65535][w][e]

@@ -40,7 +40,7 @@
 [s][f 5 14]Eu nunca vou agradecer o suficiente.[n][w][e]
 
 [msg MSG_014_0 [Kasumi]]
-[s][f 5 14]Por favor, eu quero[n]obrigado novamente.[n][w][e]
+[s][f 5 14]Por favor, eu quero[n]agradecer novamente.[n][w][e]
 
 [msg MSG_015_0 [Kasumi]]
 [s][f 5 14]Assim que eu tiver os resultados,[n]te aviso...[n][w][e]

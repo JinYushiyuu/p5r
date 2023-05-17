@@ -95,7 +95,7 @@
 [sel SEL_018_0_0 top]
 [s][f 0 8 2 1 2217]É um pouco triste...[clr 27][e]
 [s]Nosso acordo está concluído?[e]
-[s]Bem cuidar.[e]
+[s]Bem cuide-se.[e]
 
 [msg MSG_019_0_0 [Maruki]]
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 35 10 1014]Eu sei como você se sente.[n]Também foi muito importante para mim.[n][f 1 3 65535][w][e]

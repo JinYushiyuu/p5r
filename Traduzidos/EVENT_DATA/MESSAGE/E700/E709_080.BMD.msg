@@ -1,6 +1,6 @@
 [msg MSG_000_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9149 65535 0]Então, eu escrevi para Kana-chan...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acredite ou não, ele respondeu.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acredite ou não, ela respondeu.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No final, até conversamos[n]sobre o ensino fundamental por telefone.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Futaba]]
@@ -60,16 +60,16 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 9089 65535 0]Infelizmente ele nunca saberá a[n]verdade... Mueheheh![n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Finalmente a promessa é mantida.[n]"Se dando bem com Kana-chan"...[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Finalmente a promessa é mantida.[n]"Se dando bem com a Kana-chan"...[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum...é importante, então[n]vou falar mais uma vez...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9031 65535 0]Obrigado, [f 4 2].[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9031 65535 0]Obrigada, [f 4 2].[n][f 1 3 65535][w][e]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 39 5 50][f 4 24 0 4 0 5 3 100][vp 8 0 0 0 65535 0]Espera... da primeira vez[n]eu não te contei.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 3 100][vp 8 0 0 0 65535 0]Então acho que[n]tenho que dizer de novo![n][f 1 3 65535][w][e]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 23 0 4 14 10 13 10][f 4 24 0 4 0 42 3 100][f 4 24 0 4 0 12 3 100][f 4 24 0 4 0 0 0 0][vp 8 0 0 0 65535 0]Obrigado, [f 4 2]. Sério.[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 23 0 4 14 10 13 10][f 4 24 0 4 0 42 3 100][f 4 24 0 4 0 12 3 100][f 4 24 0 4 0 0 0 0][vp 8 0 0 0 65535 0]Obrigada, [f 4 2]. Sério.[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
 [s][vp 8 0 0 0 65535 0]Sinto um forte vínculo[n]de confiança com Futaba...[n][f 1 3 65535][w][e]
@@ -80,7 +80,7 @@
 [msg MSG_017_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A-Aqui, uhm...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 7 300 65535][vp 8 0 0 0 65535 0]V-Você poderia... acariciar minha cabeça?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mamãe fez isso quando eu a fiz feliz. Um[n]simples... carinho.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mamãe fazia isso quando estava feliz comigo. Um[n]simples... carinho.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Você consegue?[n][f 1 3 65535][w][e]
 
 [sel SEL_018_0_0 top]

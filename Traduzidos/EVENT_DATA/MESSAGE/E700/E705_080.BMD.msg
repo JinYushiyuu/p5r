@@ -2,7 +2,7 @@
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 2 0 5019 65535 0]Ei, Futaba... se você quiser[n]enriquecer o cardápio, o que você[n]aconselharia que eu adicionasse?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mmmmmh... Talvez espaguete com curry![n]E curry udon! Ah, e croquetes de curry[n]e pizza de curry![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]HmmmmM... Talvez espaguete com curry![n]E curry udon! Ah, e croquetes de curry[n]e pizza de curry![n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Sojiro]]
 [s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você gosta tanto de curry...?[n][f 1 3 65535][w][e]

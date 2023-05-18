@@ -72,7 +72,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Estarei sempre ao seu lado.[n]Você faz parte da família.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Sojiro]]
-[s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]E... ah, tem![n][f 1 3 65535][w][e]
+[s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]E... ah, e eu também![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Vou te ensinar tudo o que puder.[n]Você é quase um adulto agora.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Talvez não seja o suficiente[n]retribuir o favor...[n]mas é tudo o que posso fazer.[n][f 1 3 65535][w][e]
 

@@ -26,7 +26,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]De qualquer forma, o que a senhorita[n]presidente do conselho quer de nós?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]A encrenqueira, a garota de quem todo mundo[n]fala e a infame nova[n]aluna. Que variedade bacana.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]O encrenqueiro, o garoto de quem todo mundo[n]fala e o infame novo[n]aluno. Que variedade bacana.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_5_0 [Ann]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 3 301 1][vp 8 0 0 59 65535 0]......![n][f 1 3 65535][w][e]

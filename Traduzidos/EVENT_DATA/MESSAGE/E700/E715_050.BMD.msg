@@ -27,7 +27,7 @@
 
 [sel SEL_007_0_0 top]
 [s]Por causa da investigação?[e]
-[s]Por causa do acidente?[e]
+[s]Por causa do incidente?[e]
 [s]Tem certeza que somos parecidos?[e]
 
 [msg MSG_008_0_0 [Ohya]]

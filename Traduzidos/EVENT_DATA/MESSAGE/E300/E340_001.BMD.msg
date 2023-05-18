@@ -14,7 +14,7 @@
 
 [msg MSG_004_0_0 [Haru]]
 [s][bup 0 7 103 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Desde que eu era uma garotinha, as pessoas nunca[n]viram quem eu realmente sou.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Eles sempre me trataram bem para[n]grar meu pai, recebendo[n]dinheiro e favores em troca.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Eles sempre me trataram bem para[n]agradar meu pai, recebendo[n]dinheiro e favores em troca.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_5_0 [Haru]]
 [s][bup 0 7 103 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Adultos, professores, amigos...[n]Todo mundo sorriu para mim para[n]o próprio benefício.[n][f 1 3 65535][w][e]

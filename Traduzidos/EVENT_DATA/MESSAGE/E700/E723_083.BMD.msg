@@ -194,7 +194,7 @@
 [s][bup 0 216 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum? Para quem?[n][f 1 3 65535][w][e]
 
 [msg MSG_058_0_0 [Shibusawa]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 114 7 300 65535][bup 0 222 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Para minha namorada... isto é, para[n]minha namorada, para ser[n]exato. Vou me casar em breve.[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 114 7 300 65535][bup 0 222 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Para minha namorada... isto é, para[n]minha noiva, para ser[n]exato. Vou me casar em breve.[n][f 1 3 65535][w][e]
 
 [msg MSG_059_0_0 [Maruki]]
 [s][bup 0 216 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, entendo...[n][f 1 3 65535][w][e]

@@ -16,7 +16,7 @@
 
 [msg MSG_004_0_0 [Sojiro]]
 [s][bup 0 103 600 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 6 5 1003]Só para deixar claro, não estou falando[n]apenas sobre ajudar aqui no clube.[n]Você entendeu?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas por hoje, só[n]você fecha tudo.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas por hoje é só,[n]você fecha tudo.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Sojiro]]
 [s][bup 0 103 602 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 6 5 1003]Uma resposta tão perfeita parece[n]quase preparada. Eu me pergunto[n]o que você está fazendo...[n][f 1 3 65535][w][e]

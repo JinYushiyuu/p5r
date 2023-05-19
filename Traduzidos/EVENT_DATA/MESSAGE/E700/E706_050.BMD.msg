@@ -15,7 +15,7 @@
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 39 5 50][f 4 24 0 4 0 5 3 100][vp 8 2 0 6189 65535 0]Embora talvez hoje ela esteja ocupada com a[n]reabilitação. As chances são de que ele não pode[n]comê-lo...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 7 5 4]G-Direito...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 7 5 4]C-Certo...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 1 6 100][vp 8 0 0 0 65535 0]Eu tenho que me controlar, mesmo que[n]seja metade do preço...[n][f 1 3 65535][w][e]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 39 5 30][f 4 24 0 4 0 5 3 100][f 4 24 0 4 0 0 5 100][vp 8 2 0 6189 65535 0]Além disso, talvez hoje Shiho esteja ocupado com[n]a reabilitação. As chances são de que ele não[n]pode comê-lo...[n][f 1 3 65535][w][e]
 

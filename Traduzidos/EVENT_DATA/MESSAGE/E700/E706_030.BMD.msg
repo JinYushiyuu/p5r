@@ -22,7 +22,7 @@
 [s]Não entendi...[e]
 
 [msg MSG_004_0_0 [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 10 301 1][vp 8 2 0 6048 65535 0]Já começamos![n]Não serei perturbado por[n]sua perplexidade![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 10 301 1][vp 8 2 0 6048 65535 0]Já começamos![n]Não serei perturbada por[n]sua perplexidade![n][f 1 3 65535][w][e]
 
 [msg MND_004_5_0]
 [s][vp 8 0 0 0 65535 0]Talvez eu deva dizer algo[n]para Ann...[n][f 1 3 65535][w][e]
@@ -125,14 +125,14 @@
 
 [msg MSG_031_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6036 65535 0]Já estou acostumado.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 3 100][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]Porém, quando criança, sofri com isso.[n]Estava sempre sozinho com a[n]tata que morava conosco.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 3 100][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]Porém, quando criança, sofri com isso.[n]Estava sempre sozinha com a[n]tata que morava conosco.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 35 5 100][f 4 24 0 4 0 9 3 100][vp 8 0 0 0 65535 0]Eu realmente nunca tive[n]amigos...[n][f 1 3 65535][w][e]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 3 100][f 4 23 0 4 20 10 18 10][vp 8 0 0 0 65535 0]Nossa, eu franzo a testa rápido...![n]Ahah...[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 7 5 4]Sim, tenho sorte de poder[n]ir com calma.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]Além disso, seria muito difícil[n]ser um Phantom Thief com[n]pais zumbindo ao meu redor![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Porém, quando criança, sofri com isso.[n]Estava sempre sozinho com a[n]tata que morava conosco.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Porém, quando criança, sofri com isso.[n]Estava sempre sozinha com a[n]tata que morava conosco.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 35 5 100][f 4 24 0 4 0 9 3 100][vp 8 0 0 0 65535 0]Eu realmente nunca tive[n]amigos...[n][f 1 3 65535][w][e]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 3 100][f 4 23 0 4 20 10 18 10][vp 8 0 0 0 65535 0]Nossa, eu franzo a testa rápido...![n]Ahah...[n][f 1 3 65535][w][e]
 

@@ -20,18 +20,18 @@
 
 [sel SEL_004_0_0 top]
 [s]É uma armadilha![e]
-[s][f 0 8 2 1 2217]Ele admira você.[clr 27][e]
+[s][f 0 8 2 1 2217]Ela admira você.[clr 27][e]
 
 [msg MSG_005_0_0 [Ann]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 7 300 1][vp 8 2 0 6039 65535 0]E-Então devo recusar?[n][f 1 3 65535][w][e]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][f 4 24 0 4 0 5 3 100][vp 8 0 0 0 65535 0]Ah, eu pensei... já aceitei...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Ann]]
-[s][bup 0 4 6 65535 0][f 4 10 65535 0 0][vp 8 2 0 6024 65535 0][f 5 13 7 5 4]E-hein? Então você acha que ela foi pelo menos parcialmente sincera antes?[n][f 1 3 65535][w][e]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][f 4 24 0 4 0 5 3 100][vp 8 0 0 0 65535 0]Mas espere... Por que[n]prepararia uma armadilha[n]alguém que ele admira?[n][f 1 3 65535][w][e]
+[s][bup 0 4 6 65535 0][f 4 10 65535 0 0][vp 8 2 0 6024 65535 0][f 5 13 7 5 4]hein? Então você acha que ela foi pelo menos parcialmente sincera antes?[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][f 4 24 0 4 0 5 3 100][vp 8 0 0 0 65535 0]Mas espere... Por que[n]prepararia uma armadilha[n]alguém que ela admira?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, se eu não for, nunca[n]saberei o que ele quer de mim![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, se eu não for, nunca[n]saberei o que ela quer de mim![n][f 1 3 65535][w][e]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 5 3 100][vp 8 2 0 6155 65535 0]Você já esteve no Skytree?[n]Como chegar lá...?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ann]]

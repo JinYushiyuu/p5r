@@ -33,18 +33,18 @@
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 1 7 100][vp 8 0 0 0 65535 0]Achei que o problema era[n]minha aparência. Eu queria pintar meu[n]cabelo de preto também...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_2_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Foi quando conheci Shiho.[n]A primeira coisa que ele disse foi:[n]"Takamaki-san, você desenha uma merda."[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Foi quando conheci Shiho.[n]A primeira coisa que ela disse foi:[n]"Takamaki-san, seus desenhos são péssimos."[n][f 1 3 65535][w][e]
 
 [sel SEL_008_0_0 top]
-[s]Crueldade dele.[e]
+[s]Crueldade dela.[e]
 [s][f 0 8 2 1 2217]Muito engraçado.[clr 27][e]
-[s]Ele estava certo?[e]
+[s]Ela estava certa?[e]
 
 [msg MSG_009_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6048 65535 0][f 5 13 7 5 4]Haha, sim! Ele disse que meus[n]desenhos eram tão ruins[n]que ele não poderia NÃO me dizer.[n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6048 65535 0][f 5 13 7 5 4]Haha, sim! Ela disse que meus[n]desenhos eram tão ruins[n]que ela não poderia NÃO me dizer.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 7 15 4]Eu pensei: "Ele está brincando comigo[n]como todo mundo",[n]mas ele não estava.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 7 15 4]Eu pensei: "Ela está brincando comigo[n]como todo mundo",[n]mas ela não estava.[n][f 1 3 65535][w][e]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 3 100][f 4 24 0 4 0 0 0 0][vp 8 2 0 6048 65535 0]Segundo ela, meus desenhos[n]eram tão ruins que ela não podia[n]NÃO me dizer. Cruel, né?[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ann]]
@@ -53,7 +53,7 @@
 
 [msg MSG_012_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, essa foi a primeira[n]vez que alguém se dirigiu a[n]mim sem mencionar minha aparência.[n][f 1 3 65535][w][e]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 7 100][f 4 24 0 4 0 9 3 100][f 4 24 0 4 0 0 0 0][vp 8 2 0 6088 65535 0]Depois disso nos conhecemos[n]melhor... e desde então Shiho tem sido[n]meu melhor amigo.[n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 7 100][f 4 24 0 4 0 9 3 100][f 4 24 0 4 0 0 0 0][vp 8 2 0 6088 65535 0]Depois disso nos conhecemos[n]melhor... e desde então Shiho tem sido[n]minha melhor amiga.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas não é por isso que estamos aqui![n][f 1 3 65535][w][e]
@@ -113,7 +113,7 @@
 [msg MSG_027_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bom. Este será meu[n]objetivo final.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sabe, até agora eu nunca tinha realmente[n]pensado sobre o que fazer da minha vida...[n]Mas agora eu tenho um objetivo![n][f 1 3 65535][w][e]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 3 100][vp 8 2 0 6060 65535 0]E devo isso apenas ao tempo[n]passado conversando com você,[n][f 4 2]! Obrigado![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 3 100][vp 8 2 0 6060 65535 0]E devo isso apenas ao tempo[n]passado conversando com você,[n][f 4 2]! Obrigada![n][f 1 3 65535][w][e]
 
 [msg MND_028_0_0]
 [s][vp 8 0 0 0 65535 0]Sinto que Ann é movida por uma[n]determinação renovada...[n][f 1 3 65535][w][e]

@@ -45,12 +45,12 @@
 
 [msg MSG_008_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6186 65535 0][f 5 13 7 5 4]Você acredita...?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 1 7 100][vp 8 0 0 0 65535 0]Tudo isso aconteceu[n]porque sou fraco.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 1 7 100][vp 8 0 0 0 65535 0]Tudo isso aconteceu[n]porque sou fraca.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 0 6 100][vp 8 0 0 0 65535 0]Porque eu acreditava que a autoridade de[n]Kamoshida excedia a capacidade de[n]Shiho de se estabelecer como proprietário.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6186 65535 0][f 5 13 7 10 4]Eu sabia... eu sou burro...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 1 7 100][vp 8 0 0 0 65535 0]Tudo isso aconteceu[n]porque sou fraco.[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6186 65535 0][f 5 13 7 10 4]Eu sabia... eu sou burra...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 1 7 100][vp 8 0 0 0 65535 0]Tudo isso aconteceu[n]porque sou fraca.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 0 6 100][vp 8 0 0 0 65535 0]Porque eu acreditava que a autoridade de[n]Kamoshida excedia a capacidade de[n]Shiho de se estabelecer como proprietário.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ann]]

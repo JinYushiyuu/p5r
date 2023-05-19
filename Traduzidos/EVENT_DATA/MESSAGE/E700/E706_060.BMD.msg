@@ -30,27 +30,27 @@
 
 [sel SEL_008_0_0 top]
 [s]Por quê?[e]
-[s]Ele tem que se esforçar muito?[e]
-[s]Ele estava com muita dor?[e]
+[s]Ela teve que se esforçar muito?[e]
+[s]Ela estava com muita dor?[e]
 
 [msg MSG_009_0_0 [Ann]]
 [s][bup 0 4 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É muito mais difícil do que[n]eu pensava... Horrível, sério.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele estava pingando de suor, cerrando[n]os dentes... Dava para ver[n]que ele estava com muita dor...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aparentemente, ele não pode[n]mover os pés. Ele diz que[n]as pernas são sacos de areia.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ela estava pingando de suor, cerrando[n]os dentes... Dava para ver[n]que ela estava com muita dor...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aparentemente, ele não pode[n]mover os pés. Ela diz que[n]as pernas são sacos de areia.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas ela os arrastava atrás[n]o tempo todo, aquelas pernas dela[n]inchadas de hematomas ...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu gostaria de ter parado ela...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim...[n][f 1 3 65535][w][e]
-[s][bup 0 4 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele estava pingando de suor, cerrando[n]os dentes... Dava para ver[n]que ele estava com muita dor...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aparentemente, ele não pode[n]mover os pés. Ele diz que[n]as pernas são sacos de areia.[n][f 1 3 65535][w][e]
+[s][bup 0 4 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ela estava pingando de suor, cerrando[n]os dentes... Dava para ver[n]que ele estava com muita dor...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aparentemente, ele não pode[n]mover os pés. Ela diz que[n]as pernas são sacos de areia.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas ela os arrastava atrás[n]o tempo todo, aquelas pernas dela[n]inchadas de hematomas ...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu gostaria de ter parado ela...[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ann]]
 [s][bup 0 4 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim. É muito mais difícil do que[n]eu pensava... Horrível, sério.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele estava pingando de suor, cerrando[n]os dentes... Dava para ver[n]que ele estava com muita dor...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aparentemente, ele não pode[n]mover os pés. Ele diz que[n]as pernas são sacos de areia.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ela estava pingando de suor, cerrando[n]os dentes... Dava para ver[n]que ele estava com muita dor...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aparentemente, ela não pode[n]mover os pés. Ela diz que[n]as pernas são sacos de areia.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas ela os arrastava atrás[n]o tempo todo, aquelas pernas dela[n]inchadas de hematomas ...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu gostaria de ter parado ela...[n][f 1 3 65535][w][e]
 
@@ -61,15 +61,15 @@
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 1 10 30][vp 8 0 0 0 65535 0]Ela reclamava o tempo todo[n]de um jeito que não era dela...[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ann]]
-[s][bup 0 4 10 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Apesar disso, porém...[n]Ele completou a sessão...[n][f 1 3 65535][w][e]
+[s][bup 0 4 10 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Apesar disso, porém...[n]Ela completou a sessão...[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Ann]]
 [s][bup 0 4 10 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu... não sei por que estou chorando.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não estou na sua condição...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...É porque eu sou fraco?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...É porque eu sou fraca?[n][f 1 3 65535][w][e]
 
 [sel SEL_015_0_0 top]
-[s]Você não é fraco.[e]
+[s]Você não é fraca.[e]
 [s]Não, é porque você é legal.[e]
 
 [msg MSG_016_0_0 [Ann]]
@@ -79,8 +79,8 @@
 [s][bup 0 4 10 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você está errado...[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você sabe, apesar da dor,[n]eu pensei que Shiho era um[n]ótimo. E lindo também.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Apesar de reclamar...[n]ele deu tudo de si.[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você sabe, mesmo com toda aquela,[n] dor, eu achei a Shiho tão[n]legal... E linda também.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Apesar de reclamar...[n]ela deu tudo de si.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ser forte não significa apenas[n]manter-se impassível, mas também[n]lutar contra as adversidades.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Ann]]
@@ -88,7 +88,7 @@
 
 [sel SEL_020_0_0 top]
 [s]Conforte-a.[e]
-[s]Ouça suas explosões.[e]
+[s]Ouça o que ela tem a dizer.[e]
 [s][f 0 8 2 1 2217]Mostre a ela sua força.[clr 27][e]
 
 [msg MSG_021_0_0 [Ann]]

@@ -29,7 +29,7 @@
 [msg MSG_007_0_0 [Mika]]
 [s][bup 0 215 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O-Oh, você se limita a isso...?[n]Então... o que você costuma comer?[n][f 1 3 65535][w][e]
 [s][bup 0 215 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu tenho procurado em todos os lugares por um[n]lugar que venda amêndoas verdes orgânicas...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Além disso, estou ficando realmente entediado com[n]quinoa. Você acha que deve fervê-lo em água[n]calcária?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Além disso, estou ficando realmente entediada com[n]quinoa. Você acha que deve fervê-lo em água[n]calcária?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6194 65535 0]Mmh, amêndoas, você diz? Eu só como[n]aqueles com cobertura de chocolate...[n][f 1 3 65535][w][e]
@@ -62,7 +62,7 @@
 [s][vp 8 0 0 0 65535 0]...Você disse isso, Ann-chan?[n][f 1 3 65535][w][e]
 
 [msg MSG_014_5_0 [Ann]]
-[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]U-espere, eu...[n][f 1 3 65535][w][e]
+[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E-espere, eu...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Mika]]
 [s][bup 0 215 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu amo esta revista![n][f 1 3 65535][w][e]
@@ -76,7 +76,7 @@
 [s][bup 0 215 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Você trabalha muito mais do que eu...[n]No entanto, sou eu quem[n]deve ser consolado...[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ann]]
-[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 6029 65535 0]U-espere um momento...[n][f 1 3 65535][w][e]
+[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 6029 65535 0]E-espere um momento...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Assistente de fotógrafo]]
 [s][vp 8 0 0 0 65535 0]Ann-chan, a verdade é que nós dois[n]convocamos para substituir[n]a modelo que não apareceu.[n][f 1 3 65535][w][e]
@@ -95,7 +95,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 7 300 1][vp 8 2 0 6187 65535 0]Falso...![n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Mika]]
-[s][bup 0 215 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O-Quão ruim você é, Ann-chan...![n]Você realmente me odeia tanto assim?!?[n][f 1 3 65535][w][e]
+[s][bup 0 215 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O Quão ruim você é, Ann-chan...![n]Você realmente me odeia tanto assim?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Eu fotografo]]
 [s][vp 8 0 0 0 65535 0]Ei, sem drama, vocês dois.[n]Você está pronto, Mika-chan?[n][f 1 3 65535][w][e]
@@ -120,12 +120,12 @@
 
 [msg MSG_029_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim...[n][f 1 3 65535][w][e]
-[s][f 4 24 0 4 0 0 5 100][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E talvez ela tenha conseguido porque,[n]no fundo, eu não ligo[n]muito para modelar...[n][f 1 3 65535][w][e]
+[s][f 4 24 0 4 0 0 5 100][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E talvez ela tenha conseguido porque,[n]no fundo, eu não ligo[n]muito para ser modelo...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E ela entendeu na hora.[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 7 5 4]Sim...[n][f 1 3 65535][w][e]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 1 6 100][vp 8 0 0 0 65535 0]E talvez ela tenha conseguido porque,[n]no fundo, eu não ligo[n]muito para modelar...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 1 6 100][vp 8 0 0 0 65535 0]E talvez ela tenha conseguido porque,[n]no fundo, eu não ligo[n]muito para ser modelo...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]E ela entendeu na hora.[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Ann]]
@@ -135,7 +135,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E, no entanto, o choro falso de[n]Mika... não pareceu extraordinário para[n]você também?[n][f 1 3 65535][w][e]
 
 [sel SEL_033_0_0 top]
-[s][f 0 8 2 1 2217]Ele teve sua graça.[clr 27][e]
+[s][f 0 8 2 1 2217]Ela teve sua graça.[clr 27][e]
 [s]Um excelente Phantom Thief...[e]
 
 [msg MSG_034_0_0 [Ann]]

@@ -22,7 +22,7 @@
 [s][f 4 24 0 4 0 1 7 30][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]
-[s]Alegrar.[e]
+[s]Anime-se.[e]
 [s]Por favor, não chore.[e]
 
 [msg MSG_006_0_0 [Ann]]
@@ -30,7 +30,7 @@
 [s][f 4 24 0 4 0 37 5 50][f 4 24 0 4 0 1 7 100][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 12 300 1][vp 8 2 0 6115 65535 0]Eu... Que nervos![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 12 300 1][vp 8 2 0 6115 65535 0]Eu... Estou tão Chateada![n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mika teve que trabalhar duro[n]dia após dia para chegar[n]onde está agora.[n][f 1 3 65535][w][e]
@@ -43,12 +43,12 @@
 
 [msg MSG_009_0_0 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Até agora só fingi ser modelo. Como se[n]as roupas estivessem me vestindo...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Afinal, eu pensei que[n]modelagem significava[n]exatamente isso![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Afinal, eu pensei que[n]ser modelo significava[n]exatamente isso![n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Mas eu estava errado.[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Mas eu estava errada.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 12 300 65535][vp 8 0 0 0 65535 0]Uma verdadeira modelo realça a[n]beleza das roupas que veste,[n]as torna quase encantadoras...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 1 7 100][vp 8 0 0 0 65535 0]Um modelo real é flexível,[n]bonito e...forte.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 1 7 100][vp 8 0 0 0 65535 0]Uma modelo real é flexível,[n]bonita e...forte.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ann]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 12 300 1][vp 8 2 0 6183 65535 0]Bem, cansei de fingir![n][f 1 3 65535][w][e]
@@ -77,7 +77,7 @@
 [s][vp 8 0 0 0 65535 0]Sinto que Ann é movida por uma[n]determinação renovada...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 12 300 1][vp 8 2 0 6190 65535 0]Urghhh, que nervoso![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 12 300 1][vp 8 2 0 6190 65535 0]Urghhh, que raiva![n][f 1 3 65535][w][e]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Esta seria a[n]hora ideal para uma sobremesa, mas não,[n]não vou comer mais![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quero dizer, sim, mas não hoje![n]Coma um pouco para mim também,[n][f 4 2]![n][f 1 3 65535][w][e]
 

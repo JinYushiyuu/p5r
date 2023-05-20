@@ -21,7 +21,7 @@
 [sel SEL_004_0_0 top]
 [s][f 0 8 2 1 2217]Estou contando com você.[clr 27][e]
 [s]Você parece entusiasmado.[e]
-[s]...Ajudar-nos com o quê?[e]
+[s]...Ajudar com o quê?[e]
 
 [msg MSG_005_0_0 [Ryuji]]
 [s][bup 0 2 201 0 0][f 4 10 65535 0 0][vp 8 2 0 7024 65535 0][f 5 13 8 15 2]Hehehe. Eu vou arrebentar as suas[n]expectativas![n][f 1 3 65535][w][e]
@@ -80,7 +80,7 @@
 [s][vp 1 0 0 0 0 0]...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]
-[s][bup 0 2 211 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E, como você pode imaginar, desisti e[n]bati nele.[n][f 1 3 65535][w][e]
+[s][bup 0 2 211 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E como você pode imaginar, desisti e[n]bati nele.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Era como se ele quisesse que eu fizesse isso.[n]Chamou de "atitude violenta" e[n]dissolveu a equipe.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]

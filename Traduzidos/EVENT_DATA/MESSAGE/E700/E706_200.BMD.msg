@@ -14,7 +14,7 @@
 [msg MSG_004_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Com licença.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Na verdade... eu queria te pedir desculpas por[n]tudo.[n][f 1 3 65535][w][e]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 35 5 100][vp 8 2 0 0 65535 0]Porque fiquei encantado[n]pela vida que o Dr[n]Maruki criou para mim, quer dizer.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 35 5 100][vp 8 2 0 0 65535 0]Porque fiquei encantado[n]pela vida que o [n]Dr. Maruki criou para mim, quer dizer.[n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]
 [s]O que passou, passou.[e]
@@ -81,7 +81,7 @@
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6048 65535 0]Hehe entendi. Não aguenta quando[n]uma menina bonita fica triste, né?[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]De qualquer forma... estou grato. Mas[n]eu me sinto um merda por[n]aceitar essa realidade.[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]De qualquer forma... estou grato. Mas[n]eu me sinto uma merda por[n]aceitar essa realidade.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 54039 65535 0]Nunca mais me perderei.[n][f 1 3 65535][w][e]

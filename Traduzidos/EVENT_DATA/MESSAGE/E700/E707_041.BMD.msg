@@ -59,7 +59,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eh, estamos sempre fora do lugar...[n]Mas quer saber? Talvez[n]não seja tão ruim assim.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora que penso nisso, tentar[n]encaixar-se é uma grande dor.[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora que penso nisso, tentar[n]encaixar é uma grande dor.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 10 300 65535][vp 8 0 0 0 65535 0]Além disso, se eu não fosse um excluído,[n]eu nunca teria conhecido[n]vocês, não é?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então... ótimo![n][f 1 3 65535][w][e]
 

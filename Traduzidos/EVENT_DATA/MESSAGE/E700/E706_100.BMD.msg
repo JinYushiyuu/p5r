@@ -120,7 +120,7 @@
 [sel SEL_035_0_0 top]
 [s][f 0 8 2 1 2217]Você deu tudo de si.[clr 27][e]
 [s]Você ainda tem que aprender.[e]
-[s]Todos se elogiaram.[e]
+[s]Todos te elogiaram.[e]
 
 [msg MSG_036_0_0 [Ann]]
 [s][bup 0 4 601 65535 0][f 4 10 65535 0 0][vp 8 2 0 6088 65535 0][f 5 13 7 15 4]Bem, sim! Eu trabalhei[n]ao máximo desde... você estava lá[n]olhando para mim, [f 4 2]![n][f 1 3 65535][w][e]

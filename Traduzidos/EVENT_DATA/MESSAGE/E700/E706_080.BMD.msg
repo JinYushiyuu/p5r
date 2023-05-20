@@ -129,7 +129,7 @@
 
 [msg MSG_037_0_0 [Ann]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 3 301 1][vp 8 2 0 6115 65535 0]...Vadia![n][f 1 3 65535][w][e]
-[s][bup 0 4 202 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De todas as garotas que poderiam[n]bater em você... apenas Mika![n]Urghhh, que nervoso![n][f 1 3 65535][w][e]
+[s][bup 0 4 202 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De todas as garotas que poderiam[n]bater em você... apenas Mika![n]Urghhh, que raiva![n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Ann]]
 [s][bup 0 4 202 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Qual ferramenta devemos[n]usar primeiro?!? Vou botar[n]isso, vou botar no chão![n][f 1 3 65535][w][e]
@@ -181,8 +181,8 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...estou com um pouco de ciúme[n]do relacionamento deles.[n][f 1 3 65535][w][e]
 
 [msg MSG_053_0_0 [Ann]]
-[s][bup 0 4 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Desde pequeno, meu[n]sempre foi muito ocupado.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles sempre me disseram que[n]eu era forte e que eu poderia[n]cuidar sozinho.[n][f 1 3 65535][w][e]
+[s][bup 0 4 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Desde pequeno, meus[n]pais estavam sempre ocupado.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles sempre me disseram que[n]eu era forte e que eu poderia[n]me cuidar sozinho.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sempre tive grande[n]liberdade... mas sempre[n]estive sozinho.[n][f 1 3 65535][w][e]
 
 [msg MSG_054_0_0 [Ann]]
@@ -200,12 +200,12 @@
 [s][bup 0 4 200 65535 0][f 4 10 65535 0 0][vp 8 2 0 6058 65535 0]Eu tenho que mostrar que estou[n]comprometido... e que você não[n]se preocupa comigo.[n][f 1 3 65535][w][e]
 
 [sel SEL_058_0_0 top]
-[s][f 0 8 2 1 2217]Ele ficará feliz em saber disso.[clr 27][e]
-[s][f 0 8 2 1 2217]Certamente ele já sabe.[clr 27][e]
+[s][f 0 8 2 1 2217]Ela ficará feliz em saber disso.[clr 27][e]
+[s][f 0 8 2 1 2217]Certamente ela já sabe.[clr 27][e]
 
 [msg MSG_059_0_0 [Ann]]
 [s][bup 0 4 201 65535 0][f 4 10 65535 0 0][vp 8 2 0 6034 65535 0][f 5 13 7 15 4]Isso mesmo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 3 100][vp 8 0 0 0 65535 0]Você DEVE saber o quanto[n]aprendi com você...![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 3 100][vp 8 0 0 0 65535 0]Você deve saber o quanto[n]aprendi com você...![n][f 1 3 65535][w][e]
 
 [msg MND_060_0_0]
 [s][vp 8 0 0 0 65535 0]Eu sinto que Ann é movida[n]por uma grande determinação...[n][f 1 3 65535][w][e]

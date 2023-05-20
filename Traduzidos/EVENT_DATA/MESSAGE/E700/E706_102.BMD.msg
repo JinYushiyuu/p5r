@@ -5,13 +5,13 @@
 [s][vp 8 0 0 0 65535 0]Eu sinto que Ann[n]está pensando em algo...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Quando conheci Shiho,[n]quando ele...me salvou...[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Quando conheci Shiho,[n]quando ela...me salvou...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Eu entendi o quão importante[n]as relações entre as pessoas são.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]É por isso que não quero mais[n]fugir.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Eu quero enfrentar meus medos.[n]E desta vez serei eu quem vai ajudar[n]outros.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][f 4 24 0 4 0 9 3 100][vp 8 0 0 29 65535 0]Mas... ainda estou um pouco[n]preocupado. Você acha que pode[n]ajudar-me, [f 4 2]?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Eu quero enfrentar meus medos.[n]E desta vez serei eu quem vai ajudar[n]os outros.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][f 4 24 0 4 0 9 3 100][vp 8 0 0 29 65535 0]Mas... ainda estou um pouco[n]preocupada. Você acha que pode[n]me ajudar? [f 4 2]?[n][f 1 3 65535][w][e]
 
 [sel SEL_004_0_0 top]
 [s][f 0 8 2 1 2217]Claro.[clr 27][e]

@@ -82,7 +82,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 3 301 1][vp 8 2 0 6029 65535 0]M-Mika?!? Por que você está fazendo isso?[n]Eu pensei que você me respeitava![n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Mika]]
-[s][bup 0 215 507 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você deveria ter percebido que[n]eu estava mentindo... Obviamente, você[n]é realmente ingênuo.[n][f 1 3 65535][w][e]
+[s][bup 0 215 507 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você deveria ter percebido que[n]eu estava mentindo... Obviamente, você[n]é realmente ingênua.[n][f 1 3 65535][w][e]
 [s][bup 0 215 502 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, um amador estúpido como você[n]me irrita. Tente não estragar meu serviço, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Eu fotografo]]

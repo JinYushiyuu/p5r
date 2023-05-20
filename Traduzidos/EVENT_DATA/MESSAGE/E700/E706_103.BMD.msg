@@ -19,7 +19,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 82 65535 0]Sim...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Quando conheci Shiho,[n]quando ele...me salvou...[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Quando conheci Shiho,[n]quando ela...me salvou...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 46 65535 0]Eu entendi o quão importante[n]as relações entre as pessoas são.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ann]]
@@ -104,7 +104,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 79 65535 0]...você... você?[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 63 65535 0]Eu fecho meus olhos...?[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 63 65535 0]Eu devo fechar meus olhos...?[n][f 1 3 65535][w][e]
 
 [msg MND_029_0_0]
 [s][vp 8 0 0 0 65535 0]Passou muito tempo[n]com Ann...[n][f 1 3 65535][w][e]

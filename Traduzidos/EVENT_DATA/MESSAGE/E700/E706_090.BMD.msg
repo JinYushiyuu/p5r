@@ -1,12 +1,12 @@
 [msg MSG_000_0_0 [Shiho]]
 [s][bup 0 212 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*anf* *anf*[n][f 1 3 65535][w][e]
-[s][bup 0 212 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ann, [f 4 2]-kun...[n]Peso, hein? Obrigado por[n]ajudar.[n][f 1 3 65535][w][e]
+[s][bup 0 212 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ann, [f 4 2]-kun...[n]Eu sou muito pesada, hein?[n] Obrigada por[n]ajudar.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6155 65535 0]Você sempre pode[n]confiar em [f 4 2], hein?[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6155 65535 0]Você sempre pode[n]confiar em mim[f 4 2], hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Shiho]]
-[s][bup 0 212 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hehehe. Mm-hm, você estava[n]muito certo.[n][f 1 3 65535][w][e]
+[s][bup 0 212 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hehehe. Mm-hm, você esta certo.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Shiho]]
 [s][bup 0 212 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Qual é a altura aqui...[n][f 1 3 65535][w][e]
@@ -17,7 +17,7 @@
 [s]Por que você quis vir aqui?[e]
 
 [msg MSG_005_0_0 [Shiho]]
-[s][bup 0 212 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Huh? Não com esta grade.[n]Daqui você pode ver todo[n]pátio...[n][f 1 3 65535][w][e]
+[s][bup 0 212 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Huh? Não com esta grade.[n]aqui você pode ver todo[n]pátio...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Shiho]]
 [s][bup 0 212 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Huh? Hahaha, não se preocupe,[n]eu nunca mais pularia no vazio[n]novamente.[n][f 1 3 65535][w][e]

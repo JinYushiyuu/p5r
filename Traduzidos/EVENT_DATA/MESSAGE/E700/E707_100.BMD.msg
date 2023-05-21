@@ -67,7 +67,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 10 300 1][vp 8 0 0 34 65535 0]Bom! Agora que finalmente[n]perdi aquele peso...[n]estou pronto![n][f 1 3 65535][w][e]
 
 [msg MSG_017_5_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Primeiras coisas primeiro: os Phantom Thieves![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]primeiro: os Phantom Thieves![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Conto com você, líder.[n]E você pode contar comigo![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]

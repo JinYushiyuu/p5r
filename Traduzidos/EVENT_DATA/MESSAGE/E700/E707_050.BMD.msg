@@ -8,10 +8,10 @@
 [s][vp 8 0 0 0 65535 0]Sakamoto?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 6 301 1][vp 8 2 0 54220 65535 0]Ikeda-senpai! Saúde![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 6 301 1][vp 8 2 0 54220 65535 0]Ikeda-senpai! o que está rolando?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ikeda-senpai]]
-[s][vp 8 0 0 0 65535 0]"Ciauz"? Você fala absurdamente.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]"rolando"? Você fala absurdamente.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]É assim que você cumprimenta um amigo?[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Ryuji]]

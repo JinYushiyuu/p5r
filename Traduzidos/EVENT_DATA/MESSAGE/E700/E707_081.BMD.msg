@@ -86,7 +86,7 @@
 [s][vp 8 0 0 0 65535 0]B-bem, eu...[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Ryuji]]
-[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se você realmente acredita nisso,[n]você está muito errado![n][f 1 3 65535][w][e]
+[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se você realmente acredita nisso,[n]você está muito enganado![n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 2 0 7192 65535 0]Nakaoka. Você também sabia que havia[n]algo errado com[n]Yamauchi, não sabia?[n][f 1 3 65535][w][e]
@@ -122,7 +122,7 @@
 [s][vp 8 0 0 0 65535 0]Você disse que[n]combina com você, não é?[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Ryuji]]
-[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]U-espere! Pare![n][f 1 3 65535][w][e]
+[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E-espere! Pare![n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ryuji]]
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nghh... Você teve que[n]bater tão forte?[n][f 1 3 65535][w][e]
@@ -165,7 +165,7 @@
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 10 2]Conte-me. Você ficou[n]ali imóvel enquanto eles me davam uma surra[n]...[n][f 1 3 65535][w][e]
 
 [msg MSG_046_0_0 [Ryuji]]
-[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 5 2]...Você está falando sério? Posso oferecer-lhe[n]alguns ramen, se você realmente quiser. Mas[n]você paga pelos ingredientes extras![n][f 1 3 65535][w][e]
+[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 5 2]...Você está falando sério? Posso oferecer-lhe[n]alguns ramens, se você realmente quiser. Mas[n]você paga pelos ingredientes extras![n][f 1 3 65535][w][e]
 
 [msg MSG_047_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas falando sério...[n]Você tem sido uma grande ajuda.[n][f 1 3 65535][w][e]

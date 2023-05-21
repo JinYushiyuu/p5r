@@ -11,7 +11,7 @@
 [s][vp 8 0 0 0 65535 0]De volta à faculdade, nós[n]alugamos um iate para o[n]fim de semana e bebemos à vontade.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Yamauchi]]
-[s][vp 8 0 0 0 65535 0]Admito, porém... ultimamente[n]sake está mais doce.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Admito, porém... ultimamente[n]saquê está mais doce.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Colega professor]]
 [s][vp 8 0 0 0 9 0]Isso não me surpreende. Sem[n]Kamoshida o ar[n]mais sereno.[n][f 1 3 65535][w][e]

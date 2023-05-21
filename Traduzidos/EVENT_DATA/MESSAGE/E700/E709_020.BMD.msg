@@ -51,16 +51,16 @@
 
 [msg MSG_015_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Minha mãe me fez[n]sempre fazer isso.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele me escreveu as metas do[n]mês, como limpar a casa ou fazer[n]certas tarefas para ela.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Toda vez que eu completava[n]um, ele conferia com um[n]grande carimbo.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ela me escreveu as metas do[n]mês, como limpar a casa ou fazer[n]certas tarefas para ela.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Toda vez que eu completava[n]um, ela conferia com um[n]grande carimbo.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 1 300 65535][vp 8 0 0 0 65535 0]Ele também costumava escrever[n]comentários... Eles eram hilários.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, e assim que todos os objetivos fossem[n]concluídos, ele tiraria um dia de folga e[n]passaria comigo.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, e assim que todos os objetivos fossem[n]concluídos, ela tiraria um dia de folga e[n]passaria comigo.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Futaba]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 1 300 1][vp 8 2 0 9196 65535 0]Eu decidi! Farei uma lista[n]de promessas![n][f 1 3 65535][w][e]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ideias, eu![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hora de preparar minhas promessas![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9089 65535 0]...Concluído![n][f 1 3 65535][w][e]
@@ -76,7 +76,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 9098 65535 0]...O que você acha?[n][f 1 3 65535][w][e]
 
 [sel SEL_020_0_0 top]
-[s]Parecem-me excelentes.[e]
+[s]Parecem excelentes.[e]
 [s]...Você pode repetir?[e]
 
 [msg MSG_021_0_0 [Futaba]]

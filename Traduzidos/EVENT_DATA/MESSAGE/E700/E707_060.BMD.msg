@@ -9,7 +9,7 @@
 [s][f 0 8 2 1 2217]Podemos treinar em minha casa.[clr 27][e]
 
 [msg MSG_002_0_0 [Ryuji]]
-[s][bup 0 2 207 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 5 2]Você não me ouviu? Eu não quero[n]encontra-los. Tente[n]colocar-se no meu lugar![n][f 1 3 65535][w][e]
+[s][bup 0 2 207 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 5 2]Você não me ouviu? Eu não quero[n]encontra-los. Tente[n]se colocar no meu lugar![n][f 1 3 65535][w][e]
 [s][bup 0 2 200 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][vp 8 0 0 0 65535 0]E não me diga que não sou um tipo emocional![n]Estou cheio de emoções![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
@@ -55,7 +55,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E eles não estão colocando o time de volta em pé?[n]Vocês não deveriam estar brigando![n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]
-[s][bup 0 2 211 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 10 2]G-Certo! E eles não estão colocando o time de[n]volta em pé? Vocês não deveriam estar brigando![n][f 1 3 65535][w][e]
+[s][bup 0 2 211 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 10 2]C-certo! E eles não estão colocando o time de[n]volta em pé? Vocês não deveriam estar brigando![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Takeishi]]
 [s][vp 8 0 0 0 65535 0]...C-Cala a boca![n][f 1 3 65535][w][e]
@@ -103,7 +103,7 @@
 [s][vp 8 0 0 0 9 0]Vamos, Takeishi, devemos[n]partir. Se[n]mais alguém vier...[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Takeishi]]
-[s][vp 8 0 0 0 65535 0]...Nakaoka. Pedaços de merda[n]como você não são bem-vindos[n]no novo time. Lembre-se disso.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]...Nakaoka. Pedaço de merda[n]como você não são bem-vindos[n]no novo time. Lembre-se disso.[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Ryuji]]
 [s][bup 0 2 203 0 0][f 4 10 65535 0 0][vp 8 2 0 7028 65535 0]...tudo bem?[n][f 1 3 65535][w][e]

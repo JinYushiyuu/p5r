@@ -24,13 +24,13 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 5 2]Não, eles te dão isso.[n][f 1 3 65535][w][e]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][vp 8 0 0 0 65535 0]Eu estava falando sobre roupas íntimas[n]sobressalentes![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Colocar sua cueca suada de volta[n]depois de tomar um bom[n]banho quente é a coisa mais nojenta que...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Ah, eu não quero te dar falsas esperanças.[n]Esqueça que eu empresto o meu.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Ah, eu não quero te dar falsas esperanças.[n]Esqueça que eu empresto a minha.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 10 2]É claro. Se você quer bombar, você tem que...[n]Não, espere, eu não estava falando sobre isso![n][f 1 3 65535][w][e]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][vp 8 0 0 0 65535 0]Eu estava falando sobre roupas íntimas[n]sobressalentes![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Colocar sua cueca suada de volta[n]depois de tomar um bom[n]banho quente é a coisa mais nojenta que...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Ah, eu não quero te dar falsas esperanças.[n]Esqueça que eu empresto o meu.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Ah, eu não quero te dar falsas esperanças.[n]Esqueça que eu empresto a minha.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7060 65535 0]Enfim, vamos entrar.[n][f 1 3 65535][w][e]

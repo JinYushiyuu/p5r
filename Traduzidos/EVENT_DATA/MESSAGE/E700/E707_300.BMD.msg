@@ -8,7 +8,7 @@
 
 [sel SEL_002_0_0 top]
 [s]Concordo.[e]
-[s]Não posso deixar você vencer.[e]
+[s]Não posso deixar você me vencer.[e]
 [s]Não.[e]
 
 [msg MSG_003_0_0 [Ryuji]]
@@ -24,7 +24,7 @@
 
 [msg MSG_006_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, obrigado pela companhia.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos voltar mais cedo ou mais tarde, ok?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos voltar de novo algum dia, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*anf*... Merda... Minhas[n]pernas estão tremendo... Não caia[n]no chão caminhando para casa...[n][f 1 3 65535][w][e]

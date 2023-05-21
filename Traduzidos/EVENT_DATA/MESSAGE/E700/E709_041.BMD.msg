@@ -26,7 +26,7 @@
 [s]Se você quiser.[e]
 
 [msg MSG_007_0_0 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 10 5 8]G-Certo, heheh... Eu estava[n]testando você,[n][f 4 2].[n][f 1 3 65535][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 10 5 8]C-Certo, heheh... Eu estava[n]testando você,[n][f 4 2].[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 10 15 8]Eu esperava que você dissesse isso.[n][f 1 3 65535][w][e]
@@ -43,7 +43,7 @@
 
 [msg MSG_012_0_0 [Futaba]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 1 300 1][vp 8 2 0 9045 65535 0]Você é incrível![n][f 1 3 65535][w][e]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se vocês dois vierem comigo,[n]será tão fácil quanto lidar com[n]um bando de asseclas![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se vocês dois vierem comigo,[n]será tão fácil quanto lidar com[n]um multidão de lixo![n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Acho que não entendi.[n]Que bom, né?[n][f 1 3 65535][w][e]
@@ -76,14 +76,14 @@
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 9176 65535 0]Mm-hm. Na escola primária[n]eu memorizei rapidamente[n]os títulos dos livros em uma estante.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu contei para as outras crianças,[n]mas elas pensaram que eu estava brincando.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quando eu recitei os títulos[n]para provar...eles riram na[n]minha cara, dizendo que eu era um monstro.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...eu sou estranho, [f 4 2]?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...eu sou estranha? [f 4 2]?[n][f 1 3 65535][w][e]
 
 [sel SEL_020_1_0 top]
-[s]Não, você é talentoso.[e]
+[s]Não, você é talentosa.[e]
 [s]Talvez eles estivessem apenas surpresos.[e]
 
 [msg MSG_021_3_0 [Futaba]]
-[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Eu não quero ser superdotado, se[n]isso assusta as pessoas.[n][f 1 3 65535][w][e]
+[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Eu não quero ser superdotada, se[n]isso assusta as pessoas.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_5_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Não. Eles estavam muito assustados.[n][f 1 3 65535][w][e]
@@ -101,7 +101,7 @@
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 2028 65535 0]...Sinto muito, Futaba.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Futaba]]
-[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 9198 65535 0]Calmo. A culpa é minha...[n][f 1 3 65535][w][e]
+[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 9198 65535 0]Calma. A culpa é minha...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Fui eu quem falou sobre[n]todas aquelas histórias tristes...[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Futaba]]
@@ -124,8 +124,8 @@
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 10 10 8]Huh? Q-Que tipo de fetiche estranho[n]você tem, [f 4 2]?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2182 65535 0]Atenciosamente, Futaba... recentemente[n]você melhorou tremendamente,[n]é evidente.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Era uma vez você nunca[n]preocupado com tudo isso.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2182 65535 0]Sinceramente, Futaba... recentemente[n] está claro quanto você melhorou,[n]é evidente.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]você teria ficado[n]tão assustada com  tudo isso antes.[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Futaba]]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hã?[n][f 1 3 65535][w][e]
@@ -136,7 +136,7 @@
 
 [msg MSG_032_0_0 [Futaba]]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 9166 65535 0]Espere, então você está satisfeito[n]mesmo que eu esteja triste...?[n][f 1 3 65535][w][e]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mmm... é isso que[n]dizer "se a vida te der limões" significa?[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mmm... isso é como[n]aquele ditado "se a vida te der limões"?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 1 300 65535][vp 8 0 0 0 65535 0]Talvez eu devesse fazer limonada[n]para os Phantom Thieves! Hum,[n]figurativamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_032_1_0 [Makoto]]
@@ -146,7 +146,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 1 300 1][vp 8 2 0 9024 65535 0]Sim![n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
-[s][vp 8 0 0 0 65535 0]Futaba parece animado...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Futaba parece animada...[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tenho certeza que você faria muitos amigos se[n]decidisse vir para a escola, Futaba.[n][f 1 3 65535][w][e]

@@ -13,8 +13,8 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele é seu amigo?[n][f 1 3 65535][w][e]
 
 [sel SEL_004_0_0 top]
-[s]Ele é um colega de classe.[e]
-[s]"Cara" é um pouco demais.[e]
+[s]Ela é um colega de classe.[e]
+[s]Amigo é um pouco demais.[e]
 
 [msg MSG_005_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9157 65535 0]Hum. E se eu pedir a ele[n]para nos ajudar com a promessa?[n][f 1 3 65535][w][e]
@@ -42,12 +42,12 @@
 
 [msg MSG_011_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hmmm. Parece que a ajuda vem[n]quando eu mais preciso.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 9024 65535 0]Eu tenho sorte em valores loucos.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 9024 65535 0]Talvez eu tenha grande sorte.[n][f 1 3 65535][w][e]
 
 [sel SEL_012_0_0 top]
 [s][f 0 8 2 1 2217]Acho que você está certo.[clr 27][e]
 [s]Não.[e]
-[s]Valores... loucos?[e]
+[s]Grande...sorte?[e]
 
 [msg MSG_013_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 10 10 8]Exatamente! Agora eu provavelmente poderia rolar[n]um vinte natural, se você me perguntasse![n][f 1 3 65535][w][e]
@@ -84,10 +84,10 @@
 
 [msg MSG_022_5_0 [Mishima]]
 [s][bup 0 111 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E-E-Espera, por acaso você executa[n]um desses...canais push?[n][f 1 3 65535][w][e]
-[s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Para fazer isso é preciso coragem,[n]mas não seria[n]mal de todo... Kek.[n][f 1 3 65535][w][e]
+[s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Para fazer isso é preciso coragem,[n]mas não seria[n]mal de todo... rsrs.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Futaba]]
-[s][bup 0 8 4 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 14 300 65535][vp 8 0 0 0 65535 0]Uau, esta é a primeira vez que[n]ouço alguém dizer[n]"kek" em voz alta...![n][f 1 3 65535][w][e]
+[s][bup 0 8 4 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 14 300 65535][vp 8 0 0 0 65535 0]Uau, esta é a primeira vez que[n]ouço alguém dizer[n]"rsrs" em voz alta...![n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Mishima]]
 [s][bup 0 111 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E-Eh? Essa é a única coisa que você[n]ouviu sobre todo o discurso...?[n][f 1 3 65535][w][e]
@@ -102,7 +102,7 @@
 [sel SEL_027_0_0 top]
 [s]O que é um NPC?[e]
 [s]Brutal.[e]
-[s][f 0 8 2 1 2217]Ele é o protagonista.[clr 27][e]
+[s][f 0 8 2 1 2217]O protagonista.[clr 27][e]
 
 [msg MSG_028_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 10 5 8]Não sei explicar...[n][f 1 3 65535][w][e]
@@ -125,7 +125,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, acho que você não pode[n]julgar um livro pela capa.[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9196 65535 0]Que bom que você gerou aqui![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9196 65535 0]Que bom que você está aqui![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hoje fiz duas[n]promessas com um Nishima![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"Conhecer minha geração" e[n]"falar normalmente[n]com um colega desconhecido"! Sim![n][f 1 3 65535][w][e]
 
@@ -137,7 +137,7 @@
 [s][vp 8 0 0 0 65535 0]Eu sinto a pura alegria de Futaba...[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Mishima]]
-[s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]D-Então, uhm... Futaba-chan.[n]Posso te chamar assim, né?[n]Estou um pouco envergonhado, hahaha...[n][f 1 3 65535][w][e]
+[s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E-Então, uhm... Futaba-chan.[n]Posso te chamar assim, né?[n]Estou um pouco envergonhado, hahaha...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Enfim, uh... o que[n]você faz depois?[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Futaba]]

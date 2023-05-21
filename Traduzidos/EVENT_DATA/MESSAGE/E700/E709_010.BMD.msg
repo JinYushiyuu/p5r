@@ -18,12 +18,12 @@
 [s][bup 0 8 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Aaah... Ah...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Ele parece estar com problemas![n]O que devemos fazer?!?[n][f 1 3 65535][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Ela parece estar com problemas![n]O que devemos fazer?!?[n][f 1 3 65535][w][e]
 
 [sel SEL_007_0_0 top]
 [s]Vamos ajudá-la.[e]
 [s]Nós estamos observando.[e]
-[s]Vamos ignorá-lo.[e]
+[s]Vamos ignorá-la.[e]
 
 [msg MSG_008_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Sim, rápido![n][f 1 3 65535][w][e]
@@ -68,11 +68,11 @@
 
 [msg MSG_021_0_0 [Futaba]]
 [s][bup 0 8 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Não havia ninguém que eu conhecesse perto de mim[n]e entrei em pânico. Meu coração estava na[n]garganta...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Eu fiz tudo sozinho...[n]me assustei e[n]enrolei no chão...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Eu fiz tudo sozinha...[n]me assustei e[n]enrolei no chão...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Aí as pessoas começaram[n]a me encarar e a[n]polícia veio. Então...acabou...[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Ouça, Futaba. Se você[n]encontrar-se em apuros,[n]entre em contato com [f 4 2].[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Ouça, Futaba. Se você[n]se encontrar em apuros,[n]entre em contato com [f 4 2].[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]...Ok.[n][f 1 3 65535][w][e]
@@ -94,7 +94,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Eu não, no entanto.[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Futaba]]
-[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Urgh... Não sou nem capaz de[n]ir comprar um jogo[n]sozinho. Estou uma bagunça...[n][f 1 3 65535][w][e]
+[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Urgh... Não sou nem capaz de[n]ir comprar um jogo[n]sozinha. Estou uma bagunça...[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Futaba...[n][f 1 3 65535][w][e]
@@ -125,7 +125,7 @@
 [s][vp 8 0 0 0 65535 0]De agora em diante, é melhor eu[n]sempre acompanhar Futaba[n]quando ela sair...[n][f 1 3 65535][w][e]
 
 [msg MSG_036_4_0 [Sae]]
-[s][vp 8 0 0 800 65535 0]Outra coisa que nos impressionou[n]foi a capacidade do Phantom[n]Thieves de obter informações.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 800 65535 0]Outra coisa que nos impressionou[n]foi a capacidade do[n]Phantom Thieves de obter informações.[n][f 1 3 65535][w][e]
 
 [msg MSG_036_5_0 [Sae]]
 [s][vp 8 0 0 801 65535 0]Também sabemos que seria[n]impossível sem a ajuda[n]de um hacker especialista...[n][f 1 3 65535][w][e]

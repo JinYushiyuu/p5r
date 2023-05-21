@@ -55,7 +55,7 @@
 [msg MSG_011_5_0 [Ryuji]]
 [s][bup 0 2 607 65535 0][f 4 10 65535 0 0][vp 8 2 0 7188 65535 0]...Eu estive pensando sobre isso por um tempo,[n]mas nunca encontrei um bom momento para falar[n]sobre isso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Bem, claro, eu poderia discutir[n]com o resto da equipe[n]como se nada tivesse acontecido...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mas quando penso no que[n]fiz... me sinto uma merda.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mas quando penso no que[n]fiz... me sinto um merda.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Se eu tivesse ignorado e[n]continuado, teria traído[n]tudo o que fizemos.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_7_0 [Ryuji]]
@@ -94,7 +94,7 @@
 
 [msg MSG_017_0_0 [Ryuji]]
 [s][bup 0 2 603 65535 0][f 4 10 65535 0 0][vp 8 2 0 7177 65535 0]Hã...?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A sério? Levei muito[n]muito para encontrar algo[n]que funcionasse...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A sério? Levei muito[n]tempo para encontrar algo[n]que funcionasse...[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
@@ -147,14 +147,14 @@
 [s][vp 1 0 0 0 0 0][clr 1]Seiten Taisei[clr 27], Persona de Ryuji,[n]transformado em [clr 2]William[clr 27]![n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Ryuji]]
-[s][bup 0 2 601 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Cara, agora que eu desabafei[n]está melhor! Talvez esta noite[n]eu finalmente consiga dormir.[n][f 1 3 65535][w][e]
+[s][bup 0 2 601 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Cara, agora que eu desabafei[n]estou melhor! Talvez esta noite[n]eu finalmente eu consiga dormir.[n][f 1 3 65535][w][e]
 
 [sel SEL_027_0_0 top]
 [s]Isso é tudo que você precisava?[e]
 [s]Você é simples, Ryuji.[e]
 
 [msg MSG_028_0_0 [Ryuji]]
-[s][bup 0 2 601 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ouça, você não tem ideia. Quando tenho que[n]tomar banho sabendo que não vou[n]dormir no futon depois, me sinto mal.[n][f 1 3 65535][w][e]
+[s][bup 0 2 601 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ouça, você não tem ideia. Quando tenho que[n]tomar banho sabendo que não vou[n]dormir no futon, depois me sinto mal.[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Ryuji]]
 [s][bup 0 2 601 65535 0][f 4 10 65535 0 0][vp 8 2 0 7023 65535 0]Você conhece bem! É melhor do que parar[n]e fazer muitas perguntas.[n][f 1 3 65535][w][e]

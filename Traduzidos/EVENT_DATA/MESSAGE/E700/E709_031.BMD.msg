@@ -42,14 +42,14 @@
 [s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não estou nada bem...![n]Fiquei apavorada![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9030 65535 0][f 5 13 10 10 8]O-Oh... Obrigado.[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9030 65535 0][f 5 13 10 10 8]O-Oh... Obrigada.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Achei que nunca[n]veria você de novo até o fim dos tempos...[n][f 1 3 65535][w][e]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas então, enquanto vagava pela[n]loja, pensei em você e bam![n]Um [f 4 2] selvagem apareceu![n][f 1 3 65535][w][e]
 
 [sel SEL_013_0_0 top]
-[s][f 0 8 2 1 2217]Prazer em vê-lo novamente.[clr 27][e]
+[s][f 0 8 2 1 2217]Prazer em vê-la novamente.[clr 27][e]
 [s]É você quem apareceu.[e]
 [s]Você tem que ter mais cuidado.[e]
 
@@ -61,22 +61,22 @@
 
 [msg MSG_016_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Foi um acidente...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 1 300 65535][vp 8 0 0 0 65535 0]Da próxima vez vou tentar[n]ser mais cuidadoso...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 1 300 65535][vp 8 0 0 0 65535 0]Da próxima vez vou tentar[n]ser mais cuidadosa...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 9114 65535 0]...hmm?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Um momento! Acabei de concluir uma promessa! "Vá[n]para um lugar lotado"![n][f 1 3 65535][w][e]
-[s][f 4 7 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 1 300 1][vp 8 2 0 9105 65535 0]Sou ou não sou extraordinário?!?[n][f 1 3 65535][w][e]
+[s][f 4 7 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 1 300 1][vp 8 2 0 9105 65535 0]Sou ou não sou incrível?!?[n][f 1 3 65535][w][e]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mesmo que seja tudo por causa da Guerra de[n]Terabyte... E também[n]sua. Você me trouxe aqui![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 9191 65535 0]Então eu, Futaba Sakura,[n]obrigado![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 9191 65535 0]Então eu, Futaba Sakura,[n]obrigada![n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
 [s][vp 8 0 0 0 65535 0]Eu sinto a pura alegria de Futaba...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Futaba]]
-[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Claro, no entanto, enfrentar aquela[n]masmorra sozinho foi[n]terrorizante...[n][f 1 3 65535][w][e]
+[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Claro, no entanto, enfrentar aquela[n]masmorra sozinha foi[n]aterrorizante...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ficar sem você é...[n]assustador, [f 4 2].[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Futaba]]
@@ -84,7 +84,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pode ser uma campanha muito longa[n]mas vou terminá-la[n]um dia![n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Fiuuu, estou exausto.[n][f 1 3 65535][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Fiuuu, estou exausta.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Futaba]]
 [s][vp 8 2 0 9050 65535 0]Vamos, vamos para casa![n][f 1 3 65535][w][e]

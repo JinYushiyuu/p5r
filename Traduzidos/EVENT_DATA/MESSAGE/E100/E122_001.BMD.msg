@@ -31,7 +31,7 @@
 
 [msg MSG_009_0_0 [Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Seu assento será... Mmh...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Aquele lá. Esse está livre.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Aquele lá. Que está livre.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Com licença, mas quem está por perto[n]poderia compartilhar livros didáticos[n]com ele hoje?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Estudante de cabelo castanho]]

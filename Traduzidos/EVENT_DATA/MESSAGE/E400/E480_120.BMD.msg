@@ -2,7 +2,7 @@
 [s][vp 8 0 0 1 4 0]Sinto muito...[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Colegial com um laço no cabelo]]
-[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 4 0]Muito obrigado por antes.[n][f 1 3 65535][w][e]
+[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 4 0]Muito obrigada por antes.[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]
 [s]Com o quê?[e]

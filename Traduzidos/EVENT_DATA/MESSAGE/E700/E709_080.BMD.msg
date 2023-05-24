@@ -16,7 +16,7 @@
 
 [msg MSG_003_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 10 15 8]Sério?!?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 9024 65535 0]Estou surpreso por você[n]excitar-se tanto, mas estou feliz.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 9024 65535 0]Estou surpresa por você[n]se animar tanto, mas estou feliz.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9137 65535 0][f 5 13 10 10 8]Nada mal, né?!? Talvez eu devesse[n]dedicar a isso uma promessa[n]uma parte da minha lista.[n][f 1 3 65535][w][e]
@@ -36,7 +36,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sabe... antes eu nunca[n]poderia ligar para ela para me desculpar.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_5_0 [Futaba]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 1 300 1][vp 8 2 0 9191 65535 0]Se consegui[n]é só graças a você,[n][f 4 2]![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 1 300 1][vp 8 2 0 9191 65535 0]Só consegui[n]é só graças a você,[n][f 4 2]![n][f 1 3 65535][w][e]
 
 [sel SEL_008_0_0 top]
 [s][f 0 8 2 1 2217]Você também trabalhou duro.[clr 27][e]
@@ -48,7 +48,7 @@
 
 [msg MSG_010_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9133 65535 0][f 5 13 10 5 8]Então... eu tenho que[n]elogiá-lo um pouco mais![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Corar, [f 4 2]! Meu lindo[n]campeão da justiça![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Corar, [f 4 2]Meu lindo[n]campeão da justiça![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah sim, um bravo aventureiro[n]como você merece uma recompensa.[n][f 1 3 65535][w][e]
@@ -56,7 +56,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Quer dizer que minha[n]gratidão não é suficiente?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, quase esqueci! Kana-chan[n]ficou surpreso quando os[n]Phantom Thieves ouviram.[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, quase esqueci! Kana-chan[n]ficou surpresa quando os[n]Phantom Thieves ouviram.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 9089 65535 0]Infelizmente ele nunca saberá a[n]verdade... Mueheheh![n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Futaba]]
@@ -84,7 +84,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Você consegue?[n][f 1 3 65535][w][e]
 
 [sel SEL_018_0_0 top]
-[s]Está bom para mim.[e]
+[s]Tudo bem por mim.[e]
 [s]Isso é tudo?[e]
 
 [msg MSG_019_0_0 [Futaba]]
@@ -94,13 +94,13 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 7 300 1][vp 8 2 0 9039 65535 0]Uau![n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Futaba]]
-[s][bup 0 8 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]It-It é completamente diferente[n]do que minha mãe costumava fazer![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 23 0 4 17 7 18 10][f 4 24 0 4 0 38 5 100][vp 8 0 0 0 65535 0]IAN O coração...! L-O rosto...![n]Estou pegando fogo![n][f 1 3 65535][w][e]
+[s][bup 0 8 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]I-Isso é completamente diferente[n]do que minha mãe costumava fazer![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 23 0 4 17 7 18 10][f 4 24 0 4 0 38 5 100][vp 8 0 0 0 65535 0]M-Meu coração...! M-Meu rosto...![n]Eles estão pegando fogo![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 1 10 100][f 4 24 0 4 0 11 3 30][vp 8 0 0 0 65535 0]*anf* *anf* C-Calma, Futaba...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_5_0 [Futaba]]
 [s][bup 0 8 6 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]Fiuuu... aquela estranha crise[n]parece que já passou.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Meu coração ainda[n]está louco, mas estou melhor agora.[n]Desculpe se te preocupei.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Meu coração ainda[n]está batendo forte, mas estou melhor agora.[n]Desculpe se te preocupei.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quase me esqueci... ainda há[n]uma promessa a cumprir.[n][f 1 3 65535][w][e]

@@ -11,7 +11,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]...Fique aqui e espere eu voltar.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Futaba]]
-[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Estou nervoso, mas... vamos lá![n]Hora de ficar curioso...[n]como um macaco![n][f 1 3 65535][w][e]
+[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Estou nervosa, mas... vamos lá![n]Hora de ficar curioso...[n]como um macaco![n][f 1 3 65535][w][e]
 
 [msg MND_002_5_0]
 [s][vp 8 0 0 0 65535 0]Já faz meia hora...[n][f 1 3 65535][w][e]
@@ -29,7 +29,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Acho que isso significa que a missão[n]foi um sucesso, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Você sabe, era o Akihabara de sempre,[n]mas desta vez parecia[n]tudo diferente.[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Você sabe, era a Akihabara de sempre,[n]mas desta vez parecia[n]tudo diferente.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]...E não só aqui.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Futaba]]
@@ -58,15 +58,15 @@
 [msg MSG_011_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Oh... Recebi uma mensagem[n]de Kana-chan. Diz que conseguiu[n]um emprego em uma loja de conveniência.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Ela parece muito feliz[n]por poder viver como[n]uma adolescente normal.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 42 4 100][f 4 24 0 4 0 9 3 100][f 4 24 0 4 0 0 0 0][vp 8 0 0 25 65535 0]E com o dinheiro que ganhou conseguiu alguns[n]guias de estudo! Ele vai fazer o vestibular![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 42 4 100][f 4 24 0 4 0 9 3 100][f 4 24 0 4 0 0 0 0][vp 8 0 0 25 65535 0]E com o dinheiro que ganhou conseguiu alguns[n]guias de estudo! Ela vai fazer o vestibular![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][vp 8 0 0 26 65535 0]Kana-chan também está procurando seu lugar no[n]mundo.[n][f 1 3 65535][w][e]
 
 [sel SEL_012_0_0 top]
-[s][f 0 8 2 1 2217]Você não pode se deixar vencer.[clr 27][e]
+[s][f 0 8 2 1 2217]Você não pode deixar ela vencer.[clr 27][e]
 [s]Você também quer um emprego?[e]
 
 [msg MSG_013_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0][f 5 13 10 10 8]Já! Ela é minha nova rival![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0][f 5 13 10 10 8]Ela é minha nova rival![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Futaba]]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0][f 5 13 10 5 8]A-Agora os Phantom Thieves[n]são mais importantes![n][f 1 3 65535][w][e]
@@ -102,7 +102,7 @@
 [msg MSG_022_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Você me devolveu a vida.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]É graças a você que aprendi[n]a me aceitar como sou...[n]e a confiar em minha mãe novamente.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Eu estava praticamente morto,[n]mas você me reviveu.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Eu estava praticamente morta,[n]mas você me reviveu.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Quero usar minha função[n]nos Phantom Thieves[n]para retribuir o favor.[n][f 1 3 65535][w][e]
@@ -123,7 +123,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Estou falando sério, ok?!?[n][f 1 3 65535][w][e]
 
 [sel SEL_025_0_0 top]
-[s]Contando com você.[e]
+[s]Estou contando com você.[e]
 [s]É uma grande responsabilidade.[e]
 
 [msg MSG_026_0_0 [Futaba]]
@@ -143,5 +143,5 @@
 [s][f 4 10 65535 0 0][f 4 23 0 4 41 8 0 10][vp 8 0 0 55 65535 0]Agora sei como[n]é divertido passear![n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]Hehehe. Obrigado, [f 4 2].[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]Hehehe. Obrigada. [f 4 2].[n][f 1 3 65535][w][e]
 

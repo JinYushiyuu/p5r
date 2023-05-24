@@ -1,6 +1,6 @@
 [msg MSG_000_0_0 [Futaba]]
 [s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]E-Ei, e-tenho tantas[n]coisas para te contar![n][f 1 3 65535][w][e]
-[s][bup 0 8 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Então... hum... p-você pode[n]vir ao meu quarto?[n][f 1 3 65535][w][e]
+[s][bup 0 8 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Então... hum... V-Você pode[n]vir ao meu quarto?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Futaba]]
 [s][bup 0 8 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]N-Não consigo evitar...[n]O quarto é pequeno! Então...[n]Então... eu mereço perdão![n][f 1 3 65535][w][e]
@@ -8,11 +8,11 @@
 [sel SEL_002_0_0 top]
 [s]O que você está falando?[e]
 [s]Não se preocupe.[e]
-[s]...A graça?[e]
+[s]...Perdão?[e]
 
 [msg MSG_003_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]"Estar confortável longe de você".[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]E-Neste espaço minúsculo[n]é exatamente o oposto...![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]N-Neste espaço minúsculo[n]é exatamente o oposto...![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Futaba]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 12 300 1][vp 8 0 0 6 65535 0]Mas outro dia eu fui[n]sozinho para Akihabara![n][f 1 3 65535][w][e]
@@ -30,7 +30,7 @@
 [sel SEL_007_0_0 top]
 [s]Missão cumprida.[e]
 [s]Ótimo trabalho, Futaba.[e]
-[s]Você foi bom.[e]
+[s]Você foi bem.[e]
 
 [msg MSG_008_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Sair para passear foi...[n]muito divertido.[n][f 1 3 65535][w][e]
@@ -41,7 +41,7 @@
 [sel SEL_010_0_0 top]
 [s]Eu sei isso.[e]
 [s]Sem problemas.[e]
-[s]É bom estar perto.[e]
+[s]É bom estar perto de você.[e]
 
 [msg MSG_011_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]E-Então... completei[n]a lista de promessas? Eu[n]consegui o troféu de platina?[n][f 1 3 65535][w][e]
@@ -55,14 +55,14 @@
 
 [sel SEL_014_0_0 top]
 [s]E aí?[e]
-[s]Aproxima-te.[e]
+[s]Aproxime-se.[e]
 
 [msg MSG_015_0_0 [Futaba]]
 [s][bup 0 8 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]N-N-Nada, é só...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Você se importa se…um…[n]eu chegar um pouco mais perto?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Futaba]]
-[s][bup 0 8 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]P-Mais perto? Tem certeza...?[n][f 1 3 65535][w][e]
+[s][bup 0 8 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]M-Mais perto? Tem certeza...?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Futaba]]
 [s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Você me deu permissão,[n]você não pode recuar![n][f 1 3 65535][w][e]
@@ -107,11 +107,11 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Kana-chan também está procurando seu lugar no[n]mundo.[n][f 1 3 65535][w][e]
 
 [sel SEL_028_0_0 top]
-[s][f 0 8 2 1 2217]Você não pode se deixar vencer.[clr 27][e]
+[s][f 0 8 2 1 2217]Você não pode ela te vencer.[clr 27][e]
 [s]Você também quer um emprego?[e]
 
 [msg MSG_029_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0][f 5 13 10 10 8]Já! Ela é minha nova rival![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0][f 5 13 10 10 8]Ela é minha nova rival![n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Futaba]]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0][f 5 13 10 5 8]A-Agora os Phantom Thieves[n]são mais importantes![n][f 1 3 65535][w][e]

@@ -104,7 +104,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Camaradas...[n][f 1 3 65535][w][e]
 
 [msg MSG_016_5_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9191 65535 0]...L-Light.[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9191 65535 0]...C-Certo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Companheiros são gentis[n]um com o outro... isso é óbvio![n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Futaba]]
@@ -120,7 +120,7 @@
 
 [msg MSG_019_0_0 [Futaba]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 1 300 1][vp 8 2 0 9191 65535 0]Oh camarada, meu camarada![n][f 1 3 65535][w][e]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 3 100][vp 8 0 0 0 65535 0][f 4 2]junte-se à festa de Futaba![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 3 100][vp 8 0 0 0 65535 0][f 4 2]junte-se à festa da Futaba![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Futaba assiste sorrindo [f 4 2]![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 41 5 100][f 4 24 0 4 0 9 3 100][vp 8 0 0 0 65535 0]Futaba ataca![n]Danos críticos em [f 4 2]![n][f 1 3 65535][w][e]
 
@@ -148,8 +148,8 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E eu... sou sua namorada?[n][f 1 3 65535][w][e]
 
 [sel SEL_023_1_0 top]
-[s]Eu gostaria de.[e]
-[s]Se você concordar.[e]
+[s]Eu gostaria disso.[e]
+[s]Se estiver tudo bem para você.[e]
 
 [msg MSG_023_2_0 [Futaba]]
 [s][bup 0 8 7 65535 0][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
@@ -162,7 +162,7 @@
 [s][bup 0 8 7 65535 0][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
 [sel SEL_036_0_0 top]
-[s]A Terra chama Futaba.[e]
+[s]Hm, Alô.[e]
 [s]Você está vivo?[e]
 
 [msg MSG_024_0_0 [Futaba]]
@@ -183,7 +183,7 @@
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 42 3 100][f 4 24 0 4 0 9 3 100][vp 8 2 0 9191 65535 0]Como o Phantom Thief, claro... mas[n]especialmente como sua namorada![n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Futaba]]
-[s][bup 0 8 6 65535 0][f 4 10 65535 0 0][vp 8 2 0 9090 65535 0]No entanto, duvido que meu[n]coração possa aguentar mais[n]golpes hoje. G-Vou para casa.[n][f 1 3 65535][w][e]
+[s][bup 0 8 6 65535 0][f 4 10 65535 0 0][vp 8 2 0 9090 65535 0]No entanto, duvido que meu[n]coração possa aguentar mais[n]golpes hoje. V-Vou para casa.[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Futaba]]
 [s][vp 8 2 0 9053 65535 0]Até mais![n][f 1 3 65535][w][e]

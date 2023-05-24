@@ -6,13 +6,13 @@
 [s][vp 8 0 0 0 65535 0]Venha para o meu quarto.[n][f 1 3 65535][w][e]
 
 [msg MSG_000_0_0 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 9058 65535 0]Esta é uma lista de promessas[n]que escrevi com a mãe...[n][f 1 3 65535][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 9058 65535 0]Esta é uma lista de promessas[n]que escrevi com a minha mãe...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Veja, tudo aqui está marcado[n]como concluído.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Na verdade... isso não é verdade.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]Há uma promessa sobre a qual[n]menti... Uma promessa[n]que nunca cumpri.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"Dando-se bem com Kana-chan".[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"Me dar bem com a Kana-chan".[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 9176 65535 0]Tudo começou quando[n]eu estava no ensino fundamental.[n][f 1 3 65535][w][e]
@@ -22,12 +22,12 @@
 
 [msg MSG_003_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A vida na escola era horrível.[n]Às vezes durante o recreio[n]eu me trancava no banheiro chorando...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não tinha amigos...[n]Estava sempre sozinho.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não tinha amigos...[n]Estava sempre sozinha.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então uma garotinha chamada Kana foi morar[n]conosco...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ela teve muitas faltas, mas quando[n]ela começou a vir, as crianças a intimidaram[n]como fizeram comigo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas um dia ele me disse[n]"Bom dia". A partir desse momento,[n]ele me cumprimentou todos os dias.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas um dia ela me disse[n]"Bom dia". A partir desse momento,[n]ela me cumprimentou todos os dias.[n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]
 [s]Você gostou?[e]
@@ -45,10 +45,10 @@
 
 [msg MSG_009_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Com toda a honestidade ... nas primeiras vezes[n]eu ignorei completamente. Eu pensei que[n]era uma piada dos valentões.[n][f 1 3 65535][w][e]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, ela sempre voltava[n]olá para mim...[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, ela sempre voltava[n]e dizia olá para mim...[n][f 1 3 65535][w][e]
 [s][f 4 24 0 4 0 42 3 100][f 4 24 0 4 0 0 0 0][f 4 24 0 4 0 9 3 100][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu finalmente decidi responder a ela.[n]Meu coração estava prestes[n]a se partir em mil pedaços...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][vp 8 2 0 9191 65535 0]Aparentemente, ele manteve[n]olá para mim porque pensou[n]que poderíamos fazer amigos.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele foi a primeira pessoa que[n]não se importou com minhas peculiaridades...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][vp 8 2 0 9191 65535 0]Aparentemente, ela manteve[n]olá para mim porque pensou[n]que poderíamos ser amigas.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ela foi a primeira pessoa que[n]não se importou com minhas peculiaridades...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Fiquei tão feliz por aquela amizade[n]que contei para minha mãe. Foi lá[n]que ele adicionou algo à lista.[n][f 1 3 65535][w][e]
@@ -67,7 +67,7 @@
 [msg MSG_013_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O diário de Kana-chan estava cheio[n]de histórias como essa...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 1 10 100][vp 8 0 0 0 65535 0]Quando perguntei a ela sobre isso...[n]ela imediatamente ficou na defensiva.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 0 8 100][vp 8 0 0 0 65535 0]Eu me senti péssimo, mas ela continuou[n]gritando porque eu li...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 0 8 100][vp 8 0 0 0 65535 0]Eu me senti péssima, mas ela continuou[n]gritando porque eu li...[n][f 1 3 65535][w][e]
 
 [sel SEL_014_0_0 top]
 [s][f 0 8 2 1 2217]Você não poderia fazer mais nada.[clr 27][e]
@@ -75,7 +75,7 @@
 [s]Ela é que estava errada.[e]
 
 [msg MSG_015_0_0 [Futaba]]
-[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 9195 65535 0][f 5 13 10 5 8]É... mas eu não[n]consegui falar pra ele...[n][f 1 3 65535][w][e]
+[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 9195 65535 0][f 5 13 10 5 8]É... mas eu não[n]consegui falar pra ela...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 1 8 100][vp 8 0 0 0 65535 0]Eu...preso...[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Futaba]]
@@ -93,7 +93,7 @@
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 1 8 30][vp 8 0 0 0 65535 0]Todo mês, ela escrevia[n]a promessa na lista... e eu[n]mentia para ela todo mês.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_5_0 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 9182 65535 0]Eu gostaria de...Eu gostaria de me desculpar[n]de alguma forma com Kana-chan.[n]Eu gostaria de dizer a ela que sinto muito...[n][f 1 3 65535][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 9182 65535 0]Eu gostaria... Eu gostaria de me desculpar[n]de alguma forma com Kana-chan.[n]Eu gostaria de dizer a ela que sinto muito...[n][f 1 3 65535][w][e]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por não ajudá-la, mesmo que ela estivesse[n]passando por coisas muito piores do que eu...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][vp 8 0 0 0 65535 0]Por ler seu diário...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 35 5 100][vp 8 0 0 0 65535 0]Desculpas... por fugir...[n][f 1 3 65535][w][e]
@@ -103,17 +103,17 @@
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 40 5 100][vp 8 0 0 0 65535 0]Mas talvez, agora que sou um Phantom[n]Thief cumprindo minhas promessas,[n]eu possa enfrentar meus medos![n][f 1 3 65535][w][e]
 
 [msg MSG_019_3_0 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 2 300 65535][vp 8 0 0 0 65535 0]"Dar-se bem com Kana-chan"...[n]Dessa vez eu vou![n][f 1 3 65535][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 2 300 65535][vp 8 0 0 0 65535 0]"Se dar bem com a Kana-chan"...[n]Dessa vez eu vou![n][f 1 3 65535][w][e]
 
 [msg MSG_019_5_0 [Futaba]]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 9178 65535 0]Aaah! Eu não queria dizer a você[n]todas essas coisas...[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Futaba]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 2 300 1][vp 8 2 0 9027 65535 0]N-Nem o Sojiro sabe...[n]É tão embaraçoso![n][f 1 3 65535][w][e]
-[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]D-Vai ter que me ajudar tá?!?[n][f 1 3 65535][w][e]
+[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]V-Você vai ter que me ajudar tá?!?[n][f 1 3 65535][w][e]
 
 [sel SEL_020_5_0 top]
-[s]Entendo.[e]
+[s]Entendido.[e]
 [s]Você está muito insistente hoje.[e]
 
 [msg MSG_020_7_0 [Futaba]]
@@ -126,7 +126,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 12 300 1][vp 8 2 0 9196 65535 0]Ok, vou começar a trabalhar![n]Hora de descobrir[n]informações sobre Kana-chan![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, e... desculpe se eu não fui[n]muito hospitaleiro hoje. Talvez[n]na próxima vez![n][f 1 3 65535][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, e... desculpe se eu não fui[n]muito hospitaleira hoje. Talvez[n]na próxima vez![n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Futaba]]
 [s][vp 8 2 0 9012 65535 0]Agora, faça como as chitas[n]e saia correndo do meu quarto![n][f 1 3 65535][w][e]

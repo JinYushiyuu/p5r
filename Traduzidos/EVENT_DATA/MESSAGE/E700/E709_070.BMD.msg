@@ -6,8 +6,8 @@
 [s][f 4 7 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 4 300 1][f 4 24 0 4 0 38 5 100][f 4 24 0 4 0 1 10 30][vp 8 2 65535 9176 0 0]......[n][f 1 3 65535][w][e]
 
 [msg MSG_000_5_0 [Futaba]]
-[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Seus pais estão endividados devido ao jogo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então... ao invés de mandá-la para a escola, eles[n]a fazem trabalhar, para ajudar a pagar a conta.[n][f 1 3 65535][w][e]
+[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Seus pais estão endividados devido aos jogos de azar.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então... ao invés de mandá-la para a escola, eles[n]a fazem trabalhar, para ajudar a pagar as contas.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Aparentemente, eles ainda a fotografam[n]com roupas estranhas.[n]Mas agora eles também vendem as fotos...[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
@@ -28,11 +28,11 @@
 [msg MSG_005_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Na verdade, Kana-chan fez[n]uma solicitação ao Phan-Site.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Com base no IP e em outros dados,[n]tenho 99,9% de certeza de que é ela.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele apenas pediu que seus[n]pais pudessem ter[n]um despertar do coração...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ela apenas pediu que seus[n]pais pudessem ter[n]um despertar do coração...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Futaba]]
-[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas ele não digitou seus nomes.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez ele esteja hesitante.[n]O...ele ainda não[n]acredita totalmente em Phantom Thieves.[n][f 1 3 65535][w][e]
+[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas ela não digitou seus nomes.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez ela esteja hesitante.[n]Ou...ela ainda não[n]acredita totalmente em Phantom Thieves.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, tenho uma solução.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Futaba]]
@@ -42,7 +42,7 @@
 
 [msg MSG_008_0_0 [Futaba]]
 [s][bup 0 8 2 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 12 300 65535][vp 8 0 0 0 65535 0]Eu decidi, [f 4 2]...[n]quero ir ao Mementos e[n]despertar o coração deles.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][vp 8 0 0 0 65535 0]Não podemos mais deixá-lo[n]tratar Kana-chan assim, certo?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][vp 8 0 0 0 65535 0]Não podemos mais deixá-los[n]tratar Kana-chan assim, certo?[n][f 1 3 65535][w][e]
 [s][f 4 7 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 12 300 1][f 4 23 0 4 14 10 13 10][f 4 24 0 4 0 41 5 100][vp 8 2 0 9189 65535 0]Ajude-me a salvá-la![n][f 1 3 65535][w][e]
 
 [sel SEL_009_0_0 top]
@@ -51,13 +51,13 @@
 [s]Preciso de tempo.[e]
 
 [msg MSG_010_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9031 65535 0][f 5 13 10 15 8][f 4 2]...! Obrigado![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9031 65535 0][f 5 13 10 15 8][f 4 2]...! Obrigada![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9031 65535 0][f 5 13 10 10 8][f 4 2]...! Obrigado![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9031 65535 0][f 5 13 10 10 8][f 4 2]...! Obrigada![n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9199 65535 0][f 5 13 10 5 8]Está bem, está bem. Se queremos ir[n]Mementos temos que nos preparar![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9199 65535 0][f 5 13 10 5 8]Está bem, está bem. Se queremos ir ver[n]Mementos temos que nos preparar![n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, e já que você vai me ajudar,[n]eu vou retribuir o favor.[n]Mmm...[n][f 1 3 65535][w][e]

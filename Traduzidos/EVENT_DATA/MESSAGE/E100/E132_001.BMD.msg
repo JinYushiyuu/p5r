@@ -44,7 +44,7 @@
 [s][vp 8 0 0 14 65535 0]Isso é demais![n][f 1 2 50][e]
 
 [msg MSG_065_0_0 [Ryuji]]
-[s][vp 8 0 0 15 65535 0]Agora que ganhei esse poder, é hora de fazer as[n]contas...[n][f 1 2 100][e]
+[s][vp 8 0 0 15 65535 0]Agora que ganhei esse poder, é hora de acertar as[n]contas...[n][f 1 2 100][e]
 
 [msg MSG_066_0_0 [Ryuji]]
 [s][vp 6 0 0 16 31 0]Ei, estou pronto...[n][f 1 2 75][e]

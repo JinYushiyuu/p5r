@@ -36,7 +36,7 @@
 
 [msg MSG_011_0_0 [Apresentador]]
 [s][vp 8 0 0 21 65535 0]Hmm... Onde está "esse cara"?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 23 65535 0]Eu não consigo ver! Enfim![n]Você, loirinha, suba no palco![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 23 65535 0]Eu não consigo ver! Enfim![n]Você, loirinho, suba no palco![n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 7 301 1][vp 8 0 0 24 65535 0]O quê?!?[n][f 1 3 65535][w][e]

@@ -42,7 +42,7 @@
 [s][bup 0 8 5 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 44 5 100][vp 8 2 0 0 65535 0]...Eu sou tão egoísta! Eu pensei[n]só o que eu queria! Eu sei que você[n]está com raiva, sinto muito...[n][f 1 3 65535][w][e]
 
 [sel SEL_009_0_0 top]
-[s]Eu não estou bravo.[e]
+[s]Eu não estou com raiva.[e]
 [s]Está bem. Eu entendo você.[e]
 
 [msg MSG_010_0_0 [Futaba]]
@@ -54,12 +54,12 @@
 [s]Vá com calma.[e]
 
 [msg MSG_012_0_0 [Futaba]]
-[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 9176 65535 0]...Desculpe... Ainda estou um pouco nervoso.[n][f 1 3 65535][w][e]
+[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 9176 65535 0]...Desculpe... Ainda estou um pouco nervosa.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu não queria falar sobre isso...[n]Tinha algo mais que eu[n]queria dizer a você.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Posso... Hum, tudo bem se eu disser?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Futaba]]
-[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 9171 65535 0]Então... A realidade do Dr[n]Maruki não é totalmente[n]uma ilusão, certo?[n][f 1 3 65535][w][e]
+[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 9171 65535 0]Então... A realidade do [n]Dr. Maruki não é totalmente[n]uma ilusão, certo?[n][f 1 3 65535][w][e]
 
 [sel SEL_014_0_0 top]
 [s]Certo.[e]
@@ -73,7 +73,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Se sim... então eu realmente[n]vi minha mãe.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Futaba]]
-[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Ele foi tão gentil.[n][f 1 3 65535][w][e]
+[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Ela foi tão gentil.[n][f 1 3 65535][w][e]
 
 [sel SEL_018_0_0 top]
 [s]Que bom que você viu de novo.[e]
@@ -93,19 +93,19 @@
 [msg MSG_022_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 38 5 100][vp 8 2 0 0 65535 0]Eu sei... quer dizer, agora eu sei que[n]está tudo na minha cabeça.[n][f 1 3 65535][w][e]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mas eu queria falar com ela novamente. Ir[n]fazer compras e coisas assim. ...eu[n]queria mais tempo com ela, é isso.[n][f 1 3 65535][w][e]
-[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 9197 65535 0]P-Mas, bem... não podemos[n]ficar à mercê da realidade do Dr. Maruki![n]Certo?[n][f 1 3 65535][w][e]
+[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 9197 65535 0]M-Mas, bem... não podemos[n]ficar à mercê da realidade do Dr. Maruki![n]Certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mesmo que eu não possa[n]ver minha mãe novamente...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Se eu continuasse trabalhando duro[n]e continuasse, como eu[n]fez em nossa realidade...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Então... acho que você ficaria[n]orgulhosa de mim.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Então... acho que você ficaria[n]orgulhoso de mim.[n][f 1 3 65535][w][e]
 
 [sel SEL_024_0_0 top]
 [s]Você está indo muito bem, Futaba.[e]
 [s]Eu não poderia ter dito melhor.[e]
 
 [msg MSG_025_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9089 65535 0]S-sim! Hum... Obrigado.[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9089 65535 0]S-sim! Hum... Obrigada.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...E é isso que eu vou fazer.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Se mamãe visse o esforço que eu[n]faço para me integrar ao grupo...[n]acho que ela ficaria feliz por mim.[n][f 1 3 65535][w][e]
 
@@ -146,8 +146,8 @@
 
 [msg MSG_033_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 54714 65535 0]O que dizer? Eu sou filha da minha mãe![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]De agora em diante, vou importuná-lo muito[n]mais, então... peço desculpas[n]antecipadamente. E... obrigado![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]De agora em diante, vou importuná-lo muito[n]mais, então... peço desculpas[n]antecipadamente. E... obrigada![n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Futaba]]
-[s][vp 8 2 0 9054 65535 0]A gente se pega![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 9054 65535 0]A gente se vê![n][f 1 3 65535][w][e]
 

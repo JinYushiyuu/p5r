@@ -59,7 +59,7 @@
 [s][bup 0 101 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Agora que penso nisso,[n]a lista é muito precisa[n]para ser obra sua.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Caroline]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 301 1][vp 8 2 0 11064 65535 0]Cale-se! Escusado será dizer![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 301 1][vp 8 2 0 11064 65535 0]Cale-se! Você não precisa dizer isso![n][f 1 3 65535][w][e]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][f 4 24 0 5 0 5 3 100][vp 8 0 0 0 65535 0]Espera... Então quem escreveu?[n]Não foi o mestre, foi?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Justine]]

@@ -8,13 +8,13 @@
 [s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Heheh, muito bom...[n]Você concluiu a tarefa.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Justine]]
-[s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 2 0 12069 65535 0]O fato de você ter decidido[n]trabalhar diligentemente na[n]reabilitação é louvável.[n][f 1 3 65535][w][e]
+[s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 2 0 12069 65535 0]O fato de você ter decidido[n]trabalhar rigorosamente na[n]reabilitação é louvável.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 11001 65535 0]Umpf. Pelo menos não te falta[n]vontade de trabalhar.[n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]
-[s]É claro.[e]
+[s]Com Certeza.[e]
 [s]......[e]
 
 [msg MSG_006_0_0 [Caroline]]
@@ -56,7 +56,7 @@
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Há algum problema?[n]É muito alto.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Caroline]]
-[s][bup 0 102 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A-Claro que não, mestre... O prisioneiro[n]nos desrespeitou...[n][f 1 3 65535][w][e]
+[s][bup 0 102 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]C-Claro que não, mestre... O prisioneiro[n]nos desrespeitou...[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Justine]]
 [s][bup 0 101 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Perdoe-nos.[n][f 1 3 65535][w][e]
@@ -83,7 +83,7 @@
 
 [msg MSG_021_5_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pegue um[n]Matador com Magaru.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Depois de obtê-lo, venha falar conosco. Nós[n]percebemo-lo.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Depois de obtê-lo, venha falar conosco. Ai[n]seremos capazes de descobrir.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Caroline]]
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 2 0 11001 65535 0]Você entendeu?!? Um Matador[n]com Magaru![n][f 1 3 65535][w][e]

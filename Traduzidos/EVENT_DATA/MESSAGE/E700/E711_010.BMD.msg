@@ -5,7 +5,7 @@
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Umpf... Ok, eu aceito.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Caroline]]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]No entanto, seu Personas [n]é muito fraco... Não que[n]isso me surpreenda, Prisioneiro.[n][f 1 3 65535][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]No entanto, suas Personas [n]é muito fracas... Não que[n]isso me surpreenda, Prisioneiro.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 5 0 0 5 100][vp 8 0 0 4 65535 0]Mas acho que você merece[n]pelo menos um pouco de elogio por[n]completo trabalho duro.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 5 0 36 3 100][f 4 24 0 5 0 9 3 100][vp 8 0 0 5 65535 0]Talvez você consiga concluir a[n]reabilitação...[n][f 1 3 65535][w][e]
 
@@ -19,7 +19,7 @@
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]É você quem está sorrindo,[n]Caroline. O que te fez[n]tão feliz?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Caroline]]
-[s][bup 0 102 4 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Para mim?[n][f 1 3 65535][w][e]
+[s][bup 0 102 4 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Eu?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Caroline]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 0 0 10 65535 0]Ei, você está rindo de nós?!?[n][f 1 3 65535][w][e]
@@ -33,13 +33,13 @@
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Fique no seu posto, Prisioneiro![n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Justine]]
-[s][bup 0 101 2 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Como cuidadores, ficamos[n]satisfeitos em ver[n]seu progresso na reabilitação.[n][f 1 3 65535][w][e]
+[s][bup 0 101 2 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Como cuidadoras, ficamos[n]satisfeitas em ver[n]seu progresso na reabilitação.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]...Não há mais nada.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 37 3 100][f 4 24 0 4 0 1 10 10][vp 8 0 0 14 65535 0]Me incomoda que[n]você goste disso.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Caroline]]
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Você pode esquecer onde está, Prisioneiro.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Você tem coragem![n]Com esse espírito, você[n]certamente fará progressos![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Você tem coragem![n]Com esse espírito, você[n]certamente fará progresso![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Muito bom...[n][f 1 3 65535][w][e]

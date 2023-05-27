@@ -7,11 +7,11 @@
 [msg MSG_001_0_0 [Chihaya]]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Fiuu... Lá vamos nós![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entrarei em contato com você em breve, então[n]venha para verificação, ok?[n][f 1 3 65535][w][e]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 59 5 100]Eu aconselho você a não me deixar em[n]ace. Caso contrário, eu também poderia[n]recorrer à magia negra...[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 59 5 100]Eu aconselho você a não tente escapar em.[n] Caso contrário, quem sabe que[n]tipo de magia negra eu poderia recorrer...[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]
 [s][f 0 8 2 1 2217]Estarei lá.[clr 27][e]
-[s]Que bolas.[e]
+[s]Que inconveniente.[e]
 [s]Você é meio exagerado...[e]
 
 [msg MSG_003_0_0 [Chihaya]]

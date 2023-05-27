@@ -27,6 +27,6 @@
 [s][vp 8 0 0 0 65535 0]Chihaya está começando a[n]perder a fé em mim...[n][f 1 3 65535][w][e]
 
 [msg MND_006_0_0]
-[s][vp 8 0 0 0 65535 0]Ele entendeu que eu minto![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Preciso reconquistar a confiança dele.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ela entendeu que eu estou mentindo![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Preciso reconquistar a confiança dela.[n][f 1 3 65535][w][e]
 

@@ -19,17 +19,17 @@
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Mas agora está tudo bem![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Chihaya]]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Não serei mais confundido... por[n]palavras como monstro ou Sacerdotisa.[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Nunca mais serei confundida... por[n]palavras como monstro ou Sacerdotisa.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Eu sou um vidente simples que[n]aconselha as pessoas[n]desafiadas no espírito.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]A fim de fazê-lo encontrar a[n]força para enfrentar o futuro[n]sem aceitar passivamente o destino.[n][f 1 3 65535][w][e]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 1 5 0][vp 8 0 0 10 65535 0]...Este é o destino[n]que escolhi para mim![n][f 1 3 65535][w][e]
 
 [sel SEL_007_0_0 top]
 [s]Você tem meu apoio.[e]
-[s][f 0 8 2 1 2217]Você é muito determinado.[clr 27][e]
+[s][f 0 8 2 1 2217]Você é muito determinada.[clr 27][e]
 
 [msg MSG_008_0_0 [Chihaya]]
-[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0][f 5 13 11 10 1013]Hehehe... Obrigado.[n][f 1 3 65535][w][e]
+[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0][f 5 13 11 10 1013]Hehehe... Obrigada.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Chihaya]]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0][f 5 13 11 15 1013]...Sim![n][f 1 3 65535][w][e]
@@ -43,14 +43,14 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Eu estava convencido de que você[n]tinha algo a ver com[n]a confissão do presidente.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Chihaya]]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Então descobri que você é o[n]Trapaceiro que está fazendo[n]tanto buzz.[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Então descobri que você é o[n]Ladrão que está causando[n]tantos problemas no mundo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Foi o mesmo cartão da[n]figura que me ajudou[n]a desmascarar o presidente.[n][f 1 3 65535][w][e]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 1 5 0][vp 8 0 0 19 65535 0]Hehehe. Finalmente[n]cheguei lá...![n][f 1 3 65535][w][e]
 
 [sel SEL_013_0_0 top]
 [s]Pode ser...[e]
-[s]E se eu for o Trapaceiro?[e]
-[s]Você está acordado.[e]
+[s]E se eu for o Ladrão?[e]
+[s]Você está acordada.[e]
 
 [msg MSG_014_0_0 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Bem, as cartas podem ser[n]interpretadas de muitas maneiras...[n][f 1 3 65535][w][e]
@@ -82,7 +82,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Também...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Chihaya]]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]É claro! Tamo junto né?[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]É claro! Estamos juntos né?[n][f 1 3 65535][w][e]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][vp 8 0 0 34 65535 0]...Mas tenho certeza que vai ficar tudo bem![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Chihaya]]
@@ -118,7 +118,7 @@
 [s][f 0 8 2 1 2217]É realmente adorável.[clr 27][e]
 
 [msg MSG_026_0_0 [Chihaya]]
-[s][bup 0 113 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0][f 5 13 11 5 1013]...Sério? Que força.[n]Eu estava preocupado como um louco![n][f 1 3 65535][w][e]
+[s][bup 0 113 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0][f 5 13 11 5 1013]...Sério? Estou tão feliz.[n]Eu estava tão preocupada![n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Chihaya]]
 [s][bup 0 113 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 46 65535 0][f 5 13 11 15 1013]Hã...?!?[n][f 1 3 65535][w][e]
@@ -153,5 +153,5 @@
 [s][bup 0 113 6 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 1 5 0][vp 8 0 0 57 65535 0]Então... vamos descobrir juntos...[n][f 1 3 65535][w][e]
 
 [msg MND_040_0_0]
-[s][vp 8 0 0 0 65535 0]Passou muito tempo[n]com Chihaya...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Você passou muito tempo[n]com Chihaya...[n][f 1 3 65535][w][e]
 

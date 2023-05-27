@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Chihaya]]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 10135 65535 0]Eu pensei muito sobre nosso[n]último encontro ... Veja,[n]eu não fui totalmente honesto.[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 10135 65535 0]Eu pensei muito sobre nosso[n]último encontro ... Veja,[n]eu não fui totalmente honesta.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas eu decidi: vou te contar tudo[n]sobre Fukurai-san.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Incluindo porque eu[n]decidi deixar a aldeia...[n][f 1 3 65535][w][e]
 
@@ -18,7 +18,7 @@
 [msg MSG_003_0_0 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 10096 65535 0]Você sabe, ele é um vidente também.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele soube imediatamente que eu era um[n]fugitivo que acabara de chegar a Tóquio.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quando expliquei a ele porque[n]eu havia deixado a aldeia,[n]ele imediatamente me convidou para o APC.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quando expliquei a ele porque[n]eu havia deixado a aldeia,[n]ele imediatamente me convidou para o RPC.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Foi então que ele me batizou[n]"Sacerdotisa do Socorro".[n][f 1 3 65535][w][e]

@@ -14,9 +14,9 @@
 
 [msg MSG_004_0_0 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Foi tudo tão rápido![n]Ele confessou todos os crimes...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Logo depois a polícia veio[n]interrogar-me, mas confirmou[n]minha inocência.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O presidente assumiu total[n]responsabilidade, admitindo que[n]ele enganou membros da APC.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, a propósito, alguns dos APC[n]disseram que desistiram das[n]Pedras Sagradas por causa do meu conselho.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Logo depois a polícia veio[n]interrogar, mas confirmou[n]minha inocência.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O presidente assumiu total[n]responsabilidade, admitindo que[n]ele enganou membros da RPC.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, a propósito, alguns dos RPC[n]disseram que desistiram das[n]Pedras Sagradas por causa do meu conselho.[n][f 1 3 65535][w][e]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 1 5 0][vp 8 0 0 0 65535 0]São os clientes que você conheceu[n]também, [f 4 1]-san![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Chihaya]]
@@ -41,11 +41,11 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas eu não tenho ideia do que isso[n]significa... É um verdadeiro mistério...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Chihaya]]
-[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, esse é o fim do APC.[n]Ninguém será enganado novamente.[n][f 1 3 65535][w][e]
+[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, esse é o fim do RPC.[n]Ninguém será enganado novamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 10018 65535 0]Ah, acabei de perceber uma coisa...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Lembra quando eu te disse que[n]o presidente sabia que[n]estava fugindo?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Lembra quando eu te disse que[n]o presidente sabia que[n]eu estava fugindo?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, eu percorri a cidade[n]com uma mala. Qualquer um poderia[n]entender isso, né...?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Chihaya]]
@@ -64,14 +64,14 @@
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 10116 65535 0]É constrangedor...[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Chihaya]]
-[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E-Hum, [f 4 1]-san... Por acaso você...[n]está interessado em mulheres mais velhas...?[n][f 1 3 65535][w][e]
+[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]H-Hum, [f 4 1]-san... Por acaso você...[n]está interessado em mulheres mais velhas...?[n][f 1 3 65535][w][e]
 
 [sel SEL_015_0_0 top]
 [s]Porque me pergunta isso?[e]
 [s][f 0 8 2 1 2217]Pode apostar.[clr 27][f 2 7 0 1 743 1][e]
 
 [msg MSG_016_0_0 [Chihaya]]
-[s][bup 0 113 7 65535 0][f 4 10 65535 0 0][vp 8 2 0 10087 65535 0]O-Oh, deixe-o sozinho! É uma[n]pergunta repentina, né...?[n][f 1 3 65535][w][e]
+[s][bup 0 113 7 65535 0][f 4 10 65535 0 0][vp 8 2 0 10087 65535 0]O-Oh, não é nada! Essa[n]pergunta foi repentina, né...?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Chihaya]]
 [s][bup 0 113 7 65535 0][f 4 10 65535 0 0][vp 8 2 0 10109 65535 0][f 5 13 11 15 1013]Sério?!?[n][f 1 3 65535][w][e]
@@ -87,8 +87,8 @@
 [s][vp 8 0 0 0 65535 0]Sinto que Chihaya é movida[n]por uma grande determinação...[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Chihaya]]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 10122 65535 0]Mesmo que o presidente tenha[n]entregue-se, algumas[n]questões não resolvidas permanecem.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mais importante, os outros[n]membros do APC ainda não entendem[n]o que está acontecendo.[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 10122 65535 0]Mesmo que o presidente tenha[n]se entregado, algumas[n]questões não resolvidas permanecem.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mais importante, os outros[n]membros do RPC ainda não entendem[n]o que está acontecendo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu…tenho que consertar as coisas.[n]Afinal, em parte é minha culpa.[n]Sim…agora a verdadeira batalha começa.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Chihaya]]

@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Chihaya]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 113 7 300 1][vp 8 0 0 1 65535 0]B-Deus da bondade![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 113 7 300 1][vp 8 0 0 1 65535 0]D-Deus da bondade![n][f 1 3 65535][w][e]
 
 [msg MSG_000_5_0 [Chihaya]]
 [s][bup 0 113 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Seu parceiro parou de assediar você? Eu não posso[n]acreditar![n][f 1 3 65535][w][e]

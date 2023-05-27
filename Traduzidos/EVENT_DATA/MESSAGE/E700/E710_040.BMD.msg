@@ -45,7 +45,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Era uma pequena vila tradicional[n]no coração da serra, habitada[n]quase só por idosos...[n][f 1 3 65535][w][e]
 
 [sel SEL_021_0_0 top]
-[s]Continuar.[e]
+[s]Conte-me mais.[e]
 [s]Parece um lugar tranquilo.[e]
 
 [msg MSG_022_0_0 [Chihaya]]
@@ -55,7 +55,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, e no centro da vila há[n]um pequeno templo, onde eu...[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Chihaya]]
-[s][bup 0 113 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Não importa mais. Eu[n]saí para vir aqui.[n][f 1 3 65535][w][e]
+[s][bup 0 113 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Não importa mais. Eu[n]deixei aquela cidade para vir para esta cidade.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não significa mais nada para mim![n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Chihaya]]

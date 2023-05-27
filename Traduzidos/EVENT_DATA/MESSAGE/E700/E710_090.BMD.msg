@@ -28,7 +28,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]As promessas de um futuro brilhante,[n]o poder dos Stones, a necessidade[n]de doações... Eram mentiras.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não lhe parece estranho que ele[n]pedisse continuamente dinheiro, apesar do[n]período de crise econômica?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Todos vocês devem saber[n]melhor do que ninguém para onde[n]as "doações" foram.[n][f 1 3 65535][w][e]
-[s][bup 0 113 3 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 50][vp 8 2 0 10110 65535 0]...Eu também sabia o quão[n]horrível era o plano APC.[n][f 1 3 65535][w][e]
+[s][bup 0 113 3 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 50][vp 8 2 0 10110 65535 0]...Eu também sabia o quão[n]horrível era o plano RPC.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É por isso que decidi agir.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Mulher pensativa]]
@@ -164,7 +164,7 @@
 
 [msg MSG_036_0_0 [Chihaya]]
 [s][bup 0 113 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O-Oh, entendo...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Me desculpe, eu estava apenas[n]um pouco envergonhado...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Me desculpe, eu estava apenas[n]um pouco envergonhada...[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Chihaya]]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 10129 65535 0]É bom saber que minhas previsões[n]podem ajudar outras pessoas![n][f 1 3 65535][w][e]
@@ -211,7 +211,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum, meus pais[n]enviou você para ficar de olho em mim, não foi?[n][f 1 3 65535][w][e]
 
 [msg MSG_048_0_0 [Chihaya]]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não consigo pensar em[n]outros motivos pelos quais você pode[n]interessar-se pelo que faço.[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não consigo pensar em[n]outros motivos pelos quais você pode[n]se interessar pelo que eu faço.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sinceramente, por um momento...[n]pensei que você gostasse de mim...[n][f 1 3 65535][w][e]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 1 5 0][vp 8 2 0 10094 65535 0]Mas é impossível![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, desculpe. Eu não queria[n]ter sentimentos por você![n][f 1 3 65535][w][e]

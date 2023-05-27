@@ -91,7 +91,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como você acha que ele pode resistir a um destino[n]do qual não há como escapar?[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Chihaya]]
-[s][bup 0 113 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 10021 65535 0]Você sabe que falamos sobre seu sucesso nos[n]negócios, certo? Não tem nada a ver com "o[n]poder".[n][f 1 3 65535][w][e]
+[s][bup 0 113 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 10021 65535 0]Você sabe que falamos sobre seu sucesso nos[n]negócios, certo? Não tem nada a ver com [n]"o poder".[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pense em outra resposta![n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Noivo]]
@@ -102,7 +102,7 @@
 [msg MSG_027_0_0 [Noivo]]
 [s][vp 8 0 0 0 9 0]...Eu decidi. Vou[n]largar meu emprego e abrir minha[n]empresa privada![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Mesmo se eu falhar, pelo menos[n]não vou perder tempo trabalhando[n]para aquele bastardo machista...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 9 0]Obrigado, jovem! I[n]com licença, Mifune-sensei.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 9 0]Obrigado, jovem! [n]com licença, Mifune-sensei.[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Chihaya]]
 [s][bup 0 113 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 10040 65535 0]Hã...?[n][f 1 3 65535][w][e]

@@ -54,7 +54,7 @@
 
 [sel SEL_038_0_0 top]
 [s]É falso, lembra?[e]
-[s]É simples sal-gema.[e]
+[s]É uma simples gema de sal.[e]
 
 [msg MSG_039_0_0 [Morgana]]
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 1038 65535 0]Concordo. Se você pudesse despertar[n]o coração de alguém com uma[n]Pedra Sagrada, tudo seria mais fácil.[n][f 1 3 65535][w][e]
@@ -96,7 +96,7 @@
 
 [sel SEL_022_0_0 top]
 [s]Qual é o nome do seu parceiro?[e]
-[s]O nome completo.[e]
+[s]O nome completo, por favor.[e]
 
 [msg MSG_023_0_0 [Mulher inquieta]]
 [s][vp 8 0 0 0 9 0]Hã...?[n][f 1 3 65535][w][e]

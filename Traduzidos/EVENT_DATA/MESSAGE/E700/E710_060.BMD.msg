@@ -35,11 +35,11 @@
 [s][vp 8 0 0 0 65535 0]Suas previsões são raios[n]de luz que guiam as ovelhas perdidas[n]pela escuridão.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Chihaya]]
-[s][bup 0 113 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 10029 65535 0]No entanto, [f 4 1]-san... Ele[n]é Fukurai-san. Ele é,[n]uhm... o presidente da APC.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, certo, você não sabe o que[n]APC é! Significa...[n][f 1 3 65535][w][e]
+[s][bup 0 113 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 10029 65535 0]No entanto, [f 4 1]-san... Ele[n]é Fukurai-san. Ele é,[n]uhm... o presidente da RPC.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, certo, você não sabe o que[n]RPC é! Significa...[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Presidente Fukurai]]
-[s][vp 8 0 0 0 65535 0]Reunião de Poderes Celestiais.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Reunião de Poderes Celestiais.[n][f 1 3 65535][w][e].
 [s][vp 8 0 0 0 65535 0]Nosso objetivo é acalmar[n]os corações e mentes das almas,[n]com eventos e workshops de cura.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Presidente Fukurai]]
@@ -70,7 +70,7 @@
 [s][vp 8 0 0 0 65535 0]Fui eu. Você está dizendo que[n]não confia na pessoa que[n]fez tanto por você?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Chihaya]]
-[s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]N-eu não estou dizendo isso...[n][f 1 3 65535][w][e]
+[s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E-eu não estou dizendo isso...[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Presidente Fukurai]]
 [s][vp 8 0 0 0 65535 0]Então chega de ceticismo.[n]Concentre-se em seu papel como[n]Sacerdotisa de Alívio.[n][f 1 3 65535][w][e]
@@ -81,7 +81,7 @@
 [s]Deve ser uma piada.[e]
 
 [msg MSG_022_0_0 [Presidente Fukurai]]
-[s][vp 8 0 0 0 65535 0]É um apelido que dei a ela[n]no APC. É lindo, não acham?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]É um apelido que dei a ela[n]no RPC. É lindo, não acham?[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Presidente Fukurai]]
 [s][vp 8 0 0 0 65535 0]Umpf. Não há salvação para[n]aqueles que brincam.[n][f 1 3 65535][w][e]
@@ -96,14 +96,14 @@
 
 [sel SEL_026_0_0 top]
 [s]Que cara sombrio.[e]
-[s]Deixa a em paz.[e]
+[s]Deixa ela em paz.[e]
 
 [msg MSG_027_0_0 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 1]-san...[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Presidente Fukurai]]
 [s][vp 8 0 0 0 65535 0]...Está bem. Se você quer perder[n]tempo com esse[n]cara, não vou impedi-lo.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Mas não se esqueça, Mifune-kun:[n]APC é o único lugar[n]que você pode chamar de lar.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Mas não se esqueça, Mifune-kun:[n]RPC é o único lugar[n]que você pode chamar de lar.[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 10140 65535 0]...Hahaha.[n][f 1 3 65535][w][e]
@@ -113,12 +113,12 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você acha ela estranha, hein?[n]Toda essa conversa de[n]sacerdotisas e monstros...[n][f 1 3 65535][w][e]
 
 [sel SEL_030_0_0 top]
-[s]O que é a Sacerdotisa do Socorro?[e]
+[s]O que é uma Sacerdotisa do Socorro?[e]
 [s]Quem pensa que você é um monstro?[e]
 [s][f 0 8 2 1 2217]Para mim, você é apenas Chihaya.[clr 27][f 2 7 0 1 738 1][e]
 
 [msg MSG_031_0_0 [Chihaya]]
-[s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 10069 65535 0]É apenas o título que eles[n]me deram no APC...[n][f 1 3 65535][w][e]
+[s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 10069 65535 0]É apenas o título que eles[n]me deram no RPC...[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Chihaya]]
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 10069 65535 0]Prefiro...não lembrar...[n][f 1 3 65535][w][e]

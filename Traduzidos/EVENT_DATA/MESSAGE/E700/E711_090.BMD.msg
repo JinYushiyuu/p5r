@@ -5,14 +5,14 @@
 [s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 2 0 11001 65535 0]Uhuhuh, você completou a solicitação[n]como se nada tivesse acontecido...[n]Bem, o acordo foi honrado.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Justine]]
-[s][bup 0 101 5 0 0][f 4 10 65535 0 0][vp 8 2 0 12028 65535 0]Olhando para trás em nossas reuniões[n]aqui, perdemos nossa[n]calma na frente de vocês várias vezes.[n][f 1 3 65535][w][e]
+[s][bup 0 101 5 0 0][f 4 10 65535 0 0][vp 8 2 0 12028 65535 0]Olhando para trás em nossas reuniões[n]aqui, perdemos nossa[n]calma na frente de você várias vezes.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Caroline]]
 [s][bup 0 102 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então, uh... Justine[n]e eu conversamos um pouco.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não sei como dizer isso... mas apesar de[n]estarmos tão próximos,[n]não nos conhecemos.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Percebemos que um compensa[n]perfeitamente os defeitos[n]do outro...[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Percebemos que um de nós complementa[n]perfeitamente os defeitos um[n]do outro...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 11020 65535 0]Acho que nunca tive uma conversa tão profunda[n]antes.[n][f 1 3 65535][w][e]
@@ -96,7 +96,7 @@
 
 [msg MSG_024_7_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso é tudo.[n][f 1 3 65535][w][e]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][f 4 24 0 5 0 0 5 100][f 4 24 0 5 0 12 3 100][vp 8 0 0 0 65535 0]Não pense que seremos[n]gentis porque acreditamos em você![n]Seremos rígidos, como sempre![n][f 1 3 65535][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][f 4 24 0 5 0 0 5 100][f 4 24 0 5 0 12 3 100][vp 8 0 0 0 65535 0]Não pense que seremos[n]gentis porque acreditamos em você![n]Seremos rígidas, como sempre![n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 12053 65535 0]Agora, é hora do último[n]pedido antes de uma recompensa[n]de incrível poder.[n][f 1 3 65535][w][e]
@@ -107,5 +107,5 @@
 
 [msg MSG_027_0_0 [Caroline]]
 [s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É um Seth![n]Quem sabe Rimonta![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Certifique-se de tentar[n]tudo, Prisioneiro![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Certifique-se de dar [n]tudo de si nisso, Prisioneiro![n][f 1 3 65535][w][e]
 

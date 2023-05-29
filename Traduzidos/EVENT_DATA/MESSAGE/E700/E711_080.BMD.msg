@@ -7,7 +7,7 @@
 [msg MSG_002_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 11067 65535 0]Não restam muitos.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Podemos estar perto[n]de descobrir o[n]objetivo secreto por trás de tudo.[n][f 1 3 65535][w][e]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][f 4 24 0 5 0 12 3 100][f 4 23 0 5 3 10 0 10][vp 8 0 0 0 65535 0]Heheheh, graças a você agora[n]estou ansioso para ver[n]o que vai acontecer.[n][f 1 3 65535][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][f 4 24 0 5 0 12 3 100][f 4 23 0 5 3 10 0 10][vp 8 0 0 0 65535 0]Heheheh, graças a você agora[n]estou ansiosa para ver[n]o que vai acontecer.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Justine]]
 [s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 2 0 12048 65535 0]Seu comportamento[n]mudou muito, Caroline.[n][f 1 3 65535][w][e]
@@ -24,7 +24,7 @@
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][f 4 23 0 5 8 10 0 10][vp 8 0 0 0 65535 0][f 4 24 0 5 0 1 6 30][vp 8 0 0 0 65535 0]E você, Justine?!?[n]Você tem falado muito ultimamente![n][f 1 3 65535][w][e]
 
 [msg MSG_005_1_0 [Justine]]
-[s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hehehe, talvez você esteja certo.[n][f 1 3 65535][w][e]
+[s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hehehe, talvez você esteja certa.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_3_0 [Caroline]]
 [s][bup 0 102 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]N-Nunca ouvi você[n]rir Justine...[n][f 1 3 65535][w][e]
@@ -36,13 +36,13 @@
 [msg MSG_006_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 12020 65535 0]Pensamos que completar a[n]lista revelaria[n]a intenção de seu criador...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Observamos o preso[n]tendo em conta as mudanças[n]que o preocupavam...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto... podemos realmente[n]dizer que o prisioneiro[n]é o único que mudou?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto... podemos realmente[n]dizer que o prisioneiro[n]é o único que não mudou?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Justine]]
 [s][bup 0 101 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Completar os pedidos[n]teve um forte impacto em minha[n]consciência e memórias.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Caroline]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 7 301 1][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]Impossível... Você está dizendo[n]que a lista não deveria mudar o[n]prisioneiro... mas nós dois?!?[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 7 301 1][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]Impossível... Você está dizendo[n]que a lista não deveria mudar o[n]prisioneiro... mas nós duas?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Justine]]
 [s][bup 0 101 3 0 0][f 4 10 65535 0 0][vp 8 2 0 12021 65535 0]Não posso provar.[n][f 1 3 65535][w][e]

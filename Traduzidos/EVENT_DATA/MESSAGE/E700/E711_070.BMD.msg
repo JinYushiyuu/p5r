@@ -2,7 +2,7 @@
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 12015 65535 0]Aparentemente, você trouxe um[n]Lachesis com Tetraja.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Parece que você está recebendo[n]a mão. Certo, outra[n]tarefa concluída...[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Parece que você está pegando[n]o jeito. Certo, outra[n]tarefa concluída...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Caroline]]
 [s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 2 0 11001 65535 0]Tudo bem, vamos passar para a próxima[n]solicitação antes que as coisas[n]escalem como da última vez.[n][f 1 3 65535][w][e]
@@ -47,7 +47,7 @@
 
 [msg MSG_009_5_0 [Caroline]]
 [s][bup 0 102 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E-E o que isso significa?!?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Droga! Por que eu[n]sinto tão estranho...?!?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Droga! Por que eu[n]sinto tão estranha...?!?[n][f 1 3 65535][w][e]
 
 [sel SEL_010_0_0 top]
 [s]Você terminou?[e]
@@ -55,11 +55,11 @@
 [s]......[e]
 
 [msg MSG_011_0_0 [Caroline]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 2 0 11032 65535 0]S-Silêncio, Prisioneiro! Não vê[n]que estamos ocupados?!?[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 2 0 11032 65535 0]S-Silêncio, Prisioneiro! Não vê[n]que estamos ocupadas?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Caroline]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 2 0 11032 65535 0]S-Silêncio, Prisioneiro! Não vê[n]que estamos ocupados?!?[n][f 1 3 65535][w][e]
-[s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Já dissemos que para a[n]próxima recompensa você tem que cumprir[n]três pedidos![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 2 0 11032 65535 0]S-Silêncio, Prisioneiro! Não vê[n]que estamos ocupadas?!?[n][f 1 3 65535][w][e]
+[s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Já dissermos que para a[n]próxima recompensa você tem que cumprir[n]três pedidos![n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 11064 65535 0]Embora... o próximo seja[n]o oitavo pedido. Na[n]lista não restam muitos.[n][f 1 3 65535][w][e]

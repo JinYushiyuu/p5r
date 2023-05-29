@@ -37,14 +37,14 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tudo o que temos a fazer é[n]aproveitar ao máximo esse curinga[n]e fazê-lo trabalhar duro.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Justine]]
-[s][bup 0 101 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O curinga...[n][f 1 3 65535][w][e]
+[s][bup 0 101 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O coringa...[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que é agora?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Justine]]
 [s][bup 0 101 3 0 0][f 4 10 65535 0 0][vp 8 2 0 12027 65535 0]Quanto mais penso na lista,[n]mais estranha ela me parece.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quem o escreveu sabia que[n]alguém com o poder[n]do curinga atenderia aos pedidos.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quem o escreveu sabia que[n]alguém com o poder[n]do coringa atenderia aos pedidos.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Caroline]]
 [s][bup 0 102 4 0 0][f 4 10 65535 0 0][vp 8 2 0 11036 65535 0]Não me faça rir.[n]Como isso pode ser possível?[n][f 1 3 65535][w][e]
@@ -56,7 +56,7 @@
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos lá, antes de conhecê-lo nem[n]o mestre sabia que o[n]prisioneiro tinha esse poder![n][f 1 3 65535][w][e]
 
 [sel SEL_017_0_0 top]
-[s]Você está confuso?[e]
+[s]Você está confusa?[e]
 [s]Eu quero a recompensa.[e]
 [s]......[e]
 
@@ -82,8 +82,8 @@
 
 [msg MSG_022_5_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tente obter um Ame-no-Uzume[n]com Psychokinesis Dodge.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Depois de obtê-lo,[n]venha até nós. Nós o perceberemos.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Depois de obtê-lo,[n]venha até nós. e daremos todas informações.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Caroline]]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 2 0 11060 65535 0]Fique ocupado, Prisioneiro![n][f 1 3 65535][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 2 0 11060 65535 0]Ao trabalho, Prisioneiro![n][f 1 3 65535][w][e]
 

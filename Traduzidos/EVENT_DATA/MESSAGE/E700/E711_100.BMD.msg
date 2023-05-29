@@ -17,7 +17,7 @@
 
 [msg MSG_004_0_0 [Justine]]
 [s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Não há nada.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Concluiu[n]todas as tarefas disponíveis.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Você Concluiu[n]todas as tarefas disponíveis.[n][f 1 3 65535][w][e]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 0 5 100][vp 8 0 0 13 65535 0]Como aqueles que controlam[n]o poder, nosso papel é…[n][f 1 3 65535][w][e]
 [s][f 4 24 0 4 0 39 5 100][f 4 24 0 4 0 5 3 100][vp 1 0 0 14 0 0]......[n][f 1 3 65535][w][e]
 
@@ -32,7 +32,7 @@
 [s][bup 0 102 4 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Justine...?[n][f 1 3 65535][w][e]
 
 [sel SEL_006_5_0 top]
-[s]Tudo ok?[e]
+[s]Tudo Bem?[e]
 [s]Eles controlam o poder...?[e]
 
 [msg MSG_007_0_0 [Justine]]
@@ -62,7 +62,7 @@
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Ugh... Você é realmente indisciplinado,[n]espero que perceba[n]isso, Prisioneiro![n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Caroline]]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 64 65535 0]Mas tudo bem. Você terá[n]esse privilégio. Nós[n]muito moles, hein?[n][f 1 3 65535][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 64 65535 0]Mas tudo bem. Você terá[n]esse privilégio. Nós[n]somos muito moles, hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]Talvez...[n][f 1 3 65535][w][e]
@@ -75,7 +75,7 @@
 [msg MSG_023_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Hum, escute, Prisioneiro...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Você é definitivamente um[n]garoto problema.[n][f 1 3 65535][w][e]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][f 4 24 0 5 0 36 5 100][vp 8 0 0 46 65535 0]No entanto, para ser honesto... estamos[n]impressionados por você ter[n]passado em todos os testes.[n][f 1 3 65535][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][f 4 24 0 5 0 36 5 100][vp 8 0 0 46 65535 0]No entanto, para ser honesta... estamos[n]impressionados por você ter[n]passado em todos os testes.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Justine]]
 [s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Você tem[n]potencial incrível.[n][f 1 3 65535][w][e]
@@ -91,7 +91,7 @@
 [s]Ajude-me.[e]
 
 [msg MSG_025_5_0 [Caroline]]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 69 65535 0]Trapaceiro... Eu acredito em você.[n]Prove-nos que você pode[n]chegar à verdade.[n][f 1 3 65535][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 69 65535 0]Ladrão... Eu acredito em você.[n]Prove-nos que você pode[n]chegar à verdade.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_7_0 [Justine]]
 [s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 0 0 70 65535 0]Esperamos por você, [f 4 2]...[n][f 1 3 65535][w][e]

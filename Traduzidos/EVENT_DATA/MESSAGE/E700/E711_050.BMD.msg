@@ -2,7 +2,7 @@
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 12030 65535 0]Aparentemente, você trouxe um[n]Ame-no-Uzume com PK Dodge.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Caroline]]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eheheh... Nada mal.[n]E isso é feito também.[n][f 1 3 65535][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eheheh... Nada mal.[n]E isso é um feito grande também.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Caroline]]
 [s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 2 0 11001 65535 0]Sabe, não achei que você[n]continuaria mesmo que não[n]precisasse.[n][f 1 3 65535][w][e]
@@ -21,9 +21,9 @@
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 7 301 65535][vp 8 2 0 11018 65535 0]Ei, prisioneiro! O que você acha[n]dessas solicitações?[n][f 1 3 65535][w][e]
 
 [sel SEL_007_0_0 top]
-[s]Eles são bem difíceis.[e]
-[s]Eles são perfeitos.[e]
-[s]Eles são aborrecidos.[e]
+[s]Elas são bem difíceis.[e]
+[s]Elas são perfeitos.[e]
+[s]Elas são chatas.[e]
 
 [msg MSG_008_0_0 [Justine]]
 [s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Esta resposta é a prova de que[n]sua dificuldade é apropriada.[n][f 1 3 65535][w][e]
@@ -66,7 +66,7 @@
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pare de me provocar![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uhm... Agora que você mencionou isso, parece-me[n]que eu já vi esta escrita...[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uhm... Agora que você mencionou isso, me parece[n]que eu já vi esta escrita...[n][f 1 3 65535][w][e]
 
 [sel SEL_017_0_0 top]
 [s]Eu consigo ver?[e]
@@ -74,13 +74,13 @@
 [s]......[e]
 
 [msg MSG_018_0_0 [Caroline]]
-[s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 2 0 11036 65535 0]Não se meta na vida de[n]outros, Prisioneiro![n][f 1 3 65535][w][e]
+[s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 2 0 11036 65535 0]Não se meta na vida dos[n]outros, Prisioneiro![n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Caroline]]
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 2 0 11005 65535 0]Pare com isso, prisioneiro![n]Nós não esquecemos![n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 12021 65535 0]Na verdade, a sensação de déjà-vu[n]que sinto ao ler a lista[n]preocupa-me.[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 12021 65535 0]Na verdade, a sensação de déjàvu[n]que sinto ao ler a lista[n]me preocupa.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quem o escreveu... e por quê?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Caroline]]

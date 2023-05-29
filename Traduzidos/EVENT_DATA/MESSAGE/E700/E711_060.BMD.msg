@@ -72,7 +72,7 @@
 
 [msg MSG_017_7_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Nada.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]Mas... acho que quero[n]ver se o preso[n]vai cumprir as exigências.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]Mas... acho que quero[n]ver se o prisioneiro[n]vai cumprir as exigências.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_9_0 [Caroline]]
 [s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você ouviu. Não[n]falhe conosco, Prisioneiro![n][f 1 3 65535][w][e]
@@ -91,7 +91,7 @@
 
 [msg MSG_019_5_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tente obter um Lachesis[n]com Tetraja.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uma vez em sua posse, basta falar[n]conosco. Nós vamos descobrir.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uma vez em sua posse, basta falar[n]conosco. Daremos mais informações.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Caroline]]
 [s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 2 0 11001 65535 0]Ela é uma Lachesis.[n]Com Tetraja![n][f 1 3 65535][w][e]

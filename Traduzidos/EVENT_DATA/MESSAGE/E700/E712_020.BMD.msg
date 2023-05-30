@@ -19,14 +19,14 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como está Tsuda-san?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Homem obscuro]]
-[s][vp 8 0 0 0 65535 0]Como sempre. Por que, o que está acontecendo?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Como sempre. Por que?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh nada. Outro dia[n]eu o vi por aí.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Homem obscuro]]
 [s][vp 8 0 0 0 65535 0]Espera, você não cortou os laços[n]quando deixou a família?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Por que você está perguntando sobre ele?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Por que você está perguntando sobre ela agora?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos, nós éramos jovens...[n][f 1 3 65535][w][e]

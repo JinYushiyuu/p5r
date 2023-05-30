@@ -29,7 +29,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Às vezes, a cotação ultrapassa[n]milhões, dependendo de como me sinto.[n][f 1 3 65535][w][e]
 
 [sel SEL_011_0_0 top]
-[s]Eu não estou seguindo você.[e]
+[s]Não tenho certeza se estou acompanhando.[e]
 [s]Parece suspeito.[e]
 [s]Deixe-me comprá-los.[e]
 
@@ -70,7 +70,7 @@
 [s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Fogo se combate com fogo...[n]Preciso do meu peão.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Não conte a ninguém sobre isso. Claro?[n]Apenas siga minhas instruções.[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Não conte a ninguém sobre isso. Fui Claro?[n]Apenas siga minhas instruções.[n][f 1 3 65535][w][e]
 
 [msg MND_022_5_0]
 [s][vp 8 0 0 0 65535 0]Se eu não aceitar a oferta dele[n]não ficaremos mais fortes...[n][f 1 3 65535][w][e]

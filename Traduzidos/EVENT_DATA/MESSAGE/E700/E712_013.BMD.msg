@@ -17,7 +17,7 @@
 
 [msg MSG_040_0_0 [Morgana]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 7 301 1][vp 8 0 0 6 65535 0]Uma arma de verdade?!? Espere...[n]Acho que é só um modelo.[n][f 1 3 65535][w][e]
-[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]É incrível! Mil vezes[n]melhor que o de Ryuji.[n][f 1 3 65535][w][e]
+[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]É incrível! Mil vezes[n]melhor que a do Ryuji.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Aquele lugar tem algo[n]estranho...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Morgana]]
@@ -27,5 +27,5 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]É realmente perfeito.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Algo tão realista[n]faria maravilhas[n]no Metaverso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]De qualquer forma, ele disse para trazer de volta[n]quando você voltar, certo?[n][f 1 3 65535][w][e]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Quando fizer isso, tente[n]concordar com ele![n][f 1 3 65535][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Quando você voltar lá,[n]tente fazer um acordo com ele![n][f 1 3 65535][w][e]
 

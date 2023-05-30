@@ -6,7 +6,7 @@
 [s]É muito pouco.[e]
 
 [msg MSG_032_0_0 [Gerente mal-humorado]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 4 0]Umpf. Vá para 30.000...[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 4 0]Umpf. Então é 30.000...[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Gerente mal-humorado]]
 [s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 4 0]Umpf. Nós dois sabemos que você não[n]encontrará outros compradores.[n]Aceite os 30.000.[n][f 1 3 65535][w][e]
@@ -16,7 +16,7 @@
 
 [msg MSG_000_0_0 [Gerente mal-humorado]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 4 0]Aqui, pegue. Obrigado[n]pela medalha.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 4 0]Mas, hum... é melhor você[n]não abri-lo. Leve-o com você na[n]próxima vez que vier aqui.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 4 0]Mas, hum... é melhor você[n]não abri-lo. é melhor trazer com você na[n]próxima vez que vier aqui.[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
 [s]Está bem.[e]
@@ -60,13 +60,13 @@
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Um cidadão modelo deve[n]cooperar com a polícia, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Detetive estrito]]
-[s][vp 8 0 0 0 5 0]Ei, esse lead era crível?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Ei, tem certeza que essa pista é legítima[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Detetive vulgar]]
 [s][vp 8 0 0 0 6 0]Assim parecia...[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13083 65535 0]Você poderia se apressar? Eu[n]dirigi um negócio.[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13083 65535 0]Você poderia se apressar? Eu[n]administro um negócio.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Detetive vulgar]]
 [s][vp 8 0 0 0 6 0]Bastardo...[n][f 1 3 65535][w][e]
@@ -124,5 +124,5 @@
 [s][vp 8 0 0 0 6 0]Grrr...[n][f 1 3 65535][w][e]
 
 [msg MSG_029_5_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13054 65535 0]Feliz regresso a casa, rapaz.[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13054 65535 0]Faça uma viagem segura para casa, rapaz.[n][f 1 3 65535][w][e]
 

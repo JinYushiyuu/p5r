@@ -5,7 +5,7 @@
 
 [msg MSG_001_0_0 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quando eu estava no clã Hashiba, mais do que dez[n]anos atrás, uma garota meio perturbada veio ao[n]escritório[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele teve um bebê com ele e[n]ele repetia que[n]queria vendê-lo.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ela teve um bebê com ele e[n]ele repetia que[n]queria vendê-lo.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Iwai]]
 [s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 2 0 13104 65535 0]Ela provavelmente era uma drogada[n]à procura de dinheiro para uma dose.[n][f 1 3 65535][w][e]
@@ -69,7 +69,7 @@
 
 [msg MSG_017_0_0 [Iwai]]
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13082 65535 0][f 5 13 13 10 1004]Hehehe. Você está certo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aposto que Kaoru está cansada[n]de ter um pai covarde como eu.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aposto que Kaoru está cansado[n]de ter um pai covarde como eu.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Iwai]]
 [s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 2 0 13028 65535 0]Não é assim que o mundo funciona.[n][f 1 3 65535][w][e]

@@ -39,7 +39,7 @@
 [s][bup 0 104 3 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][f 4 24 0 4 0 1 5 100][vp 8 0 0 0 65535 0]Eu sei que as crianças de hoje estão[n]ocupadas, então[n]eu entenderia uma rejeição...[n][f 1 3 65535][w][e]
 
 [sel SEL_010_0_0 top]
-[s]Estou de volta, cara.[e]
+[s]Estou de volta.[e]
 [s][f 0 8 2 1 2217]Eu poderia pensar sobre isso.[clr 27][e]
 [s][f 0 8 2 1 2217]Se você me der um aumento.[clr 27][e]
 

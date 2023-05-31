@@ -22,7 +22,7 @@
 
 [msg MSG_005_0_0 [Iwai]]
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13082 65535 0][f 5 13 13 10 1004]Certo?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aquele idiota está tentando[n]forçar-se em mim...[n]mas as coisas estão prestes a mudar![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aquele idiota está tentando[n]se forçar em mim...[n]mas as coisas estão prestes a mudar![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Iwai]]
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13082 65535 0][f 5 13 13 5 1004]Você está certo. Ele os ama.[n][f 1 3 65535][w][e]

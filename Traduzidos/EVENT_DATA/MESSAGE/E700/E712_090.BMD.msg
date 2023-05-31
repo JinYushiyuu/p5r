@@ -1,10 +1,10 @@
 [msg MSG_000_0_0 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13018 65535 0]Cuidado com esta arma. Se[n]alguém quiser comprá-lo,[n]diga-me imediatamente.[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13018 65535 0]Cuidado com esta arma. Se[n]alguém quiser comprá-la,[n]diga-me imediatamente.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É uma antiguidade.[n]Eu só vou vendê-lo para um verdadeiro[n]expert em armas.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, falando em Tsuda...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ouvi dizer que ele foi[n]ostrado do clã. Seu[n]chefe descobriu a verdade.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ouvi dizer que ele foi[n]exonerado do clã. Seu[n]chefe descobriu a verdade.[n][f 1 3 65535][w][e]
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][vp 8 0 0 0 65535 0]Serve pra ele né?[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]
@@ -20,7 +20,7 @@
 
 [msg MSG_005_0_0 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13020 65535 0][f 5 13 13 10 1004]...Eu penso que sim. É um alívio,[n]desde que seja verdade.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Claro, aquele bastardo me deixou[n]louco, mas eu nunca[n]desejo sua morte.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Claro, aquele bastardo me deixou[n]louco, mas eu nunca[n]desejaria sua morte.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Iwai]]
 [s][bup 0 104 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Esta história é absurda, no entanto.[n]Tsuda foi um exemplo a seguir,[n]no respeito ao código.[n][f 1 3 65535][w][e]
@@ -42,7 +42,7 @@
 [s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aquele desgraçado do Masa[n]sequestrou Kaoru![n][f 1 3 65535][w][e]
 
 [sel SEL_011_0_0 top]
-[s]Quem é Masha?[e]
+[s]Quem é Masa?[e]
 [s]Kaoru vai ficar bem?[e]
 
 [msg MSG_012_0_0 [Iwai]]
@@ -56,8 +56,8 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele sempre soube do fracasso de[n]Tsuda... Aposto que ele[n]estava esperando por tal oportunidade![n][f 1 3 65535][w][e]
 
 [sel SEL_016_0_0 top]
-[s]Pressa.[e]
-[s]Fechamos a loja.[e]
+[s]Devemos nos apressar.[e]
+[s]Rápido, feche a loja.[e]
 
 [msg MSG_017_0_0 [Iwai]]
 [s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok. Estou em Seaside Park.[n][f 1 3 65535][w][e]

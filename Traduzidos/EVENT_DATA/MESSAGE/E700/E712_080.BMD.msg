@@ -42,7 +42,7 @@
 
 [msg MSG_012_0_0 [Iwai]]
 [s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 2 0 13019 65535 0]Tsuda-san, vou ser honesto com[n]você... Essa coisa toda foi[n]uma chatice.[n][f 1 3 65535][w][e]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 104 7 301 65535][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas acabou. VOCÊ terminou.[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 104 7 301 65535][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas acabou. Você terminou.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Tsuda]]
 [s][vp 8 0 0 0 65535 0]Talvez você não entenda, Mune...[n][f 1 3 65535][w][e]
@@ -61,7 +61,7 @@
 [s][vp 8 0 0 0 65535 0]E se você não fizer isso rapidamente, seu[n]filho e esta jovem "testemunha"[n]pagam por você![n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Iwai]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 104 3 301 1][vp 8 2 0 13029 65535 0]Cristo, Tsuda! Você não é um[n]punk de rua! Você é[n]melhor que isso...![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 104 3 301 1][vp 8 2 0 13029 65535 0]Deus, Tsuda! Você não é um[n]punk de rua! Você é[n]melhor que isso...![n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Tsuda]]
 [s][vp 8 0 0 0 65535 0]Os tempos mudam, Mune. Você[n]se apega a merda como honra[n]e dever, mas quer saber?[n][f 1 3 65535][w][e]
@@ -71,7 +71,7 @@
 [s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 2 0 13047 65535 0]Bastardo...![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Tsuda]]
-[s][vp 8 0 0 0 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 104 12 300 65535]Agora me escute, seu pedaço de merda feio.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 104 12 300 65535]Agora me escute, seu pedaço de merda ridículo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você preparará essas armas[n]e fará isso rapidamente.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Não me faça repetir.[n][f 1 3 65535][w][e]
 

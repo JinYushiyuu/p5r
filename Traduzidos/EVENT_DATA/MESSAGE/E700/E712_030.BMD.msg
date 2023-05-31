@@ -61,7 +61,7 @@
 [s][f 0 8 2 1 2217]Fizemos um acordo, certo?[clr 27][e]
 
 [msg MSG_012_0_0 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13043 65535 0]Umpf... Não aguento essas[n]respostas sem bolas.[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13043 65535 0]Umpf... Não aguento essas[n]respostas sem sentido.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Iwai]]
 [s][bup 0 104 3 0 0][f 4 10 65535 0 0][vp 8 2 0 13073 65535 0]...Você tem gostos esquisitos, hein?[n][f 1 3 65535][w][e]

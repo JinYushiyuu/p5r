@@ -52,7 +52,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 104 3 300 1][vp 8 2 0 13081 65535 0]...Droga![n][f 1 3 65535][w][e]
 
 [sel SEL_015_3_0 top]
-[s]Que raio foi aquilo?[e]
+[s]Que negócio foi aquele?[e]
 [s]Esse é o Tsuda?[e]
 [s]O que ele quis dizer com "vender"?[e]
 

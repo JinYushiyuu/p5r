@@ -20,7 +20,7 @@
 
 [msg MSG_007_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14004 65535 0]Olá, Takemi[n]clínica de medicina interna. Como[n]posso ajudá-lo?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Uma emergência, você diz? Mas[n]nós não somos um hospital.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Uma emergência, você diz? Mas[n]nós não somos do hospital.[n][f 1 3 65535][w][e]
 [s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 6 0 38 5 100]...Além disso, a médica chefe aqui[n]é Tae Takemi.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Takemi]]
@@ -34,14 +34,14 @@
 [s]Foi uma emergência?[e]
 
 [msg MSG_008_7_0 [Takemi]]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14001 65535 0]Oh, ele acabou de receber o número[n]errado.[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14001 65535 0]Oh, ele basicamente ligou para o [n]número errado.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_8_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14001 65535 0]Ah, não se preocupe.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Um motorista de ambulância estava procurando um[n]lugar para uma transferência. Os hospitais[n]propriamente ditos estão cheios.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas ligar para um clínico geral por engano... Ele[n]deve ser um paramédico novato.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas ligar para uma clínica geral por engano... Ele[n]deve ser um paramédico novato.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Pelo menos ele sabia[n]meu nome.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Takemi]]
@@ -54,7 +54,7 @@
 
 [msg MSG_011_0_0 [Takemi]]
 [s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 2 0 14027 65535 0]Aconteceu no meu antigo emprego...[n]eu trabalhava em um[n]hospital-escola na cidade.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nunca fui condenado,[n]mas na comunidade médica sou[n]tratado como um pária.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nunca fui condenado,[n]mas na comunidade médica sou[n]tratado como uma pária.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Takemi]]
 [s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Isso te assusta?[n][f 1 3 65535][w][e]
@@ -80,14 +80,14 @@
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, tudo bem. Dessa[n]forma, pude me concentrar[n]em minha pesquisa.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Takemi]]
-[s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 2 0 14048 65535 0]No entanto, estou ansioso para[n]trabalhar com você.[n][f 1 3 65535][w][e]
+[s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 2 0 14048 65535 0]No entanto, estou ansiosa para[n]trabalhar com você.[n][f 1 3 65535][w][e]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 6 0 36 5 100]Vou providenciar novos[n]"remédios" para você,[n]minha doce cobaia.[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
 [s][vp 8 0 0 0 65535 0]Sinto que meu vínculo[n]com Takemi está ficando mais forte...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Takemi]]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14004 65535 0]Clínica de Medicina Interna do Dr. Takemi[n]...[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14004 65535 0]Clínica de Medicina Interna da Dra. Takemi[n]...[n][f 1 3 65535][w][e]
 [s][bup 0 108 4 0 0][f 4 10 65535 0 0][vp 8 2 0 14089 65535 0][f 4 24 0 6 0 39 5 40]Huh? Um pedido de[n]frango teriyaki?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Takemi]]

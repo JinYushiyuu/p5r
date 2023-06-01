@@ -9,7 +9,7 @@
 
 [msg MSG_001_0_0 [Takemi]]
 [s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 2 0 14110 65535 0]...Ah, sua reação[n]é absolutamente perfeita.[n][f 1 3 65535][w][e]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sentindo-se confuso, certo?[n]Sim, adicionei alguns[n]ingredientes... especiais.[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se sente confuso, certo?[n]Sim, adicionei alguns[n]ingredientes... especiais.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, vamos medir a temperatura[n]e a pressão. Também farei uma coleta de sangue.[n][f 1 3 65535][w][e]
@@ -80,7 +80,7 @@
 [s][bup 0 108 2 0 0][f 4 10 65535 0 0][vp 8 2 0 14027 65535 0]Por acaso você tem um mandado,[n]agente? Caso contrário,[n]ficarei feliz em registrar uma reclamação.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Takemi]]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E mais?[n]Como você pode ver, estou bastante[n]ocupado.[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E mais?[n]Como você pode ver, estou bastante[n]ocupada.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Agente arrogante]]
 [s][vp 8 0 0 0 65535 0]...Ok.[n][f 1 3 65535][w][e]
@@ -99,7 +99,7 @@
 
 [msg MSG_026_0_0 [Takemi]]
 [s][bup 0 108 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ugh...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você não descobriu sozinho[n]após a palestra? Isso[n]irrita-me toda vez.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você não descobriu sozinho[n]após a esta conversa? Isso[n]irrita-me toda vez.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Takemi]]
 [s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 2 0 14001 65535 0]Sim...[n][f 1 3 65535][w][e]

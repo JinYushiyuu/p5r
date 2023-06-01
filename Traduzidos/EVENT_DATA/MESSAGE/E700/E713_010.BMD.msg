@@ -13,7 +13,7 @@
 
 [msg MSG_002_0_0 [Voz masculina]]
 [s][vp 8 0 0 0 65535 0]Não se faça de bobo comigo.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Diz-se que é uma droga[n]tão poderosa que concede[n]energia ilimitada.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Diz que é uma droga[n]tão poderosa que concede[n]energia ilimitada.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Voz de doutor]]
 [s][vp 8 0 0 0 65535 0]Sério? Eu não sabia nada sobre isso.[n][f 1 3 65535][w][e]
@@ -29,7 +29,7 @@
 [s][vp 8 0 0 0 65535 0]Talvez a polícia não intervenha,[n]mas tenho certeza que a imprensa[n]o fará em breve.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Quer arruinar minha reputação de novo, hein? Você[n]é uma vergonha para toda a comunidade médica.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Voz de doutor]]
+[msg MSG_007_0_0 [Voz de doutora]]
 [s][vp 8 2 0 14041 65535 0]...Tsk![n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Voz masculina]]

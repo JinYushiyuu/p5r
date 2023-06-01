@@ -10,13 +10,13 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 5 4 0]Que tipo de pílula você prefere,[n]doce ou amarga?[n][f 1 3 65535][w][e]
 
 [sel SEL_003_0_0 top]
-[s]Algum.[e]
+[s]Qualquer um.[e]
 [s]Você não tem mais nada?[e]
 [s]Eu gostaria de analgésicos.[e]
 
 [msg MSG_004_0_0 [Médico fleumático]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 6 4 0]Quer um fedorento, então?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 7 4 0]Piada. Não existem pílulas semelhantes. Ok, chega[n]de bater mato...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 7 4 0]Piada. Não existem pílulas semelhantes. Ok, chega[n]de bater papo...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Médico fleumático]]
 [s][bup 0 108 2 0 0][f 4 10 65535 0 0][vp 8 0 0 8 4 0]Oh...? Você é o paciente,[n]eh. Você acha que pode me dizer[n]como fazer meu trabalho?[n][f 1 3 65535][w][e]
@@ -26,7 +26,7 @@
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 10 4 0]Sério? E aposto que você[n]gostaria de ter[n]o suficiente para um ano.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Médico fleumático]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 108 3 301 1][vp 8 0 0 11 4 0]Você está ótima, não é verdade? Não sou tão burro[n]quanto parece.[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 108 3 301 1][vp 8 0 0 11 4 0]Você está ótimo, não é verdade? Não sou tão burro[n]quanto parece.[n][f 1 3 65535][w][e]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 12 4 0]...Suponho que você esteja aqui[n]sobre os rumores sobre mim, certo?[n][f 1 3 65535][w][e]
 
 [sel SEL_008_0_0 top]
@@ -60,15 +60,15 @@
 [s]Isso me ajudaria muito.[e]
 [s]Você é um péssimo médico.[e]
 
-[msg MSG_015_0_0 [Médico fleumático]]
+[msg MSG_015_0_0 [Médica fleumático]]
 [s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 0 0 23 4 0]Perfeito. Você é alguém que[n]entende imediatamente...[n]Poupe-me do aborrecimento.[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Médico fleumático]]
+[msg MSG_016_0_0 [Médica fleumático]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 24 4 0]Quero garantir consultas médicas[n]aos meus[n]pacientes[n]simples e rápidas.[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Médico fleumático]]
+[msg MSG_017_0_0 [Médica fleumático]]
 [s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 0 0 25 4 0]Você é um garoto estranho, sabia disso?[n]Quem sabe o que você precisa para[n]remédios...[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Médico fleumático]]
+[msg MSG_018_0_0 [Médica fleumático]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 26 4 0]Bem, se você não se meter[n]em problemas,[n]não tem problema...[n][f 1 3 65535][w][e]
 

@@ -1,5 +1,5 @@
 [msg TUTORIAL_MSG01 [L'inizio di ogni cosa]]
-[s][f 4 2]é considerado culpado de um crime que[n]não cometeu e acaba com ficha criminal.[n]Ele é enviado a Tóquio para cumprir sua liberdade condicional[n]sob custódia de [clr 2]Sojiro Sakura[clr 27] , um conhecido de seus pais.[n][w][e]
+[s][f 4 2] é considerado culpado de um crime que[n]não cometeu e acaba com ficha criminal.[n]Ele é enviado a Tóquio para cumprir sua liberdade condicional[n]sob custódia de [clr 2]Sojiro Sakura[clr 27] , um conhecido de seus pais.[n][w][e]
 
 [msg TUTORIAL_MSG02 [L'inizio di ogni cosa]]
 [s][f 4 2]ele sonha com um homem chamado Igor e[n]aprende que deve se rebelar contra um destino de destruição.[n]Ele também conhece duas misteriosas irmãs gêmeas, que[n]ordenam que ele busque sua [clr 2]reabilitação[clr 27] .[n][w][e]

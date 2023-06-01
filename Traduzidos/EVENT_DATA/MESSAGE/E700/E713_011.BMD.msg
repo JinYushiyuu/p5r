@@ -40,7 +40,7 @@
 
 [sel SEL_010_5_0 top]
 [s]Eu preciso daquele remédio.[e]
-[s]Vou espalhar a palavra.[e]
+[s]Vou contar a todos.[e]
 
 [msg MSG_011_0_0 [Takemi]]
 [s][bup 0 108 2 0 0][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
@@ -53,7 +53,7 @@
 
 [sel SEL_013_0_0 top]
 [s]Eu não vou embora.[e]
-[s]Posso tê-lo funcionando?[e]
+[s]Posso tê-lo trabalhando?[e]
 
 [msg MSG_014_0_0 [Takemi]]
 [s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Suspiro.[n][f 1 3 65535][w][e]

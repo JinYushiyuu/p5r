@@ -117,7 +117,7 @@
 [s][vp 8 0 0 0 65535 0]Pelo que eu sei, sua mãe[n]tentou te vender para comprar[n]algumas drogas![n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Kaoru]]
-[s][vp 8 0 0 0 65535 0]Vende-me...?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Me vender...?[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Massa]]
 [s][vp 8 0 0 0 65535 0]Já! Mas como Mune-san não[n]queria saber, ela deixou você lá[n]e fugiu![n][f 1 3 65535][w][e]
@@ -143,7 +143,7 @@
 
 [msg MSG_037_5_0 [Kaoru]]
 [s][vp 8 0 0 0 65535 0]O que importa se minha mãe[n]me abandonou? Ou se o pai fosse[n]yakuza?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Não somos parentes de sangue,[n]mas somos unidos pela lagartixa![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Não somos parentes de sangue,[n]mas somos unidos e é isso que importa![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você sabe oquê? Não importa[n]o que você diz sobre nós! Eu sou eu[n]e Munehisa Iwai...ele é meu pai![n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Iwai]]
@@ -206,7 +206,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você está crescendo mais rápido[n]do que eu imaginava...[n][f 1 3 65535][w][e]
 
 [sel SEL_058_0_0 top]
-[s][f 0 8 2 1 2217]Kaoru é muito determinada.[clr 27][e]
+[s][f 0 8 2 1 2217]Kaoru é muito determinado.[clr 27][e]
 [s]Ele é maduro como você.[e]
 [s]Ele é um bom menino, hein?[e]
 
@@ -220,7 +220,7 @@
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13089 65535 0][f 5 13 13 10 1004]Eh, você pode dizer isso alto. Embora[n]ele não seja mais um menino, agora...[n][f 1 3 65535][w][e]
 
 [msg MSG_062_0_0 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sabe, tenho estado tão ocupada tentando não[n]deixá-lo acabar como eu que não vi quem ele[n]estava se tornando.[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sabe, tenho estado tão ocupado tentando não[n]deixá-lo acabar como eu que não vi quem ele[n]estava se tornando.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eh... é um absurdo eu[n]só estar percebendo isso agora.[n][f 1 3 65535][w][e]
 
 [msg MSG_062_5_0 [Kaoru]]
@@ -237,7 +237,7 @@
 [s][vp 8 0 0 0 65535 0]Vamos voltar para aquele restaurante?[n][f 1 3 65535][w][e]
 
 [msg MSG_065_0_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13082 65535 0]*suspiro* Seu apetite conhece[n]limites... Um dia você se tornará[n]mais alto que eu.[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13082 65535 0]*suspiro* Seu apetite não conhece[n]limites... Um dia você se tornará[n]mais alto que eu.[n][f 1 3 65535][w][e]
 
 [msg MSG_066_0_0 [Iwai]]
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13051 65535 0]Vamos, vamos indo.[n][f 1 3 65535][w][e]

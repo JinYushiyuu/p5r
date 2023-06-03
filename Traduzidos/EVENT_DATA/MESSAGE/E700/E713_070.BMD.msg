@@ -4,7 +4,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É um presente de um dos meus pacientes idosos.[n]Ele me trouxe muitos...[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Cavalheiro de meia idade]]
-[s][vp 8 0 0 0 65535 0]...Oi Dr. Takemi...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]...Oi Dra. Takemi...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Takemi]]
 [s][bup 0 108 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 6 0 0 5 100]...Diretor Oyamada.[n][f 1 3 65535][w][e]
@@ -17,7 +17,7 @@
 
 [msg MSG_005_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14001 65535 0]Ele é um assistente de meio período.[n]Ele executa várias tarefas para mim.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então, você tem que me dizer algo?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então, você tem algo para me dizer?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Oyamada]]
 [s][vp 8 0 0 0 65535 0]Ouvi dizer que ele roubou um[n]paciente de mim. Uma garotinha sofrendo de[n]bronquite. Ela veio com o pai.[n][f 1 3 65535][w][e]
@@ -55,11 +55,11 @@
 [s][vp 8 0 0 0 65535 0]Umpf, você parece muito apegado a ela.[n]Talvez eu deva lhe contar a verdadeira[n]identidade dessa mulher.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Oyamada]]
-[s][vp 8 0 0 0 65535 0]Ele é um monstro que[n]torturou um paciente com[n]sua droga não regulamentada![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ela é um monstro que[n]torturou um paciente com[n]sua droga não regulamentada![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Terrível, certo? Ela era uma[n]garota corajosa, sempre sorrindo...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Takemi]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 108 15 301 1][vp 8 2 0 14038 65535 0]..."foi"?[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 108 15 301 1][vp 8 2 0 14038 65535 0]..."era"?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Oyamada]]
 [s][vp 8 0 0 0 65535 0]Ela morreu.[n][f 1 3 65535][w][e]
@@ -71,11 +71,11 @@
 [s][vp 8 0 0 0 65535 0]Talvez o mesmo destino aconteça com você, quem[n]sabe? Hahaha... Por outro lado, ela é o Flagelo.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Takemi]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 108 3 301 1][vp 8 2 0 14041 65535 0]Não minta...! Você deve[n]ter algum tempo restante![n][f 1 3 65535][w][e]
-[s][bup 0 108 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele estava se recuperando...[n]Sua condição não deveria[n]ter piorado tão rápido![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 108 3 301 1][vp 8 2 0 14041 65535 0]Não minta...! Ela deve[n]ter algum tempo restante![n][f 1 3 65535][w][e]
+[s][bup 0 108 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ela estava se recuperando...[n]Sua condição não deveria[n]ter piorado tão rápido![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Oyamada]]
-[s][vp 8 0 0 0 65535 0]No entanto, aconteceu.[n]Ele deve ter julgado mal.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]No entanto, aconteceu.[n]Ela deve ter julgado mal.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Mas voltando ao motivo da minha[n]visita... você não rouba meus outros pacientes.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]...Eu não aconselho você a[n]me deixar com raiva.[n][f 1 3 65535][w][e]
 
@@ -128,13 +128,13 @@
 
 [msg MSG_043_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14127 65535 0]Eu me sinto melhor...[n][f 1 3 65535][w][e]
-[s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Obrigado pela ajuda,[n]minha doce cobaia...[n][f 1 3 65535][w][e]
+[s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Obrigada pela ajuda,[n]minha doce cobaia...[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
 [s][vp 8 0 0 0 65535 0]Sinto que meu vínculo[n]com Takemi está ficando mais forte...[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Takemi]]
-[s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 2 0 14088 65535 0]Eca. Eu não queria mostrar a você[n]esse lado meu...[n][f 1 3 65535][w][e]
+[s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 2 0 14088 65535 0]Eca. Eu não queria mostrar a você[n]esse meu lado...[n][f 1 3 65535][w][e]
 
 [sel SEL_032_0_0 top]
 [s]Era inevitável.[e]

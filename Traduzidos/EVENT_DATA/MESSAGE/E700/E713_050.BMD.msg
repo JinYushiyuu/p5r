@@ -3,7 +3,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se você se sentir bem,[n]você pode ir para casa.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Takemi]]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14004 65535 0]Clínica de Medicina Interna[n]do Dr. Takemi.[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14004 65535 0]Clínica de Medicina Interna[n]do Dra. Takemi.[n][f 1 3 65535][w][e]
 [s][bup 0 108 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 39 5 40]...O que? De novo?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, eu... agora eu não aguento mais[n]segurar, então...[n][f 1 3 65535][w][e]
 
@@ -20,14 +20,14 @@
 [s]Foi realmente sua culpa?[e]
 
 [msg MSG_005_0_0 [Takemi]]
-[s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sou apenas um charlatão...[n][f 1 3 65535][w][e]
+[s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sou apenas um impostora...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Takemi]]
 [s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uh...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14021 65535 0]O erro médico foi cuidadosamente documentado. Na[n]minha área todo mundo sabe disso.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Liderei o desenvolvimento de um novo[n]droga para uma doença incurável[n]chamada "doença de Crawford-Ende".[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Liderei o desenvolvimento de uma nova[n]droga para uma doença incurável[n]chamada "doença de Crawford-Ende".[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Embora eu não tenha administrado[n]pessoalmente, a droga foi[n]a causa do erro.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Takemi]]
@@ -56,7 +56,7 @@
 [msg MSG_012_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14064 65535 0]Bem, não importa...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O desenvolvimento da droga foi suspenso, então eu[n]não tinha mais motivo para ficar no hospital.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora pelo menos posso trabalhar[n]como clínico geral, com[n]minhas regras... e minhas cobaias.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora pelo menos posso trabalhar[n]como clínica geral, com[n]minhas regras... e minhas cobaias.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É o novo remédio que experimentei em você. Esta[n]versão está em fase final de testes.[n][f 1 3 65535][w][e]
@@ -77,7 +77,7 @@
 [msg MSG_017_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bom, na vida[n]não existem certezas, né?[n][f 1 3 65535][w][e]
 [s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 2 0 14048 65535 0]... hehe. Não faça essa cara.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Calmo. Esta substância[n]não faz nada para[n]células não infectadas.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Calma. Esta substância[n]não faz nada para[n]células não infectadas.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14080 65535 0]Certifique-se de não me deixar agora.[n][f 1 3 65535][w][e]
@@ -95,5 +95,5 @@
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 59 5 100]...Oh, desculpe, eu te disse tudo[n]que eu queria falar.[n]Você pode ir para casa.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Takemi]]
-[s][vp 8 2 0 14097 65535 0]Ok, obrigado pelo esforço.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 14097 65535 0]Ok, obrigada pelo esforço.[n][f 1 3 65535][w][e]
 

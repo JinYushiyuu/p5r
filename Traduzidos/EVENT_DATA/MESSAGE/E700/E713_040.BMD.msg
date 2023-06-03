@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Takemi]]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14108 65535 0]...Então por que vir aqui?[n]Você não é paciente de[n]outro hospital?[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14108 65535 0]...Então por que você veio aqui?[n]Você não é paciente de[n]outro hospital?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Pai da menininha]]
 [s][vp 8 0 0 0 65535 0]Eu ouvi rumores sobre este lugar.[n]Eu gostaria que você a examinasse.[n][f 1 3 65535][w][e]
@@ -8,7 +8,7 @@
 
 [msg MSG_002_0_0 [Takemi]]
 [s][bup 0 108 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não é bom para uma garotinha[n]perder peso.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ela deveria ir para um hospital[n]maior. Aqui eu não posso[n]visitá-lo em detalhes.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ela deveria ir para um hospital[n]maior. Aqui eu não posso[n]obter mais detalhes.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Pai da menininha]]
 [s][vp 8 0 0 0 65535 0]Já estivemos em um grande[n]hospital antes! Uma[n]instalação universitária em East Shinjuku![n][f 1 3 65535][w][e]
@@ -97,7 +97,7 @@
 [s][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Não, tudo bem...[n]Eu disse que pagaria.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Não aceita... cartões de[n]crédito... aceita?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Vou pegar[n]algum dinheiro![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Vou pegar[n]o dinheiro agora mesmo![n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Takemi]]
 [s][bup 0 108 4 0 0][f 4 10 65535 0 0][vp 8 2 0 14040 65535 0]Huh? Espera, você[n]quer mesmo pagar?[n][f 1 3 65535][w][e]
@@ -121,7 +121,7 @@
 [sel SEL_033_0_0 top]
 [s][f 0 8 2 1 2217]Você parece alegre.[clr 27][e]
 [s]Você é muito gentil.[e]
-[s]Por que grátis?[e]
+[s]Por que de graça?[e]
 
 [msg MSG_034_0_0 [Takemi]]
 [s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 2 0 14048 65535 0][f 5 13 14 10 1008]Que satisfação... Atender[n]seu paciente sem permissão...[n][f 1 3 65535][w][e]
@@ -165,5 +165,5 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Você pode nem conseguir[n]ir para casa...[n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Takemi]]
-[s][vp 8 2 0 14097 65535 0]Ok, bom trabalho hoje também.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 14097 65535 0]Ok, foi um ótimo trabalho hoje.[n][f 1 3 65535][w][e]
 

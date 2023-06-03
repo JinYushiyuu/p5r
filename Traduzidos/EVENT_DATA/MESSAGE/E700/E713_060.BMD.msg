@@ -1,29 +1,29 @@
 [msg MSG_000_0_0 [Velha Senhora]]
-[s][vp 8 0 0 0 5 0]...Obrigado querida. É[n]meu lenço favorito.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]...Obrigada querida. É[n]meu lenço favorito.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14020 65535 0]...estava bem[n]na minha frente, então...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Velha Senhora]]
-[s][vp 8 0 0 0 5 0]Céu! Você é tímido, hein?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Céu! Você é tímida, hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Takemi]]
-[s][bup 0 108 7 0 0][f 4 10 65535 0 0][vp 8 2 0 14042 65535 0]E-Eu não sou tímido![n][f 1 3 65535][w][e]
+[s][bup 0 108 7 0 0][f 4 10 65535 0 0][vp 8 2 0 14042 65535 0]E-Eu não sou tímida![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Velha Senhora]]
 [s][vp 8 0 0 0 5 0]Minha vizinha fala muito bem de você.[n]Ela diz que seus remédios são[n]melhores do que os hospitais.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 5 0]É reconfortante saber que tenho um médico tão bom[n]aqui na cidade. Até breve.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]É reconfortante saber que tenho uma médica tão boa[n]aqui na cidade. Até breve.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Takemi]]
 [s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 2 0 14028 65535 0]*suspiro* ...Que diabos?[n][f 1 3 65535][w][e]
 
 [sel SEL_006_0_0 top]
-[s]Bem, você é famoso.[e]
-[s]Você parece irritado.[e]
+[s]Bem, você é famosa.[e]
+[s]Você parece irritada.[e]
 [s]Aconteceu alguma coisa?[e]
 
 [msg MSG_007_0_0 [Takemi]]
-[s][bup 0 108 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Obrigado.[n][f 1 3 65535][w][e]
+[s][bup 0 108 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Obrigada.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Takemi]]
 [s][bup 0 108 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Sim, graças a você.[n][f 1 3 65535][w][e]
@@ -59,10 +59,10 @@
 [sel SEL_016_0_0 top]
 [s]Você é masoquista.[e]
 [s][f 0 8 2 1 2217]Combina com você.[clr 27][e]
-[s]Você não é sincero.[e]
+[s]Você não é sincera.[e]
 
 [msg MSG_017_0_0 [Takemi]]
-[s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 2 0 14104 65535 0]Não combina com você?[n][f 1 3 65535][w][e]
+[s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 2 0 14104 65535 0]Não combina comigo?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Takemi]]
 [s][bup 0 108 4 0 0][f 4 10 65535 0 0][vp 8 2 0 14040 65535 0]O que é?[n][f 1 3 65535][w][e]
@@ -75,7 +75,7 @@
 [s][bup 0 108 2 0 0][f 4 10 65535 0 0][vp 8 2 0 14042 65535 0][f 5 13 14 5 1008]...Ah, pare com isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Takemi]]
-[s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 2 0 14087 65535 0]Mas um "médico de bairro", né...?[n][f 1 3 65535][w][e]
+[s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 2 0 14087 65535 0]Mas uma "médica de bairro", né...?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu costumava apreciar[n]esse tipo de profissão e estilo de vida[n]mas agora...[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
@@ -89,13 +89,13 @@
 
 [msg MSG_023_0_0 [Takemi]]
 [s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 2 0 14001 65535 0]Parece que a garotinha[n]terá uma recuperação completa.[n][f 1 3 65535][w][e]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 59 5 100][f 4 24 0 4 0 0 5 100]O tratamento funciona bem para ela. Por enquanto,[n]posso respirar aliviado.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Talvez ele possa[n]voltar para a escola em breve.[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 59 5 100][f 4 24 0 4 0 0 5 100]O tratamento funciona bem para ela. Por enquanto,[n]posso respirar aliviada.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Talvez ela possa[n]voltar para a escola em breve.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Takemi]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 108 15 301 1][vp 8 2 0 14104 65535 0]...Que sorriso é esse?[n]Você está ansioso pelo próximo[n]ensaio clínico?[n][f 1 3 65535][w][e]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tudo bem, vamos nos divertir.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Takemi]]
-[s][vp 8 2 0 14097 65535 0]Ok, obrigado pelo esforço.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 14097 65535 0]Ok, obrigada pelo esforço.[n][f 1 3 65535][w][e]
 

@@ -9,7 +9,7 @@
 
 [msg MSG_003_0_0 [Pai da menininha]]
 [s][vp 8 0 0 0 65535 0]Eu queria falar com ela o mais rápido possível![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]O hospital que eles mencionaram[n]no noticiário é o mesmo onde ele[n]trabalhava, certo?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]O hospital que eles mencionaram[n]no noticiário é o mesmo onde ela[n]trabalhava, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Takemi]]
 [s][bup 0 108 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O hospital... no noticiário?[n][f 1 3 65535][w][e]
@@ -22,7 +22,7 @@
 [s][bup 0 108 2 0 0][f 4 10 65535 0 0][vp 8 2 0 14043 65535 0]...O-O que está acontecendo?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Velha Senhora]]
-[s][vp 8 0 0 0 8 0]Oh meu Deus. Ele ainda não sabe[n]de nada, então?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 8 0]Oh meu Deus. Ela ainda não sabe[n]de nada, então?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Pai da menininha]]
 [s][vp 8 0 0 0 65535 0]O diretor Oyamada[n]se entregou. Ele manipulou tudo[n]nos bastidores.[n][f 1 3 65535][w][e]
@@ -80,14 +80,14 @@
 [s][vp 8 0 0 0 8 0]O que está acontecendo, querida?[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Menina doente]]
-[s][vp 8 0 0 0 65535 0]Tudo bem, doutor?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Tudo bem, doutora?[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Takemi]]
 [s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 2 0 14045 65535 0]Então ela... ela está viva...[n][f 1 3 65535][w][e]
 
 [sel SEL_025_0_0 top]
 [s]Você deve se apressar.[e]
-[s][f 0 8 2 1 2217]Vamos trabalhar, doutor.[clr 27][e]
+[s][f 0 8 2 1 2217]Vamos trabalhar, doutora.[clr 27][e]
 [s]Ainda não acabou.[e]
 
 [msg MSG_026_0_0 [Takemi]]

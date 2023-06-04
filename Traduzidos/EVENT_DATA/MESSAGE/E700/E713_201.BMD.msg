@@ -15,7 +15,7 @@
 [s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 2 0 14045 65535 0]Sério? Bem, uma[n]universidade de elite certamente terá uma[n]rica rede de ex-alunos.[n][f 1 3 65535][w][e]
 
 [msg MND_004_0_0]
-[s][vp 8 0 0 0 65535 0]Não sei como, mas consegui[n]manter a confiança dele![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Não sei como, mas consegui[n]manter a confiança dela![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Takemi]]
 [s][bup 0 108 2 0 0][f 4 10 65535 0 0][vp 8 2 0 14101 65535 0]É por ISSO que você quer frequentar uma[n]universidade de elite? É tão absurdo que nem[n]chega a ser engraçado.[n][f 1 3 65535][w][e]
@@ -26,6 +26,6 @@
 [s][vp 8 0 0 0 65535 0]Takemi está começando a[n]perder a fé em mim...[n][f 1 3 65535][w][e]
 
 [msg MND_006_0_0]
-[s][vp 8 0 0 0 65535 0]Ele entendeu que eu minto![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Preciso reconquistar a confiança dele.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ela entendeu que eu minto![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Preciso reconquistar a confiança dela.[n][f 1 3 65535][w][e]
 

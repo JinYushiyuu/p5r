@@ -21,11 +21,11 @@
 [s][vp 8 0 0 0 65535 0]Não sei como, mas consegui[n]manter a confiança dele![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Takemi]]
-[s][bup 0 108 2 0 0][f 4 10 65535 0 0][vp 8 2 0 14101 65535 0]...Significa "razoavelmente".[n]Você não sabia?[n][f 1 3 65535][w][e]
+[s][bup 0 108 2 0 0][f 4 10 65535 0 0][vp 8 2 0 14101 65535 0]...Significa "Lealdade".[n]Você não sabia?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acho que você não estudou nada. Uma universidade[n]elite? Não me faça rir.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 14103 65535 0]Saia. Não quero falar com[n]uma pessoa que não pode[n]ser honesta comigo.[n][f 1 3 65535][w][e]
 
 [msg MND_006_0_0]
-[s][vp 8 0 0 0 65535 0]Ele entendeu que eu minto![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Preciso reconquistar a confiança dele.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ela entendeu que eu minto![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Preciso reconquistar a confiança dela.[n][f 1 3 65535][w][e]
 

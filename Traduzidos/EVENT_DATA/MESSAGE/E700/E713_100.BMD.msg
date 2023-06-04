@@ -1,12 +1,12 @@
 [msg MSG_000_0_0 [Menina doente]]
-[s][vp 8 0 0 1 65535 0]Doutor, importa quem[n]se apaixona por alguém primeiro?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 1 65535 0]Doutora, importa quem[n]se apaixona por alguém primeiro?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]...Do que você está falando?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Menina doente]]
-[s][vp 8 0 0 3 65535 0]Eu gosto de criança, mas[n]meu amigo disse...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 4 65535 0]...que eu tenho que deixar pra lá,[n]porque ela se[n]apaixonou primeiro...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 3 65535 0]Eu gosto de um garoto, mas[n]meu amigo disse...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 4 65535 0]...que eu tenho que deixar pra lá,[n]porque ele se[n]apaixonou primeiro...[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Takemi]]
 [s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Oh, isso não é verdade.[n][f 1 3 65535][w][e]
@@ -16,7 +16,7 @@
 [s][vp 8 0 0 7 65535 0]Então, por que ele disse isso?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Takemi]]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Provavelmente porque ela está com ciúmes de você.[n]Mas cuidado, pode causar pandemônio.[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Provavelmente porque ele está com ciúmes de você.[n]Mas cuidado, pode causar pandemônio.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Menina doente]]
 [s][vp 8 0 0 9 65535 0]Pandemônio...?[n][f 1 3 65535][w][e]

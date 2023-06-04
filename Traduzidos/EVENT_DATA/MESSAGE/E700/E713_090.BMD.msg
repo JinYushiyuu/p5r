@@ -13,7 +13,7 @@
 [s][vp 8 0 0 0 5 0]E então, ele é o menino[n]de seus estudos?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Takemi]]
-[s][bup 0 108 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 14110 65535 0]Sim, ela é minha doce cobaia.[n][f 1 3 65535][w][e]
+[s][bup 0 108 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 14110 65535 0]Sim, ele é minha doce cobaia.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Cavalheiro de meia idade]]
 [s][vp 8 0 0 0 5 0]Ele tomou um caminho arriscado,[n]mas tenho certeza que ele seguiu[n]todos os protocolos de segurança.[n][f 1 3 65535][w][e]
@@ -34,10 +34,10 @@
 
 [msg MSG_009_0_0 [Takemi]]
 [s][bup 0 108 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 14045 65535 0][f 5 13 14 5 1008]Ok.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não vou.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu acho que não vou.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Takemi]]
-[s][bup 0 108 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 14045 65535 0][f 5 13 14 5 1008]Ceeerto.[n][f 1 3 65535][w][e]
+[s][bup 0 108 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 14045 65535 0][f 5 13 14 5 1008]C-Certo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O vestibular, né?[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Takemi]]
@@ -45,13 +45,13 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Embora eu tenha me divertido.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Takemi]]
-[s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Com base em minha visita a suas[n]instalações e conversas[n]que tive com seus pesquisadores...[n][f 1 3 65535][w][e]
+[s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Com base na minha pesquisa nas[n]instalações médicas e discussões[n]que tive com seus pesquisadores...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acredito que eles[n]concluirão o medicamento[n]no prazo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O resultado final não depende[n]de mim, no entanto... a menos que[n]você aceite a oferta.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O resultado final não depende[n]de mim, no entanto... a menos que[n]você não aceite a oferta.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Takemi]]
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 2 0 14132 65535 0]Eles querem... me contratar.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Foi-me oferecido o cargo de[n]chefe de pesquisa e desenvolvimento[n]no hospital.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Foi me oferecido o cargo de[n]chefe de pesquisa e desenvolvimento[n]no hospital.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Então terei que[n]fechar minha empresa.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Takemi]]
@@ -62,7 +62,7 @@
 [s]E seus pacientes?[e]
 
 [msg MSG_016_0_0 [Takemi]]
-[s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sério? Para seus[n]vestibular?[n][f 1 3 65535][w][e]
+[s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sério? Para seu[n]vestibular?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Takemi]]
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou dizer a eles para transferir[n]para o hospital e garantir que[n]eles tenham prioridade.[n][f 1 3 65535][w][e]
@@ -73,7 +73,7 @@
 
 [msg MSG_019_0_0 [Takemi]]
 [s][bup 0 108 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 14048 65535 0]Eles realmente me propuseram[n]o trabalho, mas não pretendo[n]fechar o estúdio.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Gosto de ser clínico geral.[n]Mas continuarei a trabalhar com eles[n]no desenvolvimento de novos medicamentos.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Gosto de ser clínica geral.[n]Mas continuarei a trabalhar com eles[n]no desenvolvimento de novos medicamentos.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quando o remédio estiver completo,[n]poderei ver Miwa-chan... e ter[n]minha recompensa: o sorriso dela.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Takemi]]
@@ -87,7 +87,7 @@
 [s][bup 0 108 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 14120 65535 0]Quando você pensou que eu estava fechando esta[n]empresa, você ficou realmente preocupado.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Takemi]]
-[s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você sempre me disse para[n]para o vestibular,[n]mas fala sério?[n][f 1 3 65535][w][e]
+[s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você sempre me disse que[n] era para o vestibular,[n]mas fala sério?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acho que é hora de ser honesto. Está tudo bem.[n]Você pode me dizer.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 14018 65535 0]Por que você continua vindo até mim?[n][f 1 3 65535][w][e]
 
@@ -111,10 +111,10 @@
 
 [sel SEL_024_5_0 top]
 [s][f 0 8 2 1 2217]Eu te amo.[clr 27][e]
-[s]Na sua opinião?[e]
+[s]Qual sua opinião?[e]
 
 [msg MSG_025_0_0 [Takemi]]
-[s][bup 0 108 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 14068 65535 0][f 5 13 14 5 1008]Sim, sim, claro.[n]Muito obrigado.[n][f 1 3 65535][w][e]
+[s][bup 0 108 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 14068 65535 0][f 5 13 14 5 1008]Sim, sim, claro.[n]Muito obrigada.[n][f 1 3 65535][w][e]
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 59 5 100]Agora vá para casa,[n]antes que escureça.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ou... Posso fazer-lhe uma "visita[n]especial", se preferir.[n][f 1 3 65535][w][e]
 
@@ -134,7 +134,7 @@
 
 [msg MSG_029_0_0 [Takemi]]
 [s][bup 0 108 503 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quero dizer ir para a escola,[n]você sabe? Você é a doce cobaia para[n]meus ensaios clínicos...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E você é um cara que mentiu[n]no vestibular para[n]receber remédios irregulares...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E você é um garoto que mentiu sobre seus exames de[n] admição para receber remédios[n]não licenciados...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Apaixone-se por uma[n]pessoa assim...[n][f 1 3 65535][w][e]
 [s][bup 0 108 506 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 1 5 100]Isso seria... inédito.[n][f 1 3 65535][w][e]
 
@@ -151,12 +151,12 @@
 
 [msg MSG_032_0_0 [Takemi]]
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 2 0 14028 65535 0]Estou brincando. Droga...[n]vocês jovens.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas você arrancou um sorriso de mim. Então[n]obrigado.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas você arrancou um sorriso de mim. Então[n]obrigada.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Está ficando tarde...[n]Você deveria ir.[n]Venha me ver a qualquer hora.[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Takemi]]
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 2 0 14021 65535 0]Você está estranhamente hesitante.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas você arrancou um sorriso de mim. Então[n]obrigado.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas você arrancou um sorriso de mim. Então[n]obrigada.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Está ficando tarde...[n]Você deveria ir.[n]Venha me ver a qualquer hora.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Takemi]]

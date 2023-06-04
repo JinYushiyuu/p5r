@@ -6,7 +6,7 @@
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Agora que penso nisso,[n]o novo medicamento estará pronto[n]em breve.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Graças ao seu físico normal[n]e sua boa saúde,[n]obtive dados muito úteis.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Você foi uma[n]cobaia... er,[n]um colaborador perfeito.[n][f 1 3 65535][w][e]
-[s][bup 0 108 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Obrigado novamente.[n][f 1 3 65535][w][e]
+[s][bup 0 108 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Obrigada novamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Takemi]]
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Enfim, como[n]eu fui?[n]Fui útil?[n][f 1 3 65535][w][e]

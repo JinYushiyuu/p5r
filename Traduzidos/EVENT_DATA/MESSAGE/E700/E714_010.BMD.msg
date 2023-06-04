@@ -18,7 +18,7 @@
 [s]O que eu tenho que fazer?[e]
 
 [msg MSG_011_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]...Você é um menino, não é?[n]Você sabe o que quero dizer![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]...Você é um garoto, não é?[n]Você sabe o que quero dizer![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Vamos tentar.[n]Vamos lá![n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
@@ -42,7 +42,7 @@
 
 [msg MSG_019_0_0 [Mishima]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 111 7 301 1][vp 8 0 0 19 65535 0]E-Eu não sou apaixonado![n]É para fins de pesquisa![n][f 1 3 65535][w][e]
-[s][bup 0 111 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]O que você quer dizer com eles vão[n]"o que quer que" signifique? E a empregada é[n]exatamente como no anúncio?[n][f 1 3 65535][w][e]
+[s][bup 0 111 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]O que você quer dizer com elas farão[n]"o que quer que "coisa"? E a empregada é[n]exatamente como no anúncio?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Precisamos descobrir se a[n]empresa está ou não fingindo[n]oferecer serviços domésticos![n][f 1 3 65535][w][e]
 
 [sel SEL_020_0_0 top]
@@ -71,7 +71,7 @@
 [msg MSG_027_0_0 [Mishima]]
 [s][bup 0 111 1 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 111 10 301 65535][vp 8 0 0 30 65535 0]Qual é o codinome[n]desta operação...?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Hmm...[n][f 1 3 65535][w][e]
-[s][f 4 7 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 111 10 301 1][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 10 300 65535][vp 8 0 0 32 65535 0]Enquanto assistimos,[n]talvez algo como...[n]"Operação MAIDica Guard"![n][f 1 3 65535][w][e]
+[s][f 4 7 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 111 10 301 1][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 10 300 65535][vp 8 0 0 32 65535 0]Enquanto assistimos,[n]talvez algo como...[n]"Operação Maidwatch"![n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Ryuji]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 10 300 1][vp 8 0 0 33 65535 0]Ei! Eu gosto![n][f 1 3 65535][w][e]

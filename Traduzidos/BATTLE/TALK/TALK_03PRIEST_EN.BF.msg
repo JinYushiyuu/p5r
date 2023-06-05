@@ -77,7 +77,7 @@
 [s]Isso é o suficiente.[n]Vamos lá, vamos indo.[n][w][e]
 
 [msg TalkMsg_EN_FALTER_00]
-[s]Ah, padre! E pensar que esse[n]filho estaria preparado![n][w][e]
+[s]Ah, pai! E pensar que esse[n]filho estaria preparado![n][w][e]
 
 [msg TalkMsg_EN_FALTER_01]
 [s]Quem se atreve a arruinar meu sermão!?![n][w][e]
@@ -95,7 +95,7 @@
 [s]Quanta imaturidade! Concordarei[n]com tal atrevimento apenas em[n]troca de sua energia.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_COUP00]
-[s]Oh, padre... Fui duro?[n]Acalme-se e ignore minhas palavras![n][w][e]
+[s]Oh, pai... Fui duro?[n]Acalme-se e ignore minhas palavras![n][w][e]
 
 [msg TalkMsg_EN_FAKE_COUP01]
 [s]Oh, Pai... Acreditar que eu poderia[n]esquecer a misericórdia.[n]Talvez eu vá embora...[n][w][e]

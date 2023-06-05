@@ -3994,7 +3994,7 @@
 [msg MSG_1009_0_0 [Hifumi]]
 [s][bup 0 106 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Obrigado por me acompanhar[n]hoje. Eu precisava me distrair.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tentando resolver tudo sozinho[n]eu entrei em um círculo vicioso,[n]mas você me ajudou.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Você poderia ser um padre muito bom. Já que[n]você é tão bom em ouvir, quero dizer.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Você poderia ser um pai muito bom. Já que[n]você é tão bom em ouvir, quero dizer.[n][f 1 3 65535][w][e]
 
 [sel SEL_1010_0_0 top]
 [s]Você acredita?[e]

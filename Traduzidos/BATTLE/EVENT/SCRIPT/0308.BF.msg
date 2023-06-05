@@ -317,19 +317,19 @@
 [s][vp 8 0 2 1079 1 221]Haru, eu ordeno que você avance![n]Mostre a eles o poder[n]de nossa companhia![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_ADD_HARU_GO_02 [Haru Okumura cognitivo]]
-[s][vp 8 0 2 1080 1 609]Sim, padre![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1080 1 609]Sim, pai![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_ADD_HARU_GO_02B [Sombra de Okumura]]
 [s][vp 8 0 2 1081 1 221]Se eu cair, Okumura Foods[n]vai quebrar! Você entende[n]a situação, Haru?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_ADD_HARU_GO_02B2 [Haru Okumura cognitivo]]
-[s][vp 8 0 2 1082 1 609]Claro, padre![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1082 1 609]Claro, pai![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_ADD_HARU_GO_02C [Sombra de Okumura]]
 [s][vp 8 0 2 1083 1 221]Bem, então me proteja...[n]mesmo ao custo de sua vida![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_ADD_HARU_GO_02C2 [Haru Okumura cognitivo]]
-[s][vp 8 0 2 1084 1 609]Como quiser, padre![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1084 1 609]Como quiser, pai![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_ADD_HARU_GO_TEST]
 [s](ハルがロボットに変身するシーン)[n][f 1 3 65535][w][e]

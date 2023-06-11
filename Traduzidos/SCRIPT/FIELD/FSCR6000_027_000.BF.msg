@@ -39,7 +39,7 @@
 
 [msg quest27_03 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7158 65535 0]Joker, você tem um plano, certo?[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Estou contando com você![n]Desta vez vamos transar com ele![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Estou contando com você![n]Nós vamos pega-los desta vez![n][w][e]
 
 [msg quest27_08 [Sombra de Nejima]]
 [s][vp 8 2 1 46815 65535 0]Eu-não poderia...[n]Como meus[n]cheats podem ter sido frustrados?[n][w][e]

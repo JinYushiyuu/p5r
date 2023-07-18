@@ -67,7 +67,7 @@
 
 [msg SAFE_MES_yusuke2 [Yusuke]]
 [s][bup 0 5 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 4087 65535 0]Diz-se que os artistas mostram[n]sua verdadeira alma através de[n]suas obras.[n][w][e]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0]Dito isso, o mural que vimos me faz pensar em… Ah, deixa pra lá. Devemos continuar.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0]Dito isso, o mural que vimos me faz pensar em… Ah, deixa pra lá.[n]Devemos continuar.[n][w][e]
 
 [msg SAFE_MES_yusuke3 [Yusuke]]
 [s][bup 0 5 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 4195 65535 0]Quais serão esses glifos estranhos que[n]continuamos encontrando? Estranhas[n]combinações de números e letras...[n][w][e]

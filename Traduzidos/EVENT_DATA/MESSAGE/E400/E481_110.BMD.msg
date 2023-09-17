@@ -53,7 +53,7 @@
 [msg MSG_016_0_0 [Maruki]]
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Oh não. Na verdade eu...[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Estudante lisonjeiro]]
+[msg MSG_017_0_0 [Estudante bajuladora]]
 [s][vp 8 0 0 20 10 0]Aqui está, Doutor Maruki![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Estudante magro]]
@@ -63,7 +63,7 @@
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Preparar o quê?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Maruki]]
-[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Faço parte da equipa[n]culinária. Espero que você tenha um[n]bom almoço.[n][f 1 3 65535][w][e]
+[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Faço parte da equipe[n]culinária. Espero que você tenha um[n]bom almoço.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Maruki]]
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Até logo.[n][f 1 3 65535][w][e]

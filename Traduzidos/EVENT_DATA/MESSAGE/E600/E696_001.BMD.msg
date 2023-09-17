@@ -2194,7 +2194,7 @@
 
 [msg MSG_516_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acabei de ouvir, mas[n]aparentemente haverá[n]um festival de verão![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ouvi dizer que vai ter coisas como[n]kebabs, bifes... coisas fortes![n]Cara, eu sou GOSTOSO![w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ouvi dizer que vai ter coisas como[n]kebabs, bifes... coisas picantes![n]Cara, eu estou tão ANIMADO![w][e] 
 
 [sel SEL_517_0_0 top]
 [s]E o estúdio?[e]

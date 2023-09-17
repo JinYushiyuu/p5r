@@ -355,7 +355,7 @@
 [s][vp 8 2 1 0 5 0]Ah... eu gostaria de ver meu filho.[n]Me avise assim que te contarem[n]algo sobre o estado dele.[n][w][e]
 
 [msg MSG_GYAKUSAGI_004_0_0 [Menino tranquilo]]
-[s][vp 8 2 1 0 7 0]Correu como esperávamos, parceiro! Peguei no[n]anzol aquele velho peido![n][w][e]
+[s][vp 8 2 1 0 7 0]Correu como esperávamos, parceiro! Peguei no[n]anzol aquele velho![n][w][e]
 [s][vp 8 2 1 0 7 0]Está tudo bem com você também, certo?[n]Os velhos são muito fáceis.[n]E eles estão cheios de dinheiro![n][w][e]
 [s][vp 8 2 1 0 7 0]...O que? Cuidado com[n]Phantom Thieves? Mas isso é só uma piada, idiota![n][w][e]
 [s][vp 8 2 1 0 7 0]Tudo vai ficar bem, nada pode[n]dar errado. Vou ordenhar esse[n]velho até o último centavo![n][w][e]

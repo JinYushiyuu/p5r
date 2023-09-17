@@ -12,5 +12,5 @@
 [s][vp 8 0 0 5 65535 0]Mas por que a presidente do conselho estudantil?[n]O que tem a ver com o Diretor Kobayakawa?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Aluno surpreso]]
-[s][vp 8 0 0 6 5 0]Bem, Niijima-san é sua pupila.[n]Talvez seja por isso que ela[n]pediu a ela para lidar com isso.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 6 5 0]Bem, a Niijima-san é a favorita dele.[n]Talvez seja por isso que ele[n]pediu a ela para fazer isso.[n][f 1 3 65535][w][e]
 

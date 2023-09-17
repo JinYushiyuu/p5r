@@ -384,14 +384,14 @@
 
 [msg MSG_DVD09_done_1st [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1170 65535 0]Fiuuu, que mundo assustador...[n]eu nunca iria querer viver[n]em um lugar assim![n][f 1 3 65535][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Aposto que olhando para esta série[n]você convocou um pouco mais de[n][f 4 11 3][clr 26][f 4 12 3][clr 27].[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Aposto que assistindo essa série[n]você ganhou um pouco mais de[n][f 4 11 3][clr 26][f 4 12 3][clr 27].[n][f 1 3 65535][w][e]
 
 [msg MND_DVD09_done_1st_M]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez assistindo a esta série de TV eu ganhei[n]alguns [f 4 11 3][clr 26][f 4 12 3][clr 27].[n][f 1 3 65535][w][e]
 
 [msg MSG_DVD09_done_2nd [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1167 65535 0]Assistimos "The Running[n]Dead" até o último episódio...[n][f 1 3 65535][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Aposto que olhando para esta série[n]você convocou um pouco mais de[n][f 4 11 3][clr 26][f 4 12 3][clr 27].[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1167 65535 0]Assistimos "The Running Dead"[n] até o último episódio...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Aposto que assistindo essa série[n]você ganhou um pouco mais de[n][f 4 11 3][clr 26][f 4 12 3][clr 27].[n][f 1 3 65535][w][e]
 
 [msg MND_DVD09_done_2nd_M]
 [s][vp 8 2 0 0 65535 0]Assisti "The Running Dead"[n]até o último episódio...[n][f 1 3 65535][w][e]

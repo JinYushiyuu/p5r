@@ -6,7 +6,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Ele será capaz de distinguir se os crimes[n]descritos são verdadeiros ou não.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Espere. Você vai escrever de novo[n]tu, Ryuji? O último foi pelo menos[n]questionável...[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Espere. Você vai escrever de novo,[n] Ryuji? O último foi pelo menos[n]questionável...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Você deveria fazer isso, Yusuke![n]Dê a ela aquele toque artístico![n][f 1 3 65535][w][e]

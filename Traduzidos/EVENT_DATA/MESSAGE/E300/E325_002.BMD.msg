@@ -6,8 +6,8 @@
 
 [msg MSG_002_0_0 [Voz de outra sombra]]
 [s][vp 8 0 0 3 65535 0]OUTRO DETECTADO![n]ALERTA MÁXIMO![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 4 65535 0]ELES SÃO DOIS![n]DIVIDA-OS E PERSEGUE-OS![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 4 65535 0]ELES SÃO DOIS![n]DIVIDÃO-SE E PEGUE-OS![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Voz da sombra]]
-[s][vp 8 0 0 5 65535 0]INTRUDERS DETECTADOS![n]INICIAR PROTOCOLO DE RASTREAMENTO![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 5 65535 0]INTRUSOS DETECTADOS![n]INICIAR PROTOCOLO DE RASTREAMENTO![n][f 1 3 65535][w][e]
 

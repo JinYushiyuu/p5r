@@ -107,7 +107,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Então eu trouxe alguns feijões para você.[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Morgana]]
-[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]B-Beans?[n][f 1 3 65535][w][e]
+[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]F-Feijões?[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Também havia muitas coisas[n]estranhas, então[n]recebemos um pouco de tudo de você.[n][f 1 3 65535][w][e]

@@ -2,13 +2,13 @@
 [s][f 5 14]Ei, o que você acha que devemos fazer[n]sobre a viagem para a praia?[n][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]
-[s][f 5 14]Você acha que ele[n]poderá participar tão cedo?[n][w][e]
+[s][f 5 14]Você acha que ela[n]poderá participar tão cedo?[n][w][e]
 
 [msg MSG_002_0_0 [Ann]]
-[s][f 5 14]Bem, ele realmente começou a falar muito[n]mais.[n][w][e]
+[s][f 5 14]Bem, ela realmente começou a falar muito[n]mais.[n][w][e]
 
 [msg MSG_003_0_0 [Makoto]]
-[s][f 5 14]Ele fez muitos progressos,[n]se considerarmos em que estado[n]ele estava no começo.[n][w][e]
+[s][f 5 14]Ela fez muitos progressos,[n]se considerarmos em que estado[n]ele estava no começo.[n][w][e]
 
 [msg MSG_004_0_0 [Yusuke]]
 [s][f 5 14]O que você diz, Futaba? Você acha que[n]poderia fazer isso, talvez amanhã?[n][w][e]

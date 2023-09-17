@@ -1221,7 +1221,7 @@
 
 [msg MSG_302_0_0 [Prof. Inui]]
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37102 65535 0]Eu tenho pescado[n]ultimamente, embora seja apenas[n]pesca ocasional no lago.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eu não vou pescar no mar por causa de[n]enjôo. Muitas saudações ao[n]meu sonho de ser marinheiro.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Não consigo ir pescar no mar porque fico enjoado[n]facilmente.Lá se vai o meu sonho de[n]ser marinheiro.[n][f 1 3 65535][w][e]
 
 [msg MSG_303_0_0 [Prof. Inui]]
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh sim. Quando você diz "navegar[n]para o mar aberto", sua mente[n]imediatamente vai para os piratas.[n][f 1 3 65535][w][e]

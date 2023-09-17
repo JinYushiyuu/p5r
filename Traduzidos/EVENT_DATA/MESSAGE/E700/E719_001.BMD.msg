@@ -35,13 +35,13 @@
 [s][vp 8 0 0 0 7 0]Economize seu fôlego para quando for eleito![n]...SE você for eleito![n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Yoshida]]
-[s][bup 0 112 1 0 0][f 4 10 65535 0 0][vp 8 2 0 20030 65535 0]Obrigada. Isso é tudo por hoje.[n][f 1 3 65535][w][e]
+[s][bup 0 112 1 0 0][f 4 10 65535 0 0][vp 8 2 0 20030 65535 0]Obrigado. Isso é tudo por hoje.[n][f 1 3 65535][w][e]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][vp 8 0 0 0 65535 0]Bem, o que você achou[n]do meu discurso?[n][f 1 3 65535][w][e]
 
 [sel SEL_011_0_0 top]
 [s]"O interesse comum"?[e]
-[s]Eu não me lembro muito.[e]
-[s]Bom, os barulhos...[e]
+[s]Eu não me lembro muito bem.[e]
+[s]Bom, as provocações...[e]
 
 [msg MSG_012_0_0 [Yoshida]]
 [s][bup 0 112 1 0 0][f 4 10 65535 0 0][vp 8 2 0 20045 65535 0]De fato. Você pensa como eu?[n][f 1 3 65535][w][e]
@@ -57,12 +57,12 @@
 
 [msg MSG_016_0_0 [Yoshida]]
 [s][bup 0 112 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Porém, às vezes acontece que no[n]público há alguém com[n]uma opinião diferente da minha.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles dizem que eu deveria pensar em ser[n]eleito antes de me preocupar[n]com os outros... Você concorda?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles dizem que eu deveria pensar em ser[n]eleito antes de me preocupar[n]com os outros... Você concorda?[n][f 1 3 65535][w][e] 
 
 [sel SEL_017_0_0 top]
-[s]Ele tem meu apoio.[e]
+[s]Você tem meu apoio.[e]
 [s]Sim, eu concordo com eles.[e]
-[s]Ele não será eleito?[e]
+[s]Você não vai se eleger?[e]
 
 [msg MSG_018_0_0 [Yoshida]]
 [s][bup 0 112 1 0 0][f 4 10 65535 0 0][vp 8 2 0 20030 65535 0]Obrigada. É encorajador saber[n]que minha mensagem conseguiu[n]deixá-lo com algo.[n][f 1 3 65535][w][e]

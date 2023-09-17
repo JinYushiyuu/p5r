@@ -121,7 +121,7 @@
 [msg TV_NEWS_0421_000_00 [Locutor]]
 [s]As investigações[n]sobre o descarrilamento continuam.[n][w][e]
 [s]Numerosos[n]incidentes semelhantes ocorreram[n]nos últimos dias.[n][w][e]
-[s]Em nenhum caso as pessoas envolvidas[n]apresentaram[n]previamente[n]alertas ou sintomas.[n][w][e]
+[s]Em nenhum caso as pessoas envolvidas[n]apresentaram previamente[n]alertas ou sintomas.[n][w][e]
 [s]A polícia não divulgou[n]declarações sobre[n]as semelhanças, mas…[n][w][e]
 
 [msg TV_NEWS_0421_100_00 [Morgana]]

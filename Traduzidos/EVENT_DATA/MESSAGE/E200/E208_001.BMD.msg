@@ -112,7 +112,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]Selecionando artistas talentosos, mas[n]problemáticos, encontro muitos[n]alunos promissores para roubar suas ideias...[n][f 1 3 65535][w][e]
 
 [msg MSG_041_2_0 [Sombra de Madarame]]
-[s][bup 0 203 100 0 0][f 4 10 65535 0 0][vp 8 0 0 69 65535 0]Afinal, roubar o futuro de[n]crianças que não podem se defender[n]é muito mais fácil.[n][f 1 3 65535][w][e]
+[s][bup 0 203 100 0 0][f 4 10 65535 0 0][vp 8 0 0 69 65535 0]Afinal, roubar o futuro de crianças que[n] não podem se defender é muito mais fácil.[n][f 1 3 65535][w][e]
 
 [msg MSG_041_4_0 [Yusuke]]
 [s][bup 0 5 5 2 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Não acredito...[n][f 1 3 65535][w][e]

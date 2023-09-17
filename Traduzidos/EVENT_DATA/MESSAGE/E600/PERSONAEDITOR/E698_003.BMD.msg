@@ -584,11 +584,11 @@
 [msg MSG_147_0_0 [Calouro indiferente]]
 [s][vp 8 2 0 0 4 0]Ah, depois de amanhã é a grande limpeza. Minha[n]classe vai para o lado oposto do Parque[n]Inokashira. Ugh...[n][f 1 3 65535][w][e]
 
-[msg MSG_148_0_0 [Calouro condescendente]]
+[msg MSG_148_0_0 [Calouro do Primeiro Ano]]
 [s][vp 8 0 0 0 5 0]Mal posso esperar.[n]O aluno com[n]bolsa está no meu grupo...![n][f 1 3 65535][w][e]
 
 [msg MSG_149_0_0 [Calouro indiferente]]
 [s][vp 8 0 0 0 4 0]Huh? E aí? Ele é seu tipo ou algo assim?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]Em todo caso, é uma pena. Eu[n]ouvi dizer que alunos modelo são[n]isentos. Não é justo, não é?[n][f 1 3 65535][w][e]
-[s][f 1 5]Calouro condescendente [vp 8 0 0 0 5 0]Mas que...[n]Então vou ficar sozinho com os alunos mais[n]velhos? Que chatice... Eu não quero fazer isso...[n][f 1 3 65535][w][e]
+[s][f 1 5]Calouro do Primeiro Ano [n][vp 8 0 0 0 5 0]Mas que...[n]Então vou ficar sozinho com os alunos mais[n]velhos? Que chatice... Eu não quero fazer isso...[n][f 1 3 65535][w][e]
 

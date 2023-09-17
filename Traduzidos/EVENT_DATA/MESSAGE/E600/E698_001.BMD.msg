@@ -211,7 +211,7 @@
 
 [msg MSG_049_0_0 [Estudante quieto]]
 [s][vp 8 0 0 4 5 0]Agora não se anime muito[n]porque correu bem para você.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 5 5 0]Ter um pouco de [f 4 11 0][clr 26][f 4 12 0][n][clr 27] não é suficiente. Para se adaptar[n]rapidamente a qualquer situação, você precisa de[n][f 4 11 2][clr 26][f 4 12 2][clr 27].[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 5 5 0]Ter um pouco de [f 4 11 0][clr 26][f 4 12 0][n][clr 27] não é suficiente. Para se adaptar rapidamente a qualquer[n] situação, você precisa de[n][f 4 11 2][clr 26][f 4 12 2][clr 27].[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 6 5 0]Sem contar [f 4 11 4][clr 26][f 4 12 4][clr 27] por ser[n]amigável e [f 4 11 3][clr 26][f 4 12 3][clr 27] por ser[n]honesto e direto.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 7 5 0]E [f 4 11 1][clr 26][f 4 12 1][clr 27], para tornar[n]atraente aos olhos das pessoas.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 8 5 0]Suas qualidades dizem[n]muito sobre você, então é[n]importante melhorar a cada dia.[n][f 1 3 65535][w][e]

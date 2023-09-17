@@ -509,7 +509,7 @@
 [s]Você pode me deixar ir?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_12]
-[s]Odiar! Perguntar uma coisa dessas faz você[n]parecer um velho peido![n][w][e]
+[s]Odiar! Perguntar uma coisa dessas faz você[n]parecer um velho![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_13]
 [s]Você está tentando provar que estou errado?[n]É meio irritante...[n][w][e]

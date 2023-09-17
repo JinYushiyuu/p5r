@@ -37,6 +37,6 @@
 [s][f 5 14][f 5 15]Vamos conversar mais no esconderijo, ok?[n][w][e]
 
 [msg MSG_009_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1164 65535 0]Esse cara deixou[n]Lady Ann mais gostosa do que o normal.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1164 65535 0]Esse cara deixou[n]Lady Ann mais aquecida do que o normal.[n][f 1 3 65535][w][e]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Vamos, [f 4 2].[n]Vamos tentar despertar[n]o coração dele![n][f 1 3 65535][w][e]
 

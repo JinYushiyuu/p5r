@@ -17,7 +17,7 @@
 [msg MSG_005_0_0 [Kamoshida]]
 [s][bup 0 202 3 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Aconselho você a ficar longe[n]de caras como ele, se tiver alguma[n]preocupação com seu futuro.[n][f 1 3 65535][w][e]
 [s][bup 0 202 0 0 0][f 4 10 65535 0 0][f 4 24 0 7 6 59 5 100][vp 8 0 0 8 65535 0]Lembra da nossa discussão? Tem[n]alunos aqui com quem[n]você não quer mexer...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]E isso aqui está no topo da lista.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Este aqui está no topo da lista.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 4 0]Oh, o novo aluno[n]delinquente...?[n][f 1 3 65535][w][e]

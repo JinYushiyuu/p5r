@@ -52,7 +52,7 @@
 [msg MSG_017_0_0 [Mishima]]
 [s][bup 0 111 202 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Cara, o parque está uma bagunça...[n]Qualquer coisa menos as crianças...[n]alguns adultos inúteis fizeram isso.[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Estudante maduro do terceiro ano]]
+[msg MSG_018_0_0 [Estudante do terceiro ano]]
 [s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 19 0]Se você não se importa, pode me dar[n]a rolha dessa garrafa?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Mishima]]
@@ -61,7 +61,7 @@
 [msg MSG_020_0_0 [Mishima]]
 [s][bup 0 111 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Oh! Você os coleciona?[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Estudante maduro do terceiro ano]]
+[msg MSG_021_0_0 [Estudante  do terceiro ano]]
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 19 0]Ah... Não exatamente.[n][f 1 3 65535][w][e]
 [s][bup 0 7 201 65535 0][f 4 10 65535 0 0][f 4 24 0 19 6 36 5 100][vp 8 0 0 23 19 0]As empresas de reciclagem[n]os coletam e os convertem[n]em em frascos para vacinas.[n][f 1 3 65535][w][e]
 
@@ -71,13 +71,13 @@
 [msg MSG_023_0_0 [Mishima]]
 [s][bup 0 111 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Bem, isso soa como uma ótima maneira[n]de trazer mais justiça[n]ao mundo![n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Estudante maduro do terceiro ano]]
+[msg MSG_024_0_0 [Estudante  do terceiro ano]]
 [s][bup 0 7 203 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 19 0]...Desculpe, mas não tenho certeza se[n]segui você.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Maruki]]
 [s][bup 0 216 700 0 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Antes de adicionar o taro[n]ao pote, deve-se esfregar com[n]sal para reduzir a viscosidade...[n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Estudante lisonjeiro]]
+[msg MSG_026_0_0 [Estudante bajuladora]]
 [s][vp 8 0 0 28 12 0]Oooh, ela é uma cozinheira incrível![n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Maruki]]

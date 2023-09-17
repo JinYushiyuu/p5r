@@ -9,7 +9,7 @@
 
 [msg MSG_002_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Está tudo bem na escola.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Estou mais preocupado com você,[n]irmã. Você está cansado? Talvez[n]você tenha deficiência de sódio.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Estou preocupada com você,[n]irmã. Você está cansada? Talvez[n]Você provavelmente está com falta de sódio.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Sae]]
 [s][bup 0 105 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Você diz?[n][f 1 3 65535][w][e]

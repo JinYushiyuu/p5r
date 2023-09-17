@@ -5,7 +5,7 @@
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, como você está? Você está começando a lembrar[n]como tratar os vários tipos de grãos?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_5_0 [Sojiro]]
-[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Três fatores determinam[n]o sabor final de uma[n]xícara de[n]café: moer, calor, e tempo.[n][f 1 3 65535][w][e]
+[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Três fatores determinam [n]o sabor final de uma[n]xícara de café: moer, calor, e tempo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos começar com a moagem.[n]Para os sifões que temos aqui,[n]precisamos de um grão médio-fino.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_7_0 [Sojiro]]

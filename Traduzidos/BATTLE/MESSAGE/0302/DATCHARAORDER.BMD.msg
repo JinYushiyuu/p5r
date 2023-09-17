@@ -12,7 +12,7 @@
 [s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1031 0 2]Temos que enchê-lo com tinta, hein?[n][w][e]
 
 [msg charaorder_Reiji_01 [Ryuji]]
-[s][vp 8 0 2 1072 0 2][f 4 10 65535 0 0]Eu vou quando você quer, cara![n][w][e]
+[s][vp 8 0 2 1072 0 2][f 4 10 65535 0 0]Eu vou quando você quiser, cara![n][w][e]
 
 [msg charaorder_Morgana_00 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1033 0 3]Vamos pintá-lo com tinta![n][w][e]
